@@ -1,0 +1,2163 @@
+,origin,age,color,sex,import_type,sire,dam,dam_sire,horse_id
+0,IRE,Unknown,Bay,Gelding,ISG,Holy Roman Emperor,Dance Avenue,Sadler's Wells,S336
+1,AUS,Unknown,Bay,Gelding,PPG,Mossman,Inca Lagoon,Hussonet,A257
+2,NZ,Unknown,Chestnut,Gelding,PPG,Sakhee's Secret,Grove Nymph,Grosvenor,P436
+3,AUS,Unknown,Bay,Gelding,PPG,Dubawi,Seto Chiffon,Barathea,P215
+4,FR,Unknown,Bay,Gelding,PP,Arcano,Celestina Agostino,Street Cry,V181
+5,IRE,Unknown,Bay,Gelding,PP,Holy Roman Emperor,Ripalong,Revoque,N012
+6,AUS,Unknown,Bay,Gelding,PP,Brackenbury,Super Sovereign,Super Jet,T420
+7,AUS,Unknown,Bay,Gelding,PPG,Exceed And Excel,Wood Lane,Sadler's Wells,T278
+8,AUS,Unknown,Bay,Gelding,PPG,Fastnet Rock,Gayika,Galileo,T007
+9,NZ,Unknown,Chestnut,Gelding,PP,Traditionally,Tralae,Snippets,L013
+10,FR,Unknown,Bay,Gelding,PP,Hold That Tiger,Sapfo,Peintre Celebre,T142
+11,NZ,Unknown,Chestnut,Gelding,PP,Conatus,Princess Zanzibar,Royal Academy,S124
+12,NZ,Unknown,Bay,Gelding,PPG,Dubawi,Glamouraad,Volksraad,S059
+13,AUS,Unknown,Bay,Gelding,PP,Valixir,Suzy Rocks,Rock Of Gibraltar,T210
+14,NZ,Unknown,Brown,Gelding,PPG,Pentire,Nikki's Bride,O'Reilly,S136
+15,AUS,Unknown,Bay,Gelding,PPG,Dubawi,Babassu,Desert King,P257
+16,AUS,Unknown,Bay,Gelding,PPG,Purrealist,Gemstone Peak,Shovhog,S324
+17,NZ,Unknown,Grey,Gelding,PP,Mastercraftsman,Gold Class,Gold Brose,V133
+18,AUS,Unknown,Bay,Gelding,PP,Fastnet Rock,Lucky Diva,Perugino,T299
+19,NZ,Unknown,Brown,Gelding,PPG,Savabeel,Run Brony Run,Redoute's Choice,V040
+20,FR,Unknown,Bay,Gelding,PP,Hurricane Cat,Realdad,Victory Speech,T094
+21,AUS,Unknown,Bay,Gelding,PPG,Churchill Downs,Regal Contessa,King Of Kings,P158
+22,AUS,Unknown,Bay,Gelding,PPG,Holy Roman Emperor,Coeur Dehere,Dehere,S178
+23,GB,Unknown,Bay,Gelding,PP,Dutch Art,Tesary,Danehill,N318
+24,NZ,Unknown,Chestnut,Gelding,PP,No Excuse Needed,Port Merion,O'Reilly,N427
+25,AUS,Unknown,Chestnut,Gelding,ISG,Encosta de Lago,Succeeding,Flying Spur,M327
+26,AUS,Unknown,Chestnut,Gelding,PPG,Akhadan,Ambolene,Bellotto,S054
+27,AUS,Unknown,Brown,Gelding,PPG,Good Journey,La Bayadere,Danehill Dancer,N443
+28,NZ,Unknown,Bay,Gelding,PP,Mossman,Oh So Royal,Danzero,S299
+29,AUS,Unknown,Chestnut,Gelding,PPG,Choisir,Polite,Elusive Quality,T241
+30,NZ,Unknown,Bay,Gelding,PPG,Darci Brahma,Diamond Deck,Octagonal,A077
+31,AUS,Unknown,Chestnut,Gelding,PPG,Bon Hoffa,Rondalla,Strategic,T063
+32,NZ,Unknown,Bay,Gelding,PPG,Zabeel,Belleville,Danehill,N140
+33,GB,Unknown,Bay,Gelding,PP,Teofilo,Late Night,Groom Dancer,S310
+34,USA,Unknown,Dark Bay,Brown,PP,War Front,Black Speck,Arch,S152
+35,AUS,Unknown,Brown,Gelding,ISG,Sebring,Spirit Of The Nile,Encosta de Lago,T337
+36,GB,7,Bay,Gelding,ISG,Fastnet Rock,Tashzara,Intikhab,V315
+37,GB,Unknown,Bay,Gelding,PP,Excellent Art,Dolcetto,Danehill Dancer,A112
+38,NZ,Unknown,Bay,Gelding,PP,One Cool Cat,Calypso Miss,Elnadim,P280
+39,NZ,Unknown,Bay,Gelding,PPG,Bachelor Duke,Palmy,Danehill,P254
+40,GB,Unknown,Bay,Gelding,PP,Storming Home,Towaahi,Caerleon,M401
+41,AUS,Unknown,Bay,Gelding,PP,Oratorio,Asima,Rory's Jester,S168
+42,NZ,9,Brown,Gelding,PPG,Savabeel,Haberdashery,Pins,P421
+43,AUS,6,Bay,Gelding,PPG,Toorak Toff,Lady's Light,Toolighttoquit,V225
+44,IRE,Unknown,Grey,Gelding,PPG,Dark Angel,Shamah,Unfuwain,P268
+45,IRE,Unknown,Bay,Gelding,PP,Shamardal,Love Excelling,Polish Precedent,N195
+46,AUS,Unknown,Bay,Gelding,PPG,Onemorenomore,Fuwa,Encosta de Lago,S428
+47,AUS,6,Bay,Gelding,PP,Myboycharlie,Aloha Charm,Marauding,A251
+48,AUS,Unknown,Bay,Gelding,PPG,Bernardini,Tears Roll Down,Fusaichi Pegasus,S055
+49,AUS,Unknown,Bay,Gelding,PP,Street Hero,Black Widow,Rancho Ruler,T003
+50,NZ,Unknown,Brown,Gelding,PPG,Falkirk,Delovely,Canny Lad,S022
+51,AUS,Unknown,Bay,Gelding,VIS,Mossman,Eighth Wonder,Danehill,S620
+52,AUS,Unknown,Bay,Gelding,PPG,Snitzel,Trois Couleurs,Carnegie,T282
+53,FR,8,Bay,Gelding,PP,King's Best,Wings Of Glory,Monsun,V192
+54,AUS,6,Bay,Gelding,PPG,Smart Missile,Dashie Diva,Dash For Cash,A088
+55,AUS,6,Bay,Gelding,PPG,Savabeel,Sotela,Commands,A278
+56,AUS,Unknown,Brown,Gelding,PPG,Dubleo,Dare To Defy,Commands,T065
+57,AUS,Unknown,Bay,Gelding,PPG,Jezadane,Irish Rainbow,Spectrum,P055
+58,IRE,Unknown,Chestnut,Gelding,PP,Excellent Art,Romancing,Dr Devious,S149
+59,AUS,Unknown,Chestnut,Gelding,PP,Stratum,Eckland,Spinning World,P103
+60,NZ,Unknown,Bay,Gelding,PPG,Darci Brahma,Gold Class,Gold Brose,S086
+61,AUS,Unknown,Chestnut,Gelding,PP,Hussonet,Loftily,Shovhog,N324
+62,NZ,Unknown,Bay,Brown,PP,Towkay,Jabeske,Prized,P072
+63,GB,Unknown,Bay,Gelding,PP,Invincible Spirit,Agathe Rare,Sadler's Wells,T095
+64,IRE,Unknown,Bay,Gelding,PPG,Fast Company,Gloved Hand,Royal Applause,T154
+65,AUS,Unknown,Bay,Gelding,PPG,Manhattan Rain,Valadon,Woodman,S321
+66,AUS,Unknown,Chestnut,Gelding,PP,Trotamondo,Elegant Angela,Perugino,T164
+67,AUS,Unknown,Bay,Gelding,PP,Tale Of The Cat,Royal Season,Royal Academy,K119
+68,FR,Unknown,Bay,Gelding,PP,Siyouni,Sagalix,Linamix,V290
+69,AUS,Unknown,Bay,Gelding,ISG,Starcraft,Biancalaura,Belong To Me,A318
+70,AUS,Unknown,Bay,Gelding,ISG,Fastnet Rock,Permissive,Snippets,S233
+71,AUS,Unknown,Brown,Gelding,PPG,Commands,Selwan,Mt Livermore,P214
+72,NZ,Unknown,Bay,Gelding,PPG,Rip Van Winkle,La Grandezza,Flying Spur,V160
+73,AUS,Unknown,Bay,Gelding,PPG,Break The Vault,Bermuda Rose,Last Tycoon,S405
+74,IRE,Unknown,Bay,Gelding,PP,King's Best,Alikhlas,Lahib,L408
+75,NZ,Unknown,Bay,Gelding,PPG,King's Chapel,River Chant,Danasinga,M086
+76,USA,Unknown,Brown,Gelding,PP,Petionville,Purely Excessive,In Excess,M071
+77,NZ,Unknown,Bay,Gelding,VIS,Savabeel,Celebes Sea,Shinko King,V628
+78,AUS,Unknown,Bay,Gelding,PPG,Street Cry,Shania Dane,Danehill,S325
+79,FR,Unknown,Bay,Gelding,PP,Observatory,Sachet,Royal Academy,S189
+80,AUS,Unknown,Bay,Gelding,PPG,Flying Spur,Chenar,Just Awesome,N027
+81,IRE,Unknown,Brown,Horse,VIS,New Approach,Uryale,Kendor,A612
+82,NZ,Unknown,Chestnut,Gelding,PP,Brilliance,Gold And Red,Gold Brose,S123
+83,GB,Unknown,Bay,Gelding,PP,Elnadim,T G's Girl,Selkirk,S144
+84,AUS,Unknown,Bay,Gelding,PPG,Sebring,Midnight Queen,Carnegie,V163
+85,NZ,Unknown,Bay,Gelding,PP,Bel Danoro,Marendez,Marquetry,V016
+86,AUS,Unknown,Bay,Gelding,PPG,Danzero,Supernal,Chief's Crown,P256
+87,AUS,Unknown,Bay,Gelding,PP,Danewin,Casavana,Success Express,M405
+88,FR,Unknown,Bay,Gelding,PP,Naaqoos,Nateja,Diesis,S192
+89,AUS,Unknown,Bay,Gelding,ISG,Encosta de Lago,Pretty Proud,Mr Greeley,T328
+90,NZ,Unknown,Bay,Gelding,PPG,Darci Brahma,Surreptitiously,Machiavellian,V099
+91,IRE,Unknown,Bay,Gelding,PP,Kheleyf,Rada,Danehill,P153
+92,NZ,Unknown,Brown,Gelding,PPG,O'Reilly,Pyjamas,Centaine,N166
+93,IRE,Unknown,Bay,Gelding,PPG,Danehill Dancer,Magnolia Lane,Sadler's Wells,T105
+94,AUS,Unknown,Bay,Gelding,PPG,Sepoy,Dance On Air,Perugino,A106
+95,IRE,Unknown,Bay,Brown,PP,Holy Roman Emperor,Souffle,Zafonic,T110
+96,NZ,Unknown,Chestnut,Gelding,PPG,Strategic Image,Lass Attack,Seven Figures,P138
+97,IRE,Unknown,Brown,Gelding,PP,Chineur,Smart Starprincess,Soviet Star,S046
+98,IRE,Unknown,Brown,Gelding,PP,Holy Roman Emperor,Humble And Proud,Pivotal,T147
+99,AUS,Unknown,Brown,Gelding,PPG,Lucky Sabre,Bermuda Triangle,Euclase,P449
+100,NZ,Unknown,Bay,Gelding,PPG,Faltaat,Comic Song,Sadler's Wells,M335
+101,AUS,Unknown,Bay,Gelding,PP,Not A Single Doubt,Apocrypha,Octagonal,T375
+102,AUS,Unknown,Grey,Gelding,PPG,Dane Shadow,Vexed,Ferocity,V085
+103,AUS,Unknown,Bay,Gelding,PP,Lion Heart,Dame de Paree,Danzero,P302
+104,NZ,Unknown,Bay,Gelding,PPG,Darci Brahma,Lady Classique,Stravinsky,P431
+105,AUS,Unknown,Chestnut,Gelding,PPG,Exceed And Excel,Investment Grade,High Yield,S287
+106,NZ,Unknown,Chestnut,Gelding,PP,Thewayyouare,Alleyrun,Volksraad,V269
+107,AUS,Unknown,Bay,Gelding,PP,Snitzel,At Ease,Canny Lad,A171
+108,NZ,Unknown,Bay,Gelding,PPG,Keeper,Savannah Swift,Centaine,N061
+109,NZ,Unknown,Bay,Gelding,PPG,Guillotine,Alleyrun,Volksraad,T138
+110,AUS,Unknown,Bay,Gelding,PP,Zabeel,Danehill Princess,Danehill,A141
+111,NZ,Unknown,Bay,Gelding,PPG,One Cool Cat,Heart Set,St Covet,N069
+112,GB,Unknown,Bay,Gelding,ISG,Excellent Art,Cheap Thrills,Bertolini,V323
+113,NZ,Unknown,Brown,Gelding,PP,Scaredee Cat,Demerara,Danasinga,P070
+114,AUS,Unknown,Chestnut,Gelding,PPG,Zeditave,Beam,Scenic,N208
+115,NZ,Unknown,Bay,Gelding,PP,Postponed,Coimbra,Mossman,V093
+116,AUS,Unknown,Bay,Gelding,PPG,Choisir,Absolute Dream,Canny Lad,V283
+117,GB,Unknown,Bay,Gelding,PP,Bertolini,Cavernista,Lion Cavern,N381
+118,USA,Unknown,Chestnut,Gelding,PP,Coast Guard,Marquet Formula,Marquetry,V423
+119,AUS,Unknown,Bay,Gelding,PPG,Encosta de Lago,Velasco,Flying Spur,S062
+120,AUS,Unknown,Brown,Gelding,PP,Shinzig,Mota,At Talaq,T002
+121,AUS,Unknown,Bay,Gelding,PP,Haradasun,Jersey City,Encosta de Lago,T160
+122,ITY,Unknown,Bay,Gelding,PP,King Charlemagne,Marie Camargo,Kyllachy,T414
+123,AUS,Unknown,Brown,Gelding,PPG,Henny Hughes,Crystal Moon,Danewin,P111
+124,USA,Unknown,Grey,Gelding,PP,Mizzen Mast,Palisade,Gone West,T148
+125,NZ,Unknown,Bay,Gelding,PP,No Excuse Needed,Bible Class,Volksraad,P331
+126,NZ,Unknown,Bay,Gelding,PPG,Iffraaj,Skimmio,O'Reilly,V398
+127,AUS,6,Bay,Gelding,PPG,Star Witness,Pearl Of The Sea,Fastnet Rock,V367
+128,NZ,Unknown,Bay,Gelding,PP,Coats Choice,Yeogor Lass,Sir Chromar,N407
+129,AUS,Unknown,Bay,Gelding,PPG,Fusaichi Pegasus,Dream Leica,Maroof,K123
+130,AUS,Unknown,Bay,Gelding,PP,Musket,Duchess Talaria,Marwina,T001
+131,AUS,6,Bay,Gelding,PP,Medaglia d'Oro,Pouter,Dubawi,A202
+132,AUS,Unknown,Chestnut,Gelding,PPG,Dubawi,Mlada,Danasinga,S445
+133,NZ,Unknown,Bay,Gelding,PP,Pins,Porotene Express,Danasinga,P387
+134,NZ,Unknown,Bay,Gelding,VIS,Elusive City,Ellington,Express Duke,T601
+135,IRE,Unknown,Bay,Gelding,PPG,Exceed And Excel,Blue Parade,Singspiel,P041
+136,AUS,Unknown,Bay,Gelding,PP,Time Thief,Gypsy Mai,Our Maizcay,T403
+137,IRE,Unknown,Chestnut,Gelding,PP,Dandy Man,Piece Unique,Barathea,A248
+138,AUS,Unknown,Chestnut,Gelding,PP,Written Tycoon,Dellwood Diva,General Nediym,V302
+139,AUS,6,Bay,Gelding,PP,Charge Forward,Cortina Gal,Flying Spur,A293
+140,NZ,Unknown,Chestnut,Gelding,PPG,Mr Nancho,Kathleen Grace,Garcia,P434
+141,AUS,Unknown,Bay,Gelding,PP,Break The Vault,Fonteyn Star,Langfuhr,P374
+142,NZ,Unknown,Brown,Gelding,PPG,Le Bec Fin,Magic Eclipse,Trubisc,M193
+143,IRE,9,Bay,Gelding,PP,Duke Of Marmalade,Starship,Galileo,T098
+144,AUS,Unknown,Bay,Gelding,PPG,Fastnet Rock,Boisterous Lady,Rivotious,S240
+145,NZ,Unknown,Bay,Gelding,PPG,Handsome Ransom,Nakke,Defensive Play,N055
+146,AUS,Unknown,Chestnut,Gelding,PPG,Written Tycoon,Sun 'N' Soda,Desert Sun,A018
+147,NZ,Unknown,Bay,Gelding,PPG,Castledale,Gulfstream,Yachtie,A045
+148,AUS,Unknown,Bay,Gelding,PP,Danehill Dancer,Mystifying,Last Tycoon,M366
+149,AUS,Unknown,Bay,Gelding,PPG,Hinchinbrook,Kianben,Jan Murray,A008
+150,NZ,Unknown,Bay,Gelding,PPG,Stravinsky,Kruger Valley,Kaapstad,S270
+151,JPN,Unknown,Dark Bay,Gelding,PPG,Heart's Cry,Crime,Gulch,A019
+152,AUS,Unknown,Bay,Gelding,PPG,Fastnet Rock,Paint By Numbers,Peintre Celebre,V228
+153,AUS,8,Bay,Gelding,PP,Holy Roman Emperor,Rule The Waves,King's Best,A092
+154,AUS,Unknown,Bay,Gelding,PP,Fastnet Rock,Hummingbird,Galileo,V278
+155,GB,Unknown,Bay,Gelding,PP,Exceed And Excel,Aymara,Darshaan,M228
+156,AUS,6,Bay,Gelding,PP,Dash For Cash,Letter From France,Exceed And Excel,A168
+157,GB,Unknown,Bay,Gelding,VIS,Kyllachy,Demerger,Distant View,N604
+158,NZ,6,Bay,Gelding,PPG,Red Giant,Show Exhibit,Danehill,A086
+159,NZ,Unknown,Bay,Gelding,PPG,Dylan Thomas,Mon Beau Cheval,Montjeu,V025
+160,NZ,Unknown,Bay,Gelding,PPG,Patapan,Golan's Gift,Golan,P405
+161,NZ,Unknown,Bay,Gelding,PPG,Thorn Park,High Tune,High Chaparral,V044
+162,AUS,Unknown,Bay,Brown,PPG,Tycoon Ruler,Akordat,Danasinga,A034
+163,IRE,Unknown,Bay,Gelding,PP,Lilbourne Lad,Nisriyna,Intikhab,V246
+164,FR,Unknown,Bay,Gelding,PPG,Dutch Art,Bye Bold Aileen,Warning,T231
+165,IRE,Unknown,Bay,Gelding,PP,Daggers Drawn,Lear's Crown,Lear Fan,J061
+166,JPN,Unknown,Bay,Gelding,PPG,Smart Emblem,Makiba Beijin,Peking Ryuen,S006
+167,AUS,Unknown,Bay,Gelding,PPG,Street Cry,On Southbank,Festival Hall,M021
+168,AUS,Unknown,Bay,Gelding,PPG,Wanted,Emma Princess,Invincible Spirit,A107
+169,JPN,Unknown,Bay,Horse,VIS,Screen Hero,Mejiro Frances,Carnegie,V605
+170,NZ,Unknown,Chestnut,Gelding,PPG,Faltaat,La Bella Rouge,Green Perfume,P163
+171,AUS,Unknown,Bay,Gelding,PPG,Bernardini,Reviewed,Double Century,S283
+172,NZ,Unknown,Bay,Gelding,PPG,Falkirk,Tycoon Babe,Last Tycoon,P404
+173,NZ,Unknown,Bay,Gelding,PPG,Tavistock,Diversa,Danehill,V164
+174,IRE,Unknown,Bay,Gelding,PP,Oasis Dream,Rose Melody,Galileo,P117
+175,NZ,Unknown,Bay,Gelding,PP,Falkirk,Luscious Lass,Al Akbar,T227
+176,IRE,Unknown,Bay,Horse,VIS,High Chaparral,Polished Gem,Danehill,V611
+177,IRE,Unknown,Chestnut,Horse,VIS,Dubawi,Doors To Manual,Royal Academy,V636
+178,AUS,Unknown,Bay,Gelding,PPG,Jet Spur,Be Faithful,Last Tycoon,P054
+179,IRE,Unknown,Chestnut,Gelding,PP,Intense Focus,Kayak,Singspiel,T364
+180,AUS,Unknown,Brown,Gelding,PP,Foreplay,Homegrown,Snippets,P248
+181,NZ,Unknown,Bay,Gelding,PP,Ekraar,Pheroz Flight,Straight Strike,S357
+182,AUS,Unknown,Bay,Gelding,PPG,Fastnet Rock,Plastic Lady,Centaine,S023
+183,AUS,Unknown,Bay,Gelding,PPG,Bernardini,Sojustrememberthis,Flying Spur,P213
+184,IRE,Unknown,Grey,Gelding,PP,Aussie Rules,Secrete Marina,Mujadil,N119
+185,AUS,Unknown,Brown,Gelding,PP,Hussonet,San Century,Centaine,M353
+186,IRE,7,Bay,Gelding,PP,Arcano,Sassy Gal,King's Best,V407
+187,NZ,6,Grey,Gelding,PP,Iffraaj,Miranda Miss,Reset,A183
+188,AUS,Unknown,Bay,Brown,PPG,Beneteau,Isadora,Gold Fever,V059
+189,IRE,Unknown,Bay,Gelding,SG,Marju,Supportive,Nashamaa,L342
+190,AUS,Unknown,Bay,Gelding,PP,Duporth,Fortune Princess,Danehill,A136
+191,NZ,Unknown,Brown,Gelding,PP,Duporth,Flying Babe,Flying Spur,T202
+192,GB,Unknown,Chestnut,Gelding,PPG,Cadeaux Genereux,Meredith,Medicean,P354
+193,AUS,Unknown,Bay,Gelding,PPG,Tale Of The Cat,Macavelli Miss,Vettori,N300
+194,AUS,Unknown,Chestnut,Gelding,PP,Canny Lad,Oh Best Beloved,Elusive Quality,T296
+195,NZ,Unknown,Bay,Gelding,PPG,Coats Choice,Drizzle,Ski Captain,A122
+196,NZ,Unknown,Bay,Gelding,PPG,Teofilo,Speedos,Redoute's Choice,V295
+197,NZ,Unknown,Bay,Gelding,PP,Fully Fledged,I'llthinkaboutit,Howbaddouwantit,T431
+198,NZ,Unknown,Bay,Gelding,PPG,Savabeel,Mamma Rose,Thorn Park,T263
+199,IRE,Unknown,Bay,Horse,VIS,Fastnet Rock,Pride,Peintre Celebre,A617
+200,NZ,Unknown,Bay,Gelding,PPG,O'Reilly,Ever Clever,Centaine,T037
+201,IRE,Unknown,Bay,Gelding,PPG,Dylan Thomas,Princess Ellen,Tirol,T223
+202,IRE,Unknown,Chestnut,Gelding,VIS,North Light,Time Is Money,Gilded Time,V629
+203,NZ,Unknown,Bay,Gelding,PPG,Perfectly Ready,Regal Ash,Green Desert,P167
+204,NZ,Unknown,Bay,Gelding,PPG,No Excuse Needed,Forewarned,Volksraad,S091
+205,AUS,Unknown,Bay,Gelding,PP,Bel Esprit,Gypsy Marauder,Marauding,P100
+206,NZ,Unknown,Bay,Gelding,PPG,Castledale,Gulfstream,Yachtie,S013
+207,GB,Unknown,Bay,Gelding,PP,Paco Boy,Tereshkina,Sadler's Wells,A239
+208,AUS,Unknown,Bay,Gelding,PP,Jet Spur,Gold Lottey,Encosta de Lago,V217
+209,GB,Unknown,Bay,Gelding,ISG,Green Desert,Spritzeria,Bigstone,N331
+210,USA,Unknown,Bay,Horse,VIS,Lemon Drop Kid,Lynnwood Chase,Horse Chestnut,V619
+211,GB,Unknown,Bay,Gelding,PP,Hawk Wing,Savignano,Polish Precedent,K212
+212,IRE,Unknown,Bay,Gelding,PPG,Acclamation,Vintage Escape,Cyrano de Bergerac,S374
+213,NZ,Unknown,Bay,Gelding,PPG,Darci Brahma,Casual Chick,Casual Lies,A046
+214,AUS,Unknown,Bay,Gelding,PPG,Testa Rossa,Brackloon,Woodman,P450
+215,AUS,Unknown,Chestnut,Gelding,PPG,Happy Giggle,All That Glitters,Heroicity,P347
+216,NZ,7,Bay,Gelding,PP,Sufficient,Albacora,Lord Ballina,A098
+217,AUS,Unknown,Bay,Gelding,PP,Duporth,Snaps,Flying Spur,V412
+218,FR,Unknown,Bay,Horse,PP,Polan,High Zaff,High Chaparral,V167
+219,GB,Unknown,Chestnut,Gelding,ISG,Compton Place,Heliograph,Ishiguru,V313
+220,NZ,Unknown,Bay,Gelding,PPG,Pentire,Ladies Choice,Bahhare,T040
+221,NZ,9,Brown,Gelding,PP,Patapan,Victoria Bay,Kingdom Bay,T076
+222,IRE,Unknown,Bay,Gelding,PP,Elusive City,Atlantic Slew,Helissio,T285
+223,AUS,Unknown,Bay,Gelding,PPG,Stratum,Belle Famille,Linamix,T086
+224,AUS,Unknown,Bay,Gelding,PP,High Chaparral,Satin Robes,Ne Coupez Pas,V132
+225,NZ,Unknown,Chestnut,Gelding,PP,Perfectly Ready,Rattle,Stravinsky,T389
+226,IRE,Unknown,Bay,Gelding,VIS,Dubai Destination,Pastorale,Nureyev,T603
+227,AUS,Unknown,Bay,Gelding,PPG,Not A Single Doubt,Evening Pleasures,Dehere,V011
+228,AUS,Unknown,Bay,Gelding,PPG,Teofilo,Ave Amina,King's Best,V106
+229,AUS,Unknown,Bay,Gelding,PPG,Not A Single Doubt,Full Bloom,Snippets,V144
+230,AUS,Unknown,Bay,Gelding,PPG,Starcraft,Freestyle,Snippets,V092
+231,AUS,Unknown,Brown,Gelding,PPG,Beneteau,Forest City Girl,Deputy Minister,V209
+232,NZ,6,Bay,Gelding,PPG,Stravinsky,Inzabeel,Zabeel,V401
+233,IRE,Unknown,Bay,Gelding,PP,Intense Focus,Tranquil Sky,Intikhab,V404
+234,AUS,Unknown,Brown,Gelding,PPG,Seidnazar,Normandy Coast,Brave Salute,N288
+235,FR,7,Bay,Gelding,PP,Myboycharlie,Tehamana,Pleasantly Perfect,V368
+236,AUS,Unknown,Brown,Gelding,PPG,Commands,Kennilworth,Viscount,A076
+237,NZ,Unknown,Bay,Gelding,PP,Thorn Park,Monte Karlo,Montjeu,T401
+238,AUS,Unknown,Bay,Gelding,PPG,Nadeem,Fine Return,High Yield,N250
+239,NZ,Unknown,Bay,Gelding,PPG,Red Giant,Make Me Strong,Danehill,V229
+240,NZ,6,Bay,Gelding,PPG,Savabeel,Kim Possible,Volksraad,A152
+241,IRE,Unknown,Bay,Gelding,PP,Fastnet Rock,Starship,Galileo,A113
+242,NZ,Unknown,Bay,Gelding,PPG,Ishiguru,South Pacific,Stark South,K318
+243,AUS,Unknown,Chestnut,Gelding,PPG,Starcraft,Catalina Winemixer,Stratum,V422
+244,GER,Unknown,Bay,Gelding,PP,Caradak,Dyanamore,Mt Livermore,A233
+245,NZ,Unknown,Chestnut,Gelding,PP,Perfectly Ready,Penny Arcade,Straussbrook,S125
+246,IRE,Unknown,Bay,Gelding,PP,Art Connoisseur,A L'Aube,Selkirk,S216
+247,FR,Unknown,Grey,Gelding,PP,Kahyasi,Mikalia,Kaldoun,N446
+248,AUS,8,Brown,Gelding,PP,Domesday,Tintoretto,Commands,T349
+249,NZ,Unknown,Grey,Gelding,PP,Any Suggestion,Cross Examine,Cape Cross,V014
+250,NZ,Unknown,Bay,Gelding,PPG,Spartacus,Spanish Melody,O'Reilly,N076
+251,NZ,Unknown,Chestnut,Gelding,PP,Iffraaj,Swan Lake,Green Perfume,V226
+252,USA,Unknown,Brown,Gelding,PPG,Bernardini,Caught In The Rain,Petionville,N257
+253,NZ,Unknown,Bay,Gelding,PP,Guillotine,Brilliant Kiwi,Brilliance,S099
+254,NZ,Unknown,Bay,Gelding,PPG,Stratum,Posing Zero,Danzero,S041
+255,AUS,5,Bay,Gelding,PPG,Not A Single Doubt,Evoked,Song Of Tara,A207
+256,JPN,Unknown,Chestnut,Mare,VIS,Orewa Matteruze,Shanghai Jell,Shanghai,T602
+257,NZ,Unknown,Bay,Gelding,PPG,O'Reilly,One Love,Danasinga,A085
+258,AUS,Unknown,Bay,Gelding,PPG,Snippetson,Exselva,Exceed And Excel,A013
+259,NZ,Unknown,Bay,Gelding,PPG,Keeper,Alicia Markova,Entrepreneur,M191
+260,GB,Unknown,Chestnut,Gelding,PPG,Raven's Pass,Salsa Steps,Giant's Causeway,T155
+261,AUS,Unknown,Chestnut,Gelding,PPG,General Nediym,Leyenda,Hurricane Sky,M111
+262,AUS,Unknown,Bay,Gelding,PPG,Flying Spur,Sunday Lady,Zabeel,T280
+263,AUS,Unknown,Bay,Gelding,PPG,Anabaa,Apamea,Zafonic,N237
+264,AUS,Unknown,Bay,Gelding,PPG,Charge Forward,Joy Ride,Redoute's Choice,T357
+265,AUS,Unknown,Chestnut,Gelding,PP,Gonski,Sharna Cabarna,Dolphin Street,N233
+266,AUS,Unknown,Bay,Gelding,PPG,Medal Of Honor,Miss Whirl,Pricelessly,N033
+267,AUS,Unknown,Bay,Gelding,PPG,Hard Spun,Sunflower Street,Fantastic Light,P080
+268,AUS,Unknown,Bay,Gelding,PPG,Lope de Vega,Dancescape,Danehill Dancer,V088
+269,GB,Unknown,Chestnut,Gelding,PP,Pastoral Pursuits,Charlotte Vale,Pivotal,V233
+270,AUS,Unknown,Bay,Gelding,ISG,Fastnet Rock,Gina Lollawitcha,Perugino,M331
+271,GB,Unknown,Brown,Gelding,PP,Pastoral Pursuits,Fizzy Treat,Efisio,M361
+272,IRE,Unknown,Bay,Gelding,PP,Oratorio,Pinky Mouse,Machiavellian,P273
+273,AUS,Unknown,Chestnut,Gelding,PP,Shaft,Play Loud,Canny Lad,S352
+274,NZ,Unknown,Bay,Gelding,PPG,O'Reilly,Mistrale,Volksraad,T039
+275,NZ,Unknown,Bay,Gelding,PPG,Sandtrap,Allaboutme,Al Akbar,S185
+276,USA,Unknown,Bay,Brown,PP,Vindication,South Bay Cove,Fusaichi Pegasus,M163
+277,AUS,Unknown,Bay,Gelding,PP,Red Arrow,Song Dynasty,Unbridled's Song,A169
+278,AUS,Unknown,Bay,Gelding,PPG,Court Of Jewels,Gold And Red,Snippets,P446
+279,NZ,Unknown,Bay,Gelding,PPG,No Excuse Needed,Tunes Of Glory,Maroof,S302
+280,NZ,Unknown,Brown,Mare,PP,Black Minnaloushe,Altaat,Faltaat,N156
+281,NZ,Unknown,Bay,Gelding,PPG,Cecconi,Volique,Volksraad,A150
+282,AUS,Unknown,Brown,Gelding,PP,Danehill Dancer,Fuji Fantasy,Fuji Kiseki,T158
+283,AUS,Unknown,Chestnut,Gelding,PPG,Monashee Mountain,Acute Aquila,Eagle Eyed,P148
+284,AUS,6,Chestnut,Gelding,PP,Street Boss,Vogue Beauty,Arena,A140
+285,NZ,Unknown,Bay,Gelding,PP,Bachelor Duke,Miss Is Brash,Deputy Governor,S378
+286,NZ,Unknown,Bay,Gelding,PP,Shinko King,Tiara Sands,Sandtrap,P071
+287,AUS,Unknown,Bay,Gelding,ISG,Fastnet Rock,Distinctly,Sadler's Wells,S345
+288,AUS,Unknown,Black,Gelding,PPG,Lonhro,Speedy Natalie,Al Maher,V087
+289,NZ,Unknown,Bay,Gelding,ISG,Keeper,Sara Ann,Stravinsky,P361
+290,AUS,Unknown,Chestnut,Gelding,PPG,Encosta de Lago,Lake Alexandrina,Bluebird,L428
+291,NZ,Unknown,Bay,Gelding,PPG,Savabeel,Under Siege,Royal Academy,V104
+292,NZ,Unknown,Bay,Gelding,PP,Perfectly Ready,Sitting On A Hill,City On A Hill,S264
+293,GB,7,Chestnut,Gelding,PPG,Champs Elysees,Red Boots,Verglas,A005
+294,AUS,Unknown,Bay,Gelding,PPG,Dreamscape,Elmira,Timber Country,T276
+295,GB,Unknown,Bay,Gelding,PPG,Motivator,Blandish,Wild Again,S115
+296,IRE,Unknown,Bay,Gelding,PP,Balmont,Novosibirsk,Distant View,S191
+297,AUS,Unknown,Bay,Gelding,PPG,Snitzel,St Therese,Dehere,V146
+298,AUS,Unknown,Grey,Gelding,PPG,Immovable Option,Dokic,Kenvain,S288
+299,AUS,Unknown,Bay,Gelding,ISG,Flying Spur,Vivacious Spirit,Bel Esprit,V334
+300,AUS,Unknown,Bay,Gelding,PP,Al Samer,Alice's Restaurant,Mossman,T054
+301,SAF,Unknown,Bay,Gelding,PPG,Kahal,Shoreline Symphony,National Emblem,S153
+302,GB,Unknown,Bay,Gelding,PP,Captain Rio,Rapid Revalation,Bianconi,T097
+303,NZ,Unknown,Chestnut,Gelding,PPG,Pentire,Splendid In Spring,Best Of Luck,S291
+304,GB,Unknown,Bay,Gelding,PP,Pastoral Pursuits,Tittle,Tobougg,S193
+305,NZ,Unknown,Bay,Gelding,PP,Gold Centre,Intensive Care,T V Heart Throb,P401
+306,NZ,Unknown,Bay,Gelding,PPG,Postponed,Huntley Lass,Defensive Play,M396
+307,USA,Unknown,Bay,Gelding,PPG,Came Home,Chilldown,Smokester,L192
+308,IRE,Unknown,Bay,Gelding,PP,Elnadim,Freedom,Second Empire,P264
+309,AUS,Unknown,Bay,Gelding,PPG,Charge Forward,Zanira,Al Hareb,P418
+310,AUS,Unknown,Bay,Gelding,PPG,Northern Meteor,Mellow Elle,Thunder Gulch,T359
+311,IRE,Unknown,Chestnut,Horse,VIS,Dubawi,Maredsous,Homme de Loi,V608
+312,NZ,Unknown,Bay,Gelding,PPG,O'Reilly,Desert Ace,Desert Sun,N216
+313,AUS,Unknown,Bay,Gelding,PPG,Danerich,Earthwarming,Canny Lad,S104
+314,IRE,Unknown,Bay,Gelding,PP,Dandy Man,Umlani,Great Commotion,S143
+315,AUS,Unknown,Bay,Gelding,PPG,Elusive Quality,Quilt,Danehill,P177
+316,FR,Unknown,Bay,Gelding,PP,Early March,Gotdream,Loup Solitaire,T048
+317,AUS,Unknown,Grey,Gelding,ISG,Encosta de Lago,Delphi Lodge,Fusaichi Pegasus,S337
+318,NZ,Unknown,Bay,Gelding,VIS,Falkirk,Suivez Moi,Vettori,T611
+319,NZ,Unknown,Bay,Gelding,PPG,Swiss Ace,River Nymph,Captain Rio,A128
+320,AUS,Unknown,Chestnut,Gelding,PPG,Mossman,Concertino,Stravinsky,P309
+321,AUS,Unknown,Brown,Gelding,PPG,Commands,She's God's Gift,Keltrice,S238
+322,AUS,Unknown,Chestnut,Gelding,PP,Husson,Altiero,Kashani,S358
+323,AUS,Unknown,Bay,Gelding,PPG,Choisir,La Rumba,Centaine,T080
+324,NZ,Unknown,Chestnut,Gelding,PPG,Starcraft,I Have No Fear,Rock Of Gibraltar,V230
+325,NZ,Unknown,Bay,Gelding,PPG,Elusive City,Wishing Belle,Sir Tristram,M188
+326,NZ,Unknown,Bay,Gelding,PPG,Towkay,De Palio,King of Kings,T266
+327,NZ,Unknown,Bay,Gelding,PPG,Dylan Thomas,More Than Sum,More Than Ready,A051
+328,AUS,Unknown,Brown,Gelding,PP,Duke Of Marmalade,Countess Of Tiba,Second Empire,A002
+329,ITY,Unknown,Bay,Gelding,PP,Mujahid,Nikita Tango,Sicyos,S121
+330,NZ,Unknown,Bay,Gelding,PP,Iffraaj,Fortelo,Armidale,T074
+331,GB,Unknown,Bay,Gelding,PP,Beat Hollow,Jumeela,Rainbow Quest,N112
+332,AUS,Unknown,Chestnut,Gelding,PP,Rothesay,Upper Notch,High Yield,V267
+333,AUS,Unknown,Bay,Gelding,PPG,Not A Single Doubt,Knight Vision,Foxhound,T036
+334,AUS,Unknown,Chestnut,Gelding,PPG,Starcraft,Stormy Choice,Redoute's Choice,S398
+335,AUS,Unknown,Chestnut,Gelding,PP,Barely A Moment,Biansassie,Bianconi,V352
+336,NZ,Unknown,Bay,Gelding,PPG,Volksraad,Queen Of Avalon,Montjeu,S098
+337,GB,Unknown,Bay,Gelding,PPG,Equiano,Poyle Meg,Dansili,V244
+338,NZ,Unknown,Bay,Gelding,PPG,Remind,Oak Vintage,Seeking The Gold,S038
+339,AUS,Unknown,Brown,Gelding,PPG,Eavesdropper,Zuhoor,Lonhro,T174
+340,IRE,Unknown,Bay,Gelding,PP,Teofilo,Changeable,Dansili,P038
+341,AUS,Unknown,Bay,Gelding,PP,Lonhro,Miss Belair,Grand Lodge,N295
+342,GB,Unknown,Bay,Gelding,PPG,Oratorio,Barynya,Pivotal,S331
+343,AUS,Unknown,Bay,Gelding,PP,Charge Forward,Jig Time Lady,Zeditave,S278
+344,USA,Unknown,Bay,Gelding,VIS,Any Given Saturday,Miss Hot Salsa,Houston,V603
+345,NZ,Unknown,Bay,Gelding,PP,Bachelor Duke,Consumer,Zabeel,T012
+346,GB,Unknown,Chestnut,Horse,PP,Compton Place,Noble View,Distant View,M149
+347,NZ,Unknown,Bay,Gelding,ISG,Thorn Park,Sharvasti,Montjeu,P368
+348,GB,Unknown,Bay,Gelding,PP,Equiano,Miss Rimex,Ezzoud,A244
+349,AUS,Unknown,Chestnut,Gelding,PPG,Fomalhaut,Dear Deputy,Deputy Governor,N028
+350,NZ,Unknown,Bay,Gelding,PP,Postponed,Hingaia Lass,Grosvenor,L391
+351,IRE,Unknown,Bay,Gelding,PP,Desert Style,Zayanida,King's Best,N184
+352,NZ,Unknown,Bay,Gelding,PPG,Danroad,Snow Reason,Sound Reason,L021
+353,IRE,Unknown,Grey,Gelding,PP,Bachelor Duke,Miss Sazanica,Zafonic,P124
+354,NZ,Unknown,Bay,Gelding,ISG,Stravinsky,Wild Berries,Danehill,P371
+355,NZ,Unknown,Bay,Gelding,PPG,Darci Brahma,Soaring Spirit,Intikhab,P432
+356,USA,Unknown,Dark Bay,Brown,PPG,Medaglia d'Oro,Worship The Moon,Malibu Moon,T193
+357,NZ,Unknown,Bay,Gelding,PPG,Teofilo,Honor Lap,Honor Grades,T089
+358,IRE,Unknown,Bay,Gelding,PP,Thousand Words,Aces Dancing,Big Shuffle,S047
+359,AUS,Unknown,Bay,Gelding,PP,Sebring,Will Fly,Will Dancer,T300
+360,AUS,Unknown,Chestnut,Gelding,PPG,Written Tycoon,Wild Release,Lochrae,S245
+361,AUS,Unknown,Bay,Gelding,PPG,Any Given Saturday,Our Prima Donna,Carnegie,P304
+362,AUS,Unknown,Bay,Gelding,ISG,Encosta de Lago,Isle Of Gibraltar,Danehill,K248
+363,AUS,Unknown,Bay,Gelding,PPG,Not A Single Doubt,Cool As Oh,Octagonal,P420
+364,NZ,7,Bay,Gelding,PPG,Showcasing,Olga Palosky,Crested Wave,T436
+365,GB,Unknown,Chestnut,Gelding,PP,Zoffany,Frabjous,Pivotal,V121
+366,AUS,7,Bay,Gelding,PP,Fastnet Rock,Queen Of Troy,Storm Cat,V279
+367,NZ,Unknown,Bay,Gelding,PP,O'Reilly,Pinot Gris,Pentire,N267
+368,NZ,Unknown,Bay,Gelding,PP,Postponed,Stark Naked,Stark South,N428
+369,NZ,7,Bay,Gelding,PP,Tavistock,Dantessa,Danasinga,A172
+370,IRE,Unknown,Bay,Gelding,PP,Encosta de Lago,Ashtarka,Dalsaan,M061
+371,AUS,Unknown,Bay,Gelding,PP,Exceed And Excel,Lindisfarne,Viscount,P400
+372,IRE,8,Bay,Gelding,PP,Monsieur Bond,Midnight Mystique,Noverre,V114
+373,AUS,7,Chestnut,Gelding,PP,More Than Ready,Wedgetail Eagle,Lure,A093
+374,NZ,Unknown,Grey,Gelding,PPG,Alamosa,Young American,Charnwood Forest,S126
+375,NZ,Unknown,Bay,Gelding,PP,Bahhare,Pesky,Paris Opera,L420
+376,NZ,Unknown,Bay,Gelding,PP,Iffraaj,Singadablues,Danasinga,A003
+377,AUS,Unknown,Brown,Gelding,PP,Myboycharlie,Hazlanded,Zabeel,T126
+378,AUS,Unknown,Brown,Gelding,PPG,I Am Invincible,Bavarian Belle,Clangalang,V365
+379,AUS,6,Bay,Gelding,PP,Zoffany,Folichonne,Denon,A100
+380,NZ,Unknown,Bay,Gelding,PPG,Darci Brahma,Fairy Lights,Fairy King,A047
+381,GB,8,Bay,Gelding,PP,Holy Roman Emperor,Lacandona,Septieme Ciel,V232
+382,IRE,Unknown,Bay,Gelding,PP,Invincible Spirit,Saoire,Pivotal,P324
+383,NZ,Unknown,Bay,Gelding,PPG,Saperavi,Shock Attack,Inviting,V162
+384,GB,Unknown,Bay,Gelding,PP,Beat Hollow,Midnight Ransom,Red Ransom,S255
+385,NZ,Unknown,Bay,Gelding,PP,Elusive City,Sheza Bluebird,Grosvenor,V073
+386,USA,Unknown,Bay,Gelding,PP,Smart Strike,Sindirana,Kalanisi,T114
+387,SAF,Unknown,Bay,Gelding,PP,Miesque's Approval,Monroe,Model Man,P329
+388,NZ,Unknown,Bay,Gelding,PPG,Gold Centre,Pines Princess,Bluebird,T027
+389,GB,Unknown,Bay,Gelding,PP,Choisir,Verbal Intrigue,Dahar,N005
+390,AUS,Unknown,Bay,Gelding,PP,Haradasun,Libor Lady,Exchange Rate,V074
+391,FR,Unknown,Bay,Gelding,PP,Scalo,Indyca,Panis,A155
+392,NZ,Unknown,Bay,Gelding,PP,Keeper,Mumtaz,Cape Cross,T293
+393,AUS,Unknown,Bay,Gelding,PP,Magnus,Obbligato,Redoute's Choice,S164
+394,AUS,Unknown,Bay,Gelding,PP,Hidden Dragon,Tycoon Rhythm,Last Tycoon,T374
+395,IRE,Unknown,Chestnut,Gelding,PP,Galileo,Luas Line,Danehill,T146
+396,AUS,Unknown,Bay,Gelding,PPG,Oratorio,Grand Alignment,Timber Country,T250
+397,AUS,Unknown,Brown,Gelding,PP,Casino Prince,Zazie,Zabeel,P297
+398,AUS,Unknown,Bay,Gelding,PP,High Chaparral,Strategic Answer,Strategic,V075
+399,AUS,Unknown,Bay,Gelding,PPG,Beautiful Crown,Best Of You,Canny Lad,V084
+400,NZ,Unknown,Bay,Gelding,PP,Thano,Zarnitsa,Maroof,T016
+401,AUS,Unknown,Brown,Gelding,PPG,Danzero,Alpine Spirit,Kenmare,N248
+402,GB,Unknown,Bay,Colt,VIS,Nayef,Winter Silence,Dansili,T620
+403,AUS,Unknown,Bay,Gelding,PPG,Al Samer,Beautiful Mimzar,Snaadee,N090
+404,NZ,Unknown,Bay,Gelding,PPG,Rip Van Winkle,Kitty,Black Minnaloushe,A274
+405,IRE,Unknown,Bay,Gelding,PP,Sir Prancealot,Spring Crocus,Noverre,A196
+406,IRE,Unknown,Brown,Gelding,PP,Kodiac,Bobby Jane,Diktat,T365
+407,IRE,Unknown,Bay,Gelding,PP,Rock Of Gibraltar,Star Studded,Cadeaux Genereux,T196
+408,AUS,Unknown,Chestnut,Gelding,PPG,Written Tycoon,Mrs Shine,Marquetry,P422
+409,AUS,Unknown,Bay,Gelding,PP,Street Cry,La Guichet,Al Hareb,T163
+410,IRE,Unknown,Bay,Gelding,ISG,Oratorio,Gillstown Great,Royal Applause,M316
+411,AUS,Unknown,Brown,Gelding,PPG,Sequalo,Size Zero,Danzero,T071
+412,NZ,Unknown,Bay,Gelding,PP,High Chaparral,Drama,Deputy Governor,M245
+413,IRE,Unknown,Bay,Gelding,PP,Red Clubs,Dianella,Gold Away,P424
+414,GB,Unknown,Bay,Gelding,PP,Nayef,Fairy Sensazione,Fairy King,S122
+415,NZ,Unknown,Chestnut,Gelding,PPG,Thorn Park,Accompli,Anabaa,V043
+416,AUS,Unknown,Black,Gelding,PPG,All American,Future Choice,Redoute's Choice,T165
+417,NZ,Unknown,Grey,Gelding,PP,Align,Annalee,Kingdom Bay,A147
+418,IRE,Unknown,Bay,Gelding,PP,Mastercraftsman,Pertinence,Fasliyev,V194
+419,NZ,6,Bay,Gelding,PPG,O'Reilly,Holiday In Goa,Stravinsky,A190
+420,IRE,Unknown,Bay,Gelding,PP,Danehill Dancer,Brazilian Samba,Sadler's Wells,N371
+421,AUS,Unknown,Bay,Gelding,PPG,Wanted,Paralegal,O'Reilly,A017
+422,IRE,Unknown,Bay,Rig,PP,Excellent Art,Enchanting Way,Linamix,S307
+423,NZ,Unknown,Bay,Gelding,PPG,One Cool Cat,Slievenamon Marie,King Of Kings,P166
+424,NZ,Unknown,Bay,Gelding,PPG,Thorn Park,Molly Dear,Cape Cross,P031
+425,NZ,Unknown,Bay,Gelding,PPG,Storming Home,There's No Doubt,Pompeii Court,M143
+426,NZ,Unknown,Chestnut,Gelding,PP,Mr Nancho,Ghemashah,Danewin,N307
+427,IRE,Unknown,Bay,Gelding,PP,Oratorio,Balamiyda,Ashkalani,P229
+428,AUS,Unknown,Chestnut,Gelding,ISG,Dehere,Annie La Vie,Flying Spur,L238
+429,GER,Unknown,Bay,Gelding,PP,Tertullian,Akasma,Windwurf,P095
+430,GB,Unknown,Grey,Gelding,ISG,Invincible Spirit,Sell Out,Act One,S338
+431,GB,Unknown,Bay,Gelding,PP,Royal Applause,Age Of Chivalry,Invincible Spirit,V116
+432,IRE,Unknown,Bay,Gelding,PP,Holy Roman Emperor,Summer Trysting,Alleged,P270
+433,NZ,Unknown,Bay,Gelding,VIS,Keeper,Bye Bye Affair,Black Tie Affair,V630
+434,AUS,Unknown,Chestnut,Gelding,PPG,All Bar One,Appease,Canny Lad,M410
+435,AUS,Unknown,Bay,Gelding,PPG,Darci Brahma,Showileo,Galileo,T081
+436,FR,Unknown,Bay,Gelding,PP,Dansili,Metisse,Kingmambo,S215
+437,AUS,6,Bay,Gelding,PPG,Myboycharlie,Dangerous Dancer,Danehill Dancer,A224
+438,AUS,Unknown,Chestnut,Gelding,PPG,Written Tycoon,Chimerique,Choisir,T011
+439,NZ,Unknown,Bay,Gelding,PP,Fast 'N' Famous,Czardos,King Delamere,N386
+440,FR,Unknown,Bay,Gelding,PPG,Ransom O'War,Bittersweetsymfony,Hawk Wing,S148
+441,IRE,Unknown,Brown,Gelding,PP,Requinto,Definite Opinion,Kheleyf,A231
+442,NZ,Unknown,Bay,Gelding,PP,My Halo,Amadi's Express,Success Express,M378
+443,NZ,Unknown,Chestnut,Gelding,PPG,Pins,Heavenly,Danasinga,N299
+444,AUS,Unknown,Bay,Gelding,PPG,Hidden Dragon,Semiprecious,Semipalatinsk,P307
+445,AUS,Unknown,Chestnut,Gelding,PP,Globetrotter,Rumbalara,Intikhab,V216
+446,GB,Unknown,Bay,Gelding,PP,Medicean,Sweet Cando,Royal Applause,T310
+447,NZ,Unknown,Bay,Gelding,PP,Towkay,Quasi Stellar,Catrail,P134
+448,NZ,Unknown,Bay,Gelding,PP,Excellent Art,Shegra,Royal Academy,P384
+449,IRE,Unknown,Bay,Gelding,PP,Tagula,Mooching Along,Mujahid,P037
+450,AUS,Unknown,Bay,Gelding,PPG,Al Samer,Tiger Belle,Sports Works,N297
+451,CAN,Unknown,Chestnut,Gelding,ISG,Lemon Drop Kid,Pin Turn,Pivotal,T344
+452,AUS,Unknown,Brown,Gelding,ISG,Fastnet Rock,Haibah,Rainbow Quest,M319
+453,AUS,Unknown,Bay,Gelding,PP,Encosta de Lago,Burgeis,Catbird,T350
+454,IRE,Unknown,Bay,Gelding,PPG,Iffraaj,Daylight Ahead,Tenby,N378
+455,AUS,6,Bay,Gelding,PPG,Medaglia d'Oro,Princesa,Danehill,V390
+456,NZ,Unknown,Bay,Gelding,PP,Savabeel,Mi Centie,Centaine,S381
+457,AUS,Unknown,Bay,Gelding,PPG,Econsul,Skilful Choice,Redoute's Choice,P075
+458,GB,Unknown,Brown,Gelding,PP,New Approach,Dynacam,Dynaformer,S437
+459,NZ,Unknown,Brown,Gelding,PPG,O'Reilly,Mareka,Maroof,L206
+460,SAF,Unknown,Bay,Gelding,PPG,Goldkeeper,Imperial Bird,Nissr,S157
+461,AUS,Unknown,Bay,Gelding,PPG,Hinchinbrook,Startling Pleasure,Shovhog,A301
+462,NZ,Unknown,Chestnut,Gelding,PP,Mr Nancho,Famous Rose,Zerpour,T316
+463,AUS,Unknown,Bay,Gelding,PPG,Holy Roman Emperor,Detail,Filante,S424
+464,GB,Unknown,Grey,Gelding,PP,Cape Cross,Chinese White,Dalakhani,T220
+465,IRE,Unknown,Bay,Gelding,PP,Oratorio,Gems Of Araby,Zafonic,P099
+466,AUS,Unknown,Bay,Gelding,PPG,Smart Missile,Arms Wide Open,Encosta de Lago,V305
+467,AUS,6,Bay,Gelding,ISG,Duporth,Baby Corn,Exceed And Excel,A316
+468,SAF,Unknown,Bay,Gelding,PP,National Emblem,Solar Galleon,Captain AI,P330
+469,AUS,6,Chestnut,Gelding,PP,Hussonet,Grantsville,Trempolino,A201
+470,AUS,Unknown,Bay,Gelding,ISG,Court Command,Lady Jakeo,Last Tycoon,N333
+471,AUS,Unknown,Bay,Gelding,PP,Strada,Martiniforus,Fuji Kiseki,S316
+472,FR,Unknown,Chestnut,Gelding,PP,My Risk,Sikkim,Linamix,A194
+473,IRE,Unknown,Chestnut,Gelding,PP,Choisir,Champagne Toni,Second Empire,M223
+474,AUS,Unknown,Chestnut,Gelding,PPG,Falvelon,Lady London,Brocco,P108
+475,IRE,Unknown,Bay,Gelding,PP,Danehill Dancer,Zibilene,Rainbow Quest,N115
+476,NZ,Unknown,Bay,Gelding,PPG,Ishiguru,Jessika,O'Reilly,M255
+477,AUS,Unknown,Chestnut,Gelding,PPG,Shamardal,Elusive Quarry,Zabeel,L396
+478,AUS,Unknown,Bay,Gelding,PPG,Danasinga,Dressing Up,Belong To Me,P378
+479,NZ,Unknown,Bay,Gelding,PPG,Canny Lad,Tropicana,Fusaichi Pegasus,S127
+480,NZ,7,Chestnut,Gelding,PPG,Castledale,Sweet Fascination,Irgun,V396
+481,NZ,Unknown,Bay,Gelding,PPG,Sandtrap,Yachting Magic,Yachtie,S137
+482,AUS,Unknown,Grey,Gelding,PP,Hard Spun,Joyous Rain,Spectrum,V413
+483,AUS,Unknown,Bay,Gelding,ISG,Dubawi,Drop Dead Gorgeous,Scenic,P238
+484,NZ,Unknown,Bay,Gelding,PPG,Alamosa,Superb Melody,Unbridled's Song,T079
+485,FR,Unknown,Bay,Gelding,PP,Monsieur Bond,Lady Oriande,Makbul,M287
+486,NZ,Unknown,Bay,Gelding,PPG,Golan,Dame Mapperley,Volksraad,N316
+487,NZ,Unknown,Bay,Gelding,PP,Pins,Laebeel,Zabeel,P333
+488,AUS,Unknown,Bay,Gelding,PPG,More Than Ready,Femme Liberte,Flying Spur,S209
+489,IRE,Unknown,Chestnut,Gelding,PP,Roderic O'Connor,Tea Chest,In The Wings,V408
+490,AUS,Unknown,Brown,Gelding,PP,High Chaparral,Zumanity,O'Reilly,A343
+491,NZ,Unknown,Bay,Gelding,PPG,Shinko King,Goldsmith,Montjeu,S094
+492,IRE,Unknown,Bay,Gelding,PP,Clodovil,Aloisi,Kalanisi,A227
+493,NZ,Unknown,Bay,Gelding,PPG,Pins,Golden Gamble,Oregon,K399
+494,NZ,Unknown,Brown,Gelding,PP,O'Reilly,Sapphire Belle,Danske,V080
+495,AUS,Unknown,Bay,Gelding,PPG,Equiano,Allegretto,Anabaa,V005
+496,AUS,Unknown,Chestnut,Gelding,PPG,Dr Green,Mlada,Danasinga,V062
+497,NZ,Unknown,Chestnut,Gelding,PP,Thorn Park,Straight Eight,Danske,A218
+498,AUS,Unknown,Bay,Gelding,PPG,Monaco Consul,Ladyofdistinction,Darci Brahma,A205
+499,NZ,Unknown,Bay,Gelding,PP,O'Reilly,Frockstar,Pins,A004
+500,AUS,Unknown,Bay,Gelding,PPG,Exceed And Excel,Keystone Gulch,Gulch,T175
+501,GB,Unknown,Chestnut,Gelding,PP,Bertolini,Armada Grove,Fleetwood,L070
+502,IRE,Unknown,Bay,Gelding,PP,Elusive City,Marie Rossa,Testa Rossa,T049
+503,AUS,Unknown,Bay,Gelding,PP,Champions Gallery,Bevagna,Ombra Della Sera,V001
+504,AUS,Unknown,Chestnut,Gelding,PPG,Bianconi,Susie Mine,Encosta de Lago,T062
+505,NZ,Unknown,Brown,Gelding,PPG,Keeper,Sursum Corda,Zabeel,P021
+506,USA,Unknown,Dark Bay,Brown,VIS,Mizzen Mast,Bonsai Beauty,Forestry,V602
+507,NZ,Unknown,Roan,Gelding,PPG,Handsome Ransom,Lucadore,Wild Rampage,P079
+508,AUS,Unknown,Bay,Gelding,PP,Redoute's Choice,Savannah Success,Success Express,T058
+509,AUS,Unknown,Bay,Horse,PP,Lucky Owners,Pink Pier,Galileo,T125
+510,AUS,Unknown,Bay,Gelding,PPG,Hidden Dragon,Subtle Difference,Senor Pete,P308
+511,NZ,Unknown,Bay,Gelding,PP,Alamosa,Cats Tango,Tale Of The Cat,S401
+512,NZ,Unknown,Bay,Gelding,PPG,O'Reilly,Pin High,Pins,A271
+513,GB,Unknown,Bay,Gelding,ISG,New Approach,Hope Island,Titus Livius,S343
+514,NZ,Unknown,Bay,Gelding,PP,Mr Nancho,Raving,Centaine,S010
+515,NZ,Unknown,Bay,Gelding,PP,Alamosa,Creil,Frenchpark,V013
+516,AUS,Unknown,Bay,Gelding,PP,Lonhro,Rose Ransom,Red Ransom,V076
+517,NZ,Unknown,Bay,Gelding,PPG,Postponed,Ballyalla,Encosta de Lago,T184
+518,AUS,Unknown,Bay,Gelding,ISG,Manhattan Rain,La Bamba,Last Tycoon,V330
+519,NZ,Unknown,Brown,Gelding,ISG,O'Reilly,Zoilus,Maroof,M315
+520,AUS,Unknown,Bay,Gelding,PP,Hinchinbrook,Pura Seda,Barathea,V340
+521,AUS,Unknown,Bay,Gelding,PPG,Fastnet Rock,Glitzy Guru,Johann Quatz,M347
+522,NZ,Unknown,Bay,Gelding,PP,Perfectly Ready,Betty Lamour,Bahhare,S442
+523,AUS,Unknown,Bay,Gelding,PP,Southern Image,Miss Doopsy,Bite The Bullet,M293
+524,AUS,Unknown,Bay,Gelding,PP,Fastnet Rock,Razzia,Scenic,P173
+525,FR,9,Bay,Gelding,PP,Elusive City,King Luna,King's Best,T093
+526,AUS,Unknown,Bay,Gelding,PP,Stratum,Isaure,Daliapour,V136
+527,IRE,Unknown,Bay,Gelding,PP,Manduro,Zaynaat,Unfuwain,P397
+528,NZ,Unknown,Bay,Gelding,PPG,Edenwold,Kaoru Dancer,Tights,P433
+529,AUS,Unknown,Bay,Gelding,PPG,Untouchable,Treasure Box,Wild Harmony,N097
+530,NZ,Unknown,Brown,Gelding,PPG,Perfectly Ready,Spinning Pearl,Spinning World,S242
+531,USA,Unknown,Bay,Gelding,PP,Henrythenavigator,Honeypenny,Royal Academy,T116
+532,NZ,7,Bay,Gelding,PPG,Iffraaj,Charangas,Flying Spur,A053
+533,NZ,Unknown,Chestnut,Gelding,PPG,Hawkeye,Red Carrera,Rory's Jester,S028
+534,NZ,Unknown,Chestnut,Gelding,PPG,Align,Frankish,Carolingian,T383
+535,AUS,Unknown,Bay,Gelding,PP,Duke Of Marmalade,Madam Spank,Bellotto,T255
+536,IRE,Unknown,Chestnut,Gelding,ISG,Le Vie Dei Colori,Whistfilly,First Trump,M328
+537,AUS,Unknown,Chestnut,Gelding,PP,Flying Spur,Testy,Testa Rossa,T387
+538,AUS,Unknown,Bay,Gelding,PPG,Domesday,True Charm,Thunder Gulch,A078
+539,AUS,Unknown,Bay,Gelding,PPG,Master Of Design,Shimmy,Royal Academy,V399
+540,GB,Unknown,Bay,Gelding,ISG,Dutch Art,Ring Of Love,Magic Ring,P231
+541,AUS,Unknown,Brown,Gelding,PP,Northern Meteor,Feelers,Quest For Fame,A094
+542,AUS,6,Bay,Gelding,PPG,Show A Heart,Kamiri,King Ivor,V260
+543,IRE,Unknown,Chestnut,Gelding,PP,Dutch Art,Paix Royale,Royal Academy,P183
+544,AUS,Unknown,Bay,Gelding,PPG,Lucky Owners,Swept Overboard,End Sweep,V420
+545,USA,Unknown,Grey,Roan,VIS,Zensational,Pure Disco,Disco Rico,A607
+546,IRE,Unknown,Bay,Gelding,PP,One Cool Cat,Alenteja,Danehill,M212
+547,AUS,Unknown,Bay,Gelding,PPG,Henrythenavigator,Petite Allegro,Stravinsky,P340
+548,NZ,Unknown,Bay,Gelding,PP,Captain Rio,Kiwi Supreme,Epidaurus,V206
+549,AUS,6,Brown,Gelding,PP,More Than Ready,Rose Of Hallowell,Commands,A337
+550,AUS,Unknown,Chestnut,Gelding,PP,Testa Rossa,Lindalay,Honour And Glory,S172
+551,AUS,Unknown,Bay,Gelding,PP,Tale Of The Cat,Creative Plan,Flying Spur,T376
+552,FR,Unknown,Bay,Gelding,PP,Rashbag,Rahyna,Rahy,S190
+553,IRE,Unknown,Bay,Gelding,PP,Traditionally,Wish List,Mujadil,K301
+554,AUS,Unknown,Grey,Gelding,PP,Al Maher,Chase The Chick,Kenmare,T157
+555,AUS,Unknown,Bay,Gelding,PP,Northern Meteor,Flying Object,Peintre Celebre,S280
+556,NZ,Unknown,Bay,Gelding,PP,Stravinsky,Entrancement,Danehill,V021
+557,GB,Unknown,Bay,Gelding,PP,Kyllachy,Greenmeadow,Sure Blade,T099
+558,SAF,Unknown,Bay,Gelding,PP,Dynasty,Cosima Liszt,Rich Man's Gold,A119
+559,AUS,Unknown,Bay,Gelding,PPG,Danerich,Homeland Sheila,Keltrice,S319
+560,GB,Unknown,Chestnut,Gelding,PP,Dutch Art,Stravie,Stravinsky,S328
+561,NZ,Unknown,Bay,Gelding,PPG,Iffraaj,Starboard Light,Mark Of Esteem,T261
+562,IRE,Unknown,Bay,Gelding,PP,Shamardal,Source Of Life,Fasliyev,V350
+563,AUS,Unknown,Bay,Gelding,PP,Northern Meteor,Dearness,Snippets,S393
+564,JPN,Unknown,Bay,Gelding,PPG,Matsurida Gogh,Twin Smile,Fusaichi Pegasus,S005
+565,AUS,Unknown,Bay,Gelding,PP,Snippetson,Green Mirage,Green Desert,A216
+566,AUS,Unknown,Bay,Gelding,PPG,Strategic,Romantic Lady,Danzero,S239
+567,GB,Unknown,Bay,Gelding,PP,Choisir,Just Devine,Montjeu,S217
+568,GER,Unknown,Bay,Gelding,PP,Areion,Sun Valley,Lando,T363
+569,IRE,Unknown,Bay,Gelding,PP,Shamardal,Dibiya,Caerleon,S120
+570,AUS,7,Bay,Gelding,PPG,Racer's Edge,Shezgonewest,Mugharreb,A012
+571,AUS,Unknown,Bay,Gelding,PPG,Danewin,Royal Prize,Prized,L282
+572,NZ,Unknown,Chestnut,Gelding,PPG,Zed,Jumar,Towkay,V403
+573,USA,Unknown,Bay,Rig,PPG,Spring At Last,Classiest Gem,Dehere,T252
+574,NZ,Unknown,Chestnut,Gelding,PPG,Pins,Alleyway,Oregon,T434
+575,AUS,Unknown,Bay,Gelding,PP,Bel Esprit,Filly Of Choice,End Sweep,A001
+576,FR,Unknown,Bay,Horse,VIS,Silver Frost,Miss Bio,River Mist,A614
+577,AUS,Unknown,Bay,Gelding,PPG,Astronomer Royal,Zugat,King Cugat,T356
+578,NZ,9,Bay,Gelding,PP,High Chaparral,The Quarewan,Supremo,T256
+579,NZ,Unknown,Bay,Gelding,PPG,Bachelor Duke,Lim's Rainbow,Rory's Jester,T205
+580,AUS,Unknown,Chestnut,Gelding,PPG,Testa Rossa,Electric Dreams,Redoute's Choice,T283
+581,NZ,Unknown,Brown,Gelding,PP,Handsome Ransom,Sea Shells,Paris Opera,P066
+582,IRE,Unknown,Bay,Gelding,PP,Shamardal,Nouvelle Noblesse,Singspiel,M339
+583,NZ,Unknown,Grey,Gelding,ISG,Cape Cross,Exotic Dancer,Slavic,M326
+584,AUS,6,Chestnut,Gelding,PP,Magic Albert,Kate Of Clonmel,Bianconi,A296
+585,NZ,Unknown,Bay,Gelding,PPG,Falkirk,Nimue,Star Way,N279
+586,NZ,Unknown,Grey,Gelding,PP,Mastercraftsman,Sharp Point,Point Given,A262
+587,GB,Unknown,Bay,Gelding,PP,Shamardal,Pearl Dance,Nureyev,T103
+588,AUS,Unknown,Bay,Gelding,PP,Northern Meteor,Morwell,Royal Academy,V254
+589,NZ,Unknown,Bay,Gelding,PPG,Magic Albert,Quiet Please,Kaapstad,S301
+590,NZ,Unknown,Bay,Gelding,PP,Pins,Jeanetta Cochrane,Sadler's Wells,V265
+591,GB,Unknown,Bay,Gelding,PPG,Exceed And Excel,Anse Victorin,Mt Livermore,S074
+592,AUS,Unknown,Bay,Gelding,PPG,Redoute's Choice,New Light,Galileo,V391
+593,AUS,Unknown,Bay,Gelding,PP,Nadeem,Heat Of The Fire,Strategic,N245
+594,IRE,Unknown,Bay,Gelding,PP,Bushranger,Start The Music,King's Best,T287
+595,IRE,Unknown,Bay,Gelding,PP,Elnadim,Foxglove,Hernando,N116
+596,AUS,Unknown,Bay,Gelding,ISG,Flying Spur,Miss Mocha,Senor Pete,L241
+597,AUS,Unknown,Brown,Gelding,ISG,More Than Ready,Eliza Cove,Danehill,P234
+598,NZ,Unknown,Bay,Gelding,PPG,Red Giant,Luz,King Cugat,T295
+599,AUS,Unknown,Bay,Gelding,PPG,Dr Green,Lady Sophia,With Class,N132
+600,JPN,Unknown,Chestnut,Gelding,PPG,A Shin Forward,A Shin Cool D,Distorted Humor,A181
+601,IRE,Unknown,Bay,Gelding,PPG,Iffraaj,Graceful Air,Danzero,S196
+602,NZ,9,Bay,Gelding,PPG,Encosta de Lago,Mrs Squillionaire,Last Tycoon,S131
+603,AUS,Unknown,Bay,Gelding,PP,Oratorio,Lajourn,Good Journey,T432
+604,NZ,Unknown,Bay,Gelding,PP,Red Giant,Queenza,King Of Kings,V018
+605,AUS,Unknown,Chestnut,Gelding,PPG,Hussonet,Jemison,Commands,S391
+606,JPN,Unknown,Dark Bay,Horse,VIS,King Kamehameha,Popcorn Jazz,Dance In The Dark,V631
+607,IRE,Unknown,Bay,Rig,PP,Moss Vale,Hi Katriona,Second Empire,P127
+608,AUS,Unknown,Chestnut,Gelding,PPG,New Approach,Sleeque,Brief Truce,T428
+609,AUS,Unknown,Brown,Gelding,PPG,Manhattan Rain,Appear,Danzero,V141
+610,GB,Unknown,Bay,Gelding,PP,Exceed And Excel,Autumn Pearl,Orpen,S436
+611,AUS,Unknown,Bay,Gelding,PPG,Encosta de Lago,Rate The Choice,Redoute's Choice,P145
+612,AUS,Unknown,Bay,Gelding,PP,Dane Shadow,Lady Frisco,Frisco View,T422
+613,AUS,Unknown,Bay,Gelding,PPG,Court Command,Sadie's Habit,Barathea,S267
+614,IRE,7,Chestnut,Gelding,PP,Roderic O'Connor,Biz Bar,Tobougg,A118
+615,AUS,Unknown,Bay,Gelding,ISG,Exceed And Excel,Mirror Mirror,Dehere,P369
+616,GB,Unknown,Bay,Gelding,PP,Captain Gerrard,Lilac Dreams,Second Set,V195
+617,NZ,Unknown,Bay,Gelding,PP,Keeninsky,Calypso Miss,Elnadim,T014
+618,FR,Unknown,Bay,Gelding,PP,Falco,Indian Beauty,Mujadil,S141
+619,NZ,Unknown,Chestnut,Gelding,PPG,Thorn Park,Driving Rein,Volksraad,A063
+620,AUS,Unknown,Chestnut,Gelding,PP,Dylan Thomas,Jedrzejczak,Falbrav,V072
+621,NZ,Unknown,Bay,Gelding,ISG,O'Reilly,Escada,Centaine,S340
+622,AUS,7,Bay,Gelding,PP,Hard Spun,Royal Tour,Quest For Fame,V378
+623,AUS,6,Bay,Gelding,PPG,Smart Missile,Venetian Lady,Woodman,A281
+624,IRE,Unknown,Bay,Gelding,VIS,Byron,Boa Estrela,Intikhab,P606
+625,AUS,Unknown,Bay,Gelding,PP,Fastnet Rock,Valourina,Snippets,V130
+626,IRE,Unknown,Bay,Gelding,PP,Elusive City,Lure Of The Moon,Lure,N448
+627,IRE,Unknown,Grey,Gelding,PP,Aussie Rules,Benelux,Zafonic,N323
+628,GB,Unknown,Bay,Gelding,PP,Exceed And Excel,Saabiq,Grand Slam,P224
+629,GB,Unknown,Chestnut,Gelding,ISG,Dubawi,Salee,Caerleon,P359
+630,GB,Unknown,Bay,Gelding,PP,Dylan Thomas,Leukippids,Sadler's Wells,P192
+631,FR,8,Grey,Gelding,PP,Dansili,Ashalanda,Linamix,V046
+632,FR,6,Bay,Gelding,PP,Doctor Dino,Arthurs Princess,Monashee Mountain,A193
+633,AUS,7,Bay,Gelding,PP,High Chaparral,Sarasota,Danehill,V357
+634,AUS,Unknown,Bay,Gelding,PP,Pins,Nahayan,Zabeel,V416
+635,AUS,8,Grey,Gelding,PP,Alert,Miss Love,Fastnet Rock,T254
+636,AUS,Unknown,Bay,Gelding,PPG,Star Witness,Luvumor,Flying Spur,V288
+637,NZ,Unknown,Grey,Gelding,PP,Mastercraftsman,Elyzabel,Kaapstad,T315
+638,NZ,Unknown,Bay,Gelding,PPG,Shocking,Our Chickaroonie,Groom Dancer,V287
+639,IRE,Unknown,Bay,Brown,VIS,Shamardal,Beneventa,Most Welcome,V635
+640,AUS,Unknown,Bay,Gelding,PPG,Congrats,Mrs Windsor,King's Best,V061
+641,NZ,Unknown,Brown,Gelding,PPG,Savabeel,Royal Prize,Prized,S186
+642,AUS,Unknown,Chestnut,Gelding,PP,Spinning World,Toby Bess,King Of Kings,N325
+643,NZ,Unknown,Bay,Gelding,PPG,Any Suggestion,Wild Dixie,Wild Rampage,T019
+644,NZ,6,Bay,Gelding,PPG,Bullbars,Tricilo,Sandtrap,A121
+645,USA,Unknown,Chestnut,Gelding,PP,Giant's Causeway,Green Girl,Lord Of Men,N260
+646,AUS,Unknown,Brown,Gelding,ISG,Lonhro,Selwan,Mt Livermore,V317
+647,AUS,Unknown,Chestnut,Gelding,PP,Niello,Heart's Hope,Mookta,L401
+648,AUS,Unknown,Bay,Gelding,PPG,Dane Shadow,Anaheart,Anabaa,S016
+649,AUS,Unknown,Bay,Gelding,PPG,Magic Albert,Little Evie,Al Maher,V389
+650,AUS,Unknown,Bay,Gelding,PP,Testa Rossa,Rocotto,Brocco,N296
+651,USA,Unknown,Grey,Gelding,PP,Exchange Rate,Ruby's Realm,Empire Maker,A163
+652,AUS,Unknown,Bay,Gelding,PPG,Snippetson,Jewel Vault,Secret Savings,S432
+653,GB,8,Bay,Gelding,PP,Bertolini,Starbeck,Spectrum,T412
+654,GB,Unknown,Bay,Gelding,PP,Oasis Dream,Princess Miletrian,Danehill,M213
+655,AUS,Unknown,Roan,Gelding,PPG,Exceed And Excel,Silken Song,Unbridled's Song,S367
+656,AUS,Unknown,Bay,Gelding,ISG,High Chaparral,Princess Quality,Elusive Quality,T324
+657,NZ,Unknown,Brown,Gelding,PPG,Rip Van Winkle,Molly Dear,Cape Cross,A348
+658,USA,Unknown,Bay,Gelding,PP,Sakhee,Lahan,Unfuwain,N177
+659,AUS,Unknown,Bay,Gelding,PP,Hussonet,Bella Cantata,Stravinsky,S359
+660,IRE,Unknown,Bay,Gelding,PP,Vale Of York,Endless Peace,Russian Revival,T189
+661,NZ,Unknown,Bay,Gelding,PPG,Postponed,Fortitude,Stark South,P084
+662,NZ,Unknown,Chestnut,Gelding,PP,Rusty Spur,Cape Klaire,Kaapstad,N213
+663,AUS,Unknown,Bay,Gelding,PPG,Testa Rossa,Exceedingly Regal,Exceed And Excel,A192
+664,AUS,Unknown,Chestnut,Gelding,PP,Wilander,Storm Tossed,Rory's Jester,V200
+665,AUS,Unknown,Bay,Gelding,PPG,All American,Tennessee Sunrise,End Sweep,S364
+666,AUS,Unknown,Bay,Gelding,PP,Dane Shadow,Sonette,Hussonet,V354
+667,NZ,Unknown,Bay,Gelding,PPG,Ekraar,Lollipop,Green Perfume,P199
+668,IRE,Unknown,Chestnut,Gelding,PP,Footstepsinthesand,Arazena,Woodman,M310
+669,GB,Unknown,Chestnut,Gelding,PP,Notnowcato,Tahara,Caerleon,P119
+670,AUS,Unknown,Bay,Gelding,PP,Alfred Nobel,Matilda Grace,Stravinsky,A351
+671,IRE,Unknown,Bay,Gelding,PP,Baltic King,Umlaut,Zafonic,S045
+672,AUS,Unknown,Chestnut,Gelding,PP,Bianconi,Fonteyn Star,Langfuhr,V409
+673,AUS,Unknown,Bay,Gelding,PPG,Jet Spur,Extra,Prince Salieri,T084
+674,GB,Unknown,Bay,Gelding,PP,Kyllachy,Regent's Park,Green Desert,T100
+675,GER,Unknown,Bay,Gelding,ISG,Mamool,Lips Arrow,Big Shuffle,V335
+676,NZ,Unknown,Bay,Gelding,PP,Nadeem,Market Leader,Marju,V079
+677,AUS,6,Brown,Gelding,PPG,Manhattan Rain,Zipanese,Bellotto,A010
+678,AUS,Unknown,Bay,Gelding,PP,More Than Ready,Special Cuvee,Fasliyev,V078
+679,AUS,Unknown,Bay,Gelding,PP,Northern Meteor,Ceol Na Sraide,King's Theatre,S167
+680,IRE,Unknown,Bay,Gelding,ISG,Acclamation,Emma's Star,Darshaan,T340
+681,AUS,Unknown,Bay,Gelding,PPG,Dane Shadow,Miss Bijou,Spectrum,M305
+682,JPN,Unknown,Bay,Horse,VIS,Deep Impact,Mandela,Acatenango,T612
+683,AUS,Unknown,Chestnut,Gelding,PPG,Not A Single Doubt,Ready To Live,More Than Ready,T410
+684,IRE,8,Bay,Gelding,PP,Acclamation,Annee Lumiere,Giant's Causeway,T369
+685,AUS,Unknown,Bay,Gelding,PPG,Al Maher,Wily Trick,Clever Trick,V383
+686,AUS,Unknown,Chestnut,Gelding,PP,Encosta de Lago,Alsatia,Marauding,A090
+687,IRE,Unknown,Bay,Gelding,PP,Acclamation,Fathoming,Gulch,P316
+688,AUS,Unknown,Bay,Gelding,PP,Happy Giggle,Fond Kiss,O'Reilly,S392
+689,AUS,Unknown,Chestnut,Gelding,VIS,Elvstroem,Blue Tears,Secret Savings,T619
+690,NZ,Unknown,Brown,Gelding,PPG,Savabeel,I Que,O'Reilly,A087
+691,GB,Unknown,Bay,Gelding,VIS,Duke Of Marmalade,Miss Brown To You,Fasliyev,A615
+692,FR,Unknown,Bay,Gelding,VIS,Even Top,Taille de Guepe,Septieme Ciel,L623
+693,USA,Unknown,Chestnut,Gelding,PP,Smarty Jones,Gossamer,Seattle Slew,N014
+694,NZ,Unknown,Bay,Gelding,PP,Pluck,Spirit Of Karlu,Dubawi,A120
+695,NZ,Unknown,Bay,Gelding,PPG,O'Reilly,Marahau,Pins,V159
+696,AUS,Unknown,Chestnut,Gelding,PPG,Written Tycoon,Bonus Clause,Weasel Clause,P064
+697,USA,Unknown,Dark Bay,Brown,VIS,Smart Strike,Burning Sunset,Caerleon,T621
+698,NZ,Unknown,Bay,Gelding,PPG,Pins,Speechless,Redoute's Choice,P292
+699,NZ,Unknown,Bay,Gelding,ISG,O'Reilly,Saucy,Danasinga,P357
+700,AUS,Unknown,Chestnut,Gelding,PPG,Tale Of The Cat,Any Dane Now,Danehill,S326
+701,AUS,Unknown,Bay,Gelding,PPG,Bernardini,God Love It,St Covet,V060
+702,AUS,Unknown,Roan,Gelding,PPG,Holy Roman Emperor,Zakynthos Star,Dehere,P391
+703,IRE,Unknown,Bay,Gelding,PP,Holy Roman Emperor,Night Cam,Night Shift,P269
+704,AUS,Unknown,Bay,Gelding,PPG,Turffontein,Crystal Cheval,Fastnet Rock,A211
+705,IRE,Unknown,Grey,Gelding,PP,Lawman,Dookus,Linamix,S187
+706,IRE,Unknown,Bay,Gelding,PP,Fastnet Rock,Kushnarenkovo,Sadler's Wells,V118
+707,NZ,Unknown,Chestnut,Gelding,PPG,Handsome Ransom,L'Affair,Marscay,M036
+708,NZ,Unknown,Chestnut,Gelding,PPG,Mastercraftsman,Gin Dartre,Volksraad,T408
+709,NZ,Unknown,Brown,Gelding,PPG,O'Reilly,Honolulu,Savabeel,V213
+710,NZ,Unknown,Bay,Gelding,PPG,Darci Brahma,Miraflores,Johar,A048
+711,ARG,Unknown,Bay,Gelding,PPG,Exchange Rate,Serenita,Southern Halo,S004
+712,NZ,Unknown,Brown,Gelding,PPG,Savabeel,Lisa Anne,Exceed And Excel,T132
+713,GB,Unknown,Chestnut,Gelding,PP,Footstepsinthesand,Western Bowl,Gone West,L136
+714,NZ,Unknown,Bay,Gelding,PPG,Shocking,Mostly,Strategic Image,V223
+715,NZ,Unknown,Bay,Gelding,PPG,Savabeel,Rhysess,Pins,P294
+716,NZ,Unknown,Bay,Gelding,PP,Swiss Ace,Goldie Thorn,Thorn Park,A074
+717,AUS,Unknown,Bay,Gelding,PP,Commands,Zacheline,Zabeel,N146
+718,IRE,Unknown,Bay,Gelding,PP,Choisir,La Tintoretta,Desert Prince,P355
+719,NZ,Unknown,Brown,Gelding,PP,Elusive City,Midnight Breaker,Housebuster,P410
+720,ARG,Unknown,Bay,Gelding,VIS,Pure Prize,Queen Cabaret,Wild Event,A621
+721,NZ,Unknown,Bay,Gelding,PP,Librettist,La Luciole,Last Tycoon,S379
+722,NZ,Unknown,Bay,Gelding,PPG,O'Reilly,Queen To Be,King's Theatre,S447
+723,NZ,Unknown,Bay,Gelding,PP,Stravinsky,Danvers,Danzero,M332
+724,AUS,Unknown,Brown,Gelding,PP,Denman,Lady Cat,Sir Cat,T396
+725,NZ,Unknown,Brown,Gelding,PPG,Keeper,Sadie Belle,Exploding Prospect,M192
+726,AUS,Unknown,Brown,Gelding,PPG,Nicconi,Obbligato,Redoute's Choice,V009
+727,NZ,Unknown,Bay,Gelding,PPG,Falkirk,Diamond Dust,Jetball,P200
+728,AUS,Unknown,Bay,Gelding,PPG,Cheval de Troy,Zeebelle,Radjhasi,S056
+729,AUS,Unknown,Bay,Gelding,PPG,Commands,Isaure,Daliapour,S365
+730,GB,Unknown,Grey,Gelding,PP,Exceed And Excel,Starfala,Galileo,A111
+731,USA,Unknown,Chestnut,Gelding,PP,More Than Ready,Leo's Pegasus,Fusaichi Pegasus,T307
+732,AUS,Unknown,Bay,Gelding,PPG,Stratum,Dash For Gretna,Sportsworld,V231
+733,AUS,Unknown,Bay,Gelding,PP,Falvelon,Retirement Day,Pompeii Court,V129
+734,AUS,Unknown,Bay,Gelding,PP,Tale Of The Cat,Dixie Paradise,Dixie Union,P104
+735,IRE,Unknown,Bay,Gelding,ISG,High Chaparral,Ursula Minor,Footstepsinthesand,T336
+736,AUS,Unknown,Bay,Gelding,PPG,Choisir,Costa Grande,Encosta de Lago,T064
+737,USA,Unknown,Bay,Gelding,PPG,Distorted Humor,Argyle Pink,Sky Mesa,A068
+738,NZ,Unknown,Chestnut,Gelding,PPG,Mastercraftsman,La Bella Dama,Desert Sun,S355
+739,AUS,Unknown,Grey,Gelding,PPG,Murtajill,Gifting,Generous,T358
+740,AUS,6,Brown,Gelding,PPG,Medaglia d'Oro,Idriess,Anabaa,A221
+741,AUS,Unknown,Bay,Gelding,PPG,Sepoy,Shibata,Testa Rossa,V392
+742,GB,Unknown,Bay,Gelding,PPG,High Chaparral,Mail Express,Cape Cross,S375
+743,NZ,Unknown,Bay,Gelding,PP,Bachelor Duke,Galejade,Rory's Jester,T013
+744,AUS,Unknown,Bay,Gelding,PPG,Super Saver,Blue Collar Jill,Perugino,V393
+745,AUS,Unknown,Bay,Gelding,ISG,Commands,Hides,Giant's Causeway,T322
+746,AUS,Unknown,Bay,Gelding,PPG,Not A Single Doubt,Umatilly,Umatilla,V090
+747,AUS,Unknown,Brown,Gelding,ISG,Commands,Prospering,Fusaichi Pegasus,N335
+748,AUS,Unknown,Chestnut,Gelding,PP,Written Tycoon,Queenie,Black Minnaloushe,P106
+749,AUS,Unknown,Brown,Gelding,PPG,Lucky Owners,Bumpa,More Than Ready,P448
+750,IRE,Unknown,Bay,Gelding,PP,Acclamation,Heavens Peak,Pivotal,V369
+751,AUS,Unknown,Bay,Gelding,PP,Gonski,Abbe Cat,Campo Catino,P344
+752,AUS,Unknown,Bay,Gelding,PP,Myboycharlie,Preview Scene,Zeditave,S279
+753,NZ,Unknown,Bay,Gelding,PPG,O'Reilly,Lady Chanele,Citidancer,M393
+754,NZ,6,Bay,Gelding,PPG,Denman,Tsukioka,Flying Spur,A050
+755,IRE,Unknown,Bay,Gelding,PPG,Holy Roman Emperor,Prayers For Rain,Darshaan,A199
+756,GB,Unknown,Bay,Gelding,PP,Royal Applause,Sparkling Eyes,Lujain,T052
+757,AUS,Unknown,Bay,Gelding,ISG,Fastnet Rock,Ocean Pearl,Galileo,V326
+758,GB,7,Bay,Gelding,PP,Holy Roman Emperor,Diksie Dancer,Diktat,V371
+759,NZ,Unknown,Bay,Gelding,PP,Keeper,Pyrate Princess,Pyrus,S441
+760,GB,Unknown,Bay,Gelding,PP,Exceed And Excel,Stormy Weather,Nashwan,P351
+761,AUS,Unknown,Bay,Gelding,ISG,Encosta de Lago,Danesty,Danehill,K231
+762,AUS,Unknown,Brown,Gelding,PPG,Hard Spun,Raketa,Taimazov,S066
+763,GB,Unknown,Chestnut,Gelding,PP,Dutch Art,Contemporary,Alzao,V311
+764,AUS,Unknown,Bay,Horse,VIS,Magnus,Princess Baxaar,Xaar,V627
+765,NZ,Unknown,Chestnut,Gelding,PP,Keeninsky,City Affair,City On A Hill,P067
+766,NZ,Unknown,Bay,Gelding,PPG,Towkay,Dancing Daze,Dance Floor,P295
+767,NZ,Unknown,Grey,Gelding,PPG,Mastercraftsman,Classy Affair,Octagonal,S354
+768,NZ,Unknown,Bay,Gelding,PPG,Civics,Irish Era,O'Reilly,P285
+769,NZ,Unknown,Grey,Gelding,PPG,Thorn Park,Eight Songs,Classic Fame,P139
+770,FR,Unknown,Bay,Gelding,PP,Myboycharlie,Mabadi,Sahm,T096
+771,IRE,Unknown,Chestnut,Gelding,PP,Galileo,Love Me True,Kingmambo,V193
+772,SAF,Unknown,Grey,Gelding,PP,Captain Al,Secret Of Victoria,Goldkeeper,S275
+773,NZ,Unknown,Bay,Gelding,PP,No Excuse Needed,Hugging,Beveled,N158
+774,GB,Unknown,Bay,Gelding,PP,Makfi,Tell The Wind,Mujadil,V240
+775,AUS,Unknown,Brown,Gelding,PP,Congrats,Pas de Deux,Sadler's Wells,V411
+776,FR,Unknown,Bay,Gelding,PP,Jeremy,Next Round,Common Grounds,P088
+777,GB,Unknown,Chestnut,Gelding,PP,Major Cadeaux,Ocean Grove,Fairy King,V190
+778,NZ,7,Bay,Gelding,PPG,Iffraaj,Ruqqaya,Van Nistelrooy,V156
+779,NZ,Unknown,Bay,Gelding,PPG,Pins,Perrine,Zabeel,S036
+780,AUS,Unknown,Bay,Gelding,PP,Al Maher,Intralase,Spinning World,A212
+781,AUS,Unknown,Bay,Gelding,PP,Choisir,Apolina,Rubiton,S312
+782,NZ,Unknown,Bay,Gelding,PPG,Darci Brahma,La Campanella,More Than Ready,P176
+783,NZ,Unknown,Chestnut,Gelding,PPG,Pentire,Tinsel,Jetball,S356
+784,GB,Unknown,Chestnut,Gelding,PP,Haafhd,Antigua,Selkirk,P152
+785,AUS,Unknown,Chestnut,Gelding,PP,Snippetson,Pine Away,Pine Bluff,P443
+786,GB,Unknown,Roan,Gelding,PP,Bertolini,Riva Royale,Royal Applause,P191
+787,AUS,7,Bay,Gelding,PPG,Street Sense,Angora,Barathea,V069
+788,NZ,Unknown,Grey,Gelding,PPG,Guillotine,Reflection,Thorn Park,S090
+789,AUS,Unknown,Brown,Gelding,PPG,Sebring,Alteza Real,Exceed And Excel,S431
+790,AUS,6,Brown,Gelding,PPG,O'Reilly,Classy Fashion,Fusaichi Pegasus,A011
+791,AUS,Unknown,Bay,Gelding,PPG,Fastnet Rock,Our Egyptian Raine,Desert Sun,S206
+792,NZ,Unknown,Bay,Gelding,SG,Stravinsky,Soaring Spirit,Intikhab,L359
+793,GER,Unknown,Bay,Gelding,PP,Lando,Auengunst,Waky Nao,T109
+794,NZ,Unknown,Bay,Gelding,PPG,O'Reilly,Smartway,Pins,S134
+795,NZ,Unknown,Bay,Gelding,PP,Don Eduardo,Mac Five,Faltaat,S403
+796,AUS,7,Bay,Brown,PP,Delightful Choice,Missun,Masterclass,V337
+797,NZ,Unknown,Bay,Colt,VIS,Zabeel,Better Alternative,Flying Spur,V620
+798,AUS,8,Bay,Gelding,PPG,Sequalo,Cheer Girl,Celestial Dancer,T134
+799,IRE,Unknown,Bay,Horse,VIS,Teofilo,Halla Siamsa,Montjeu,T618
+800,AUS,Unknown,Bay,Gelding,PPG,Dane Shadow,Ravenswood,Woodman,S395
+801,AUS,Unknown,Chestnut,Gelding,PP,Desert King,Grow Up,Montjeu,S314
+802,NZ,Unknown,Chestnut,Gelding,PPG,Towkay,Mulensky,Stravinsky,S044
+803,IRE,Unknown,Bay,Gelding,PP,War Chant,Morena Park,Pivotal,T221
+804,AUS,Unknown,Bay,Gelding,PP,Purrealist,Puzzles,Redoute's Choice,T212
+805,AUS,Unknown,Bay,Gelding,PP,Artie Schiller,Satin Sheets,Dehere,P168
+806,AUS,Unknown,Bay,Gelding,PP,Onemorenomore,Bani Yas,Zabeel,T355
+807,AUS,Unknown,Bay,Gelding,PPG,Snippetson,Save Me A Dance,Canny Lad,P062
+808,NZ,Unknown,Bay,Gelding,PP,Sufficient,Encantada,Black Tuxedo,T258
+809,AUS,Unknown,Bay,Gelding,PP,Dane Shadow,Cavities,Lonhro,T373
+810,AUS,Unknown,Chestnut,Gelding,PPG,Falvelon,No Vice,Marscay,V201
+811,AUS,Unknown,Bay,Gelding,PPG,Mossman,Dane Promise,Danehill,P112
+812,NZ,Unknown,Bay,Gelding,PPG,Coats Choice,Amadi's Express,Success Express,S014
+813,NZ,7,Bay,Gelding,PPG,Rip Van Winkle,Showusyourpins,Pins,V161
+814,AUS,Unknown,Bay,Gelding,PP,Golden Lake,Western Jade,Western Symphony,N294
+815,AUS,Unknown,Bay,Gelding,PP,Fastnet Rock,Holy Faith,Show A Heart,P411
+816,IRE,6,Bay,Gelding,PP,Rip Van Winkle,Gwyllion,Red Ransom,A245
+817,NZ,Unknown,Chestnut,Gelding,PPG,Golan,Greta Hall,Kaapstad,S025
+818,NZ,Unknown,Bay,Brown,PPG,Pins,Chockaholic,Kaapstad,V038
+819,AUS,Unknown,Bay,Gelding,PP,Dylan Thomas,Flame Of Sydney,Encosta de Lago,T235
+820,GB,Unknown,Bay,Gelding,PP,Hawk Wing,Spinamix,Spinning World,N098
+821,FR,Unknown,Bay,Gelding,PPG,Oratorio,Overboard,Rainbow Quest,N379
+822,AUS,Unknown,Bay,Gelding,PPG,Tickets,Opera Serenade,Opera Prince,V108
+823,GB,Unknown,Chestnut,Gelding,VIS,Cadeaux Genereux,Artisia,Peintre Celebre,N618
+824,AUS,Unknown,Bay,Gelding,PPG,Northern Meteor,Madam Speaker,Sadler's Wells,S290
+825,AUS,Unknown,Bay,Gelding,PPG,Haradasun,Recline,Danehill Dancer,N396
+826,AUS,Unknown,Bay,Gelding,PPG,Excellent Art,Ashlyn,Baryshnikov,V063
+827,NZ,6,Bay,Gelding,PPG,No Excuse Needed,Kathy O'Reilly,O'Reilly,A082
+828,AUS,Unknown,Bay,Gelding,PPG,Bernardini,Ousted,Salieri,P047
+829,AUS,Unknown,Chestnut,Gelding,PP,The Hammer,Supreme Knowledge,Knowledge,P417
+830,GB,Unknown,Chestnut,Gelding,VIS,Stormy Atlantic,Bea Remembered,Doyen,A630
+831,NZ,Unknown,Bay,Gelding,PP,Guillotine,Sorbello,Golan,V264
+832,IRE,Unknown,Grey,Horse,PP,Royal Applause,Bright Snow,Gulch,V310
+833,NZ,Unknown,Bay,Gelding,PP,Conatus,Frolicsome,Encosta de Lago,S181
+834,NZ,Unknown,Bay,Gelding,PPG,Volksraad,Rita Moreno,King's Chapel,T267
+835,IRE,Unknown,Grey,Colt,PP,Verglas,Tiny Petal,Grand Lodge,V175
+836,NZ,Unknown,Brown,Gelding,PPG,Savabeel,Thorena,Chief's Crown,N416
+837,USA,Unknown,Bay,Gelding,ISG,Malibu Moon,Shake The Yoke,Caerleon,N330
+838,AUS,Unknown,Brown,Gelding,PPG,Casino Prince,Agnesar,Agnes World,T128
+839,IRE,Unknown,Brown,Gelding,PP,Footstepsinthesand,Lucy Diamonds,Orpen,S117
+840,AUS,Unknown,Bay,Gelding,PPG,Northern Meteor,Kiss 'n Chase,Red Ransom,V143
+841,AUS,6,Bay,Gelding,PPG,Duporth,Lady Jaguar,Last Tycoon,V417
+842,NZ,7,Bay,Gelding,PP,Alamosa,Enchant,Pentire,A071
+843,NZ,Unknown,Brown,Gelding,PPG,Commands,Tampiko,Lonhro,V151
+844,GB,Unknown,Grey,Gelding,PP,Ishiguru,Lady Georgia,Arazi,N174
+845,AUS,Unknown,Bay,Gelding,PPG,Duporth,Moon Fever,Fusaichi Pegasus,S284
+846,NZ,Unknown,Bay,Gelding,PPG,Savabeel,Chorus,Danasinga,P085
+847,GB,Unknown,Bay,Gelding,PP,Sir Percy,Moiava,Bering,T415
+848,IRE,Unknown,Bay,Gelding,PP,Fastnet Rock,Seven Magicians,Silver Hawk,V170
+849,AUS,Unknown,Brown,Gelding,PPG,Cape Cross,Our Evening Star,Maroof,L393
+850,AUS,Unknown,Brown,Gelding,PPG,Tale Of The Cat,Casino Snip,High Rolling,S372
+851,AUS,Unknown,Bay,Gelding,PPG,Holy Roman Emperor,Richly Deserved,Carnegie,T068
+852,NZ,Unknown,Bay,Gelding,PP,Savabeel,Beyond,Centaine,A096
+853,NZ,Unknown,Bay,Gelding,PP,Iffraaj,Fitzy,Kingsttenham,S349
+854,NZ,Unknown,Brown,Gelding,PPG,Elusive City,Biaire,Best Western,S019
+855,IRE,Unknown,Bay,Gelding,PP,Lawman,Woodland Orchid,Woodman,T101
+856,NZ,Unknown,Chestnut,Gelding,PPG,Makfi,Embargo,O'Reilly,V158
+857,NZ,Unknown,Bay,Mare,VIS,Ekraar,Post Romance,Postponed,V634
+858,AUS,Unknown,Brown,Gelding,PP,Commands,Demanding,Octagonal,V196
+859,GB,Unknown,Chestnut,Gelding,PP,Raven's Pass,Harvest Queen,Spinning World,P423
+860,IRE,Unknown,Bay,Gelding,PP,Danehill Dancer,Spinola,Spinning World,P035
+861,NZ,Unknown,Bay,Gelding,PP,Towkay,Plaything,Victory Dance,P429
+862,GB,Unknown,Bay,Gelding,PP,Encosta de Lago,Artistic Blue,Diesis,M227
+863,AUS,Unknown,Chestnut,Gelding,PP,Sebring,Real Pzazz,Green Desert,S169
+864,AUS,Unknown,Bay,Gelding,PPG,Starcraft,Collodi,Testa Rossa,T009
+865,NZ,Unknown,Chestnut,Gelding,PPG,Per Incanto,Bois de Boulogne,Peintre Celebre,A151
+866,AUS,Unknown,Bay,Gelding,PP,Casino Prince,On Focus,Keltrice,T347
+867,IRE,Unknown,Grey,Gelding,PP,Mastercraftsman,Save The Table,Tale Of The Cat,S156
+868,NZ,Unknown,Bay,Gelding,PP,Savabeel,Diagonal,Redoute's Choice,S362
+869,IRE,Unknown,Bay,Gelding,PP,Elusive City,En Vitesse,Peintre Celebre,S327
+870,IRE,Unknown,Bay,Gelding,PP,Haatef,Symbol Of Peace,Desert Sun,S308
+871,AUS,Unknown,Chestnut,Gelding,PPG,Snippetson,Matter Of Habit,Kaaptive Edition,S095
+872,IRE,Unknown,Chestnut,Gelding,PPG,Shamardal,Easy Lover,Pivotal,T368
+873,IRE,Unknown,Bay,Gelding,PP,Kodiac,Fikrah,Medicean,A195
+874,GB,Unknown,Bay,Gelding,PPG,Byron,Sea Jade,Mujadil,P092
+875,NZ,Unknown,Chestnut,Gelding,PPG,Captain Rio,Singing Angel,Rahy,M080
+876,AUS,Unknown,Brown,Gelding,ISG,Commands,Oh So Discreet,Bluebird,S342
+877,AUS,Unknown,Bay,Gelding,PPG,Husson,Katisam,Lonhro,V388
+878,AUS,Unknown,Bay,Gelding,PPG,Exceed And Excel,Pas de Deux,Sadler's Wells,P287
+879,NZ,Unknown,Bay,Gelding,PPG,Danerich,Magical Slice,Ne Coupez Pas,S420
+880,NZ,Unknown,Bay,Gelding,PPG,Savabeel,Harinui,Generous,A276
+881,AUS,Unknown,Bay,Gelding,PP,Collate,Break Clear,Choisir,T119
+882,AUS,Unknown,Brown,Gelding,PP,Tycoon Ruler,Get A Life,Sequalo,S418
+883,NZ,Unknown,Bay,Gelding,PPG,Black Minnaloushe,Deputise,Deputy Governor,L146
+884,NZ,Unknown,Bay,Gelding,PPG,Elusive City,Dolly Disaster,Twenty Four Karat,T392
+885,AUS,Unknown,Bay,Gelding,PPG,Holy Roman Emperor,Madame de Here,Dehere,P052
+886,NZ,Unknown,Bay,Gelding,ISG,Keeper,Sara Ann,Stravinsky,S344
+887,NZ,Unknown,Brown,Gelding,PP,Handsome Ransom,Panache,Pentire,N408
+888,IRE,Unknown,Bay,Gelding,PP,Danehill Dancer,Showbiz,Sadler's Wells,N399
+889,SAF,Unknown,Bay,Gelding,PPG,Count Dubois,Akilah,Al Mufti,S413
+890,IRE,Unknown,Bay,Gelding,PP,Azamour,Tekindia,Indian Ridge,M207
+891,IRE,Unknown,Chestnut,Gelding,PP,Trade Fair,Swizzle,Efisio,N120
+892,IRE,Unknown,Chestnut,Gelding,PP,Peintre Celebre,Doohulla,Stravinsky,P118
+893,NZ,Unknown,Bay,Gelding,PPG,Rip Van Winkle,Electrostatic,Elnadim,A191
+894,AUS,Unknown,Brown,Gelding,PPG,Onemorenomore,Countess Bathory,Dracula,S323
+895,NZ,Unknown,Bay,Gelding,PPG,Align,Wealth Star,Senor Pete,P135
+896,NZ,Unknown,Bay,Gelding,PPG,Bertolini,Ebony Pearl,Ebony Grosve,M250
+897,NZ,7,Bay,Gelding,PP,Road To Rock,Stylish Bel,Bel Esprit,V380
+898,AUS,Unknown,Brown,Gelding,PPG,Lonhro,Change Of Control,Marauding,S426
+899,IRE,Unknown,Bay,Gelding,PP,Vocalised,Christinas Letter,Galileo,A197
+900,AUS,Unknown,Bay,Gelding,PP,Fastnet Rock,Lisson Grove,Dehere,T121
+901,NZ,Unknown,Chestnut,Gelding,PPG,Danroad,Snow Reason,Sound Reason,P136
+902,AUS,Unknown,Chestnut,Gelding,PPG,Stratum,Royal Snip,Royal Academy,S399
+903,IRE,Unknown,Bay,Gelding,PP,Lope de Vega,Roscoff,Daylami,V053
+904,GB,Unknown,Bay,Gelding,PPG,Makfi,Amicable Terms,Royal Applause,V234
+905,GB,Unknown,Chestnut,Gelding,PP,New Approach,Height Of Vanity,Erhaab,T188
+906,NZ,Unknown,Bay,Gelding,PPG,O'Reilly,The Dazzler,Centaine,P204
+907,NZ,Unknown,Grey,Gelding,PP,Guillotine,Dusk,Marauding,T180
+908,NZ,Unknown,Brown,Gelding,PPG,Pins,Bellataine,Centaine,S035
+909,NZ,Unknown,Bay,Gelding,PP,Coats Choice,Blue Blond,Stravinsky,V017
+910,AUS,Unknown,Bay,Gelding,PP,Hard Spun,La Carmencita,Rancho Ruler,T122
+911,NZ,Unknown,Bay,Gelding,PP,Sandtrap,Pennies In Heaven,Pompeii Court,P195
+912,NZ,Unknown,Chestnut,Gelding,PP,Bachelor Duke,Kadesa,Zabeel,P128
+913,AUS,Unknown,Chestnut,Gelding,PP,Strada,Eugenie Gold,Bluebird,S417
+914,AUS,Unknown,Brown,Gelding,PP,Old Deuteronomy,Ensejaam,End Sweep,T162
+915,AUS,Unknown,Bay,Gelding,PP,More Than Ready,World Joy,Anabaa,V198
+916,AUS,Unknown,Chestnut,Gelding,PPG,Foxwedge,Come Fly With Me,More Than Ready,V418
+917,AUS,Unknown,Bay,Gelding,PPG,Lucky Owners,Princess Carnegie,Carnegie,P146
+918,GB,Unknown,Chestnut,Gelding,PP,Medicean,Muschana,Deploy,M161
+919,NZ,Unknown,Bay,Gelding,PPG,Sakhee's Secret,Winning Spree,Zabeel,S448
+920,AUS,6,Bay,Gelding,PPG,Hinchinbrook,Flion Fenena,Lion Hunter,V397
+921,GB,Unknown,Bay,Gelding,PP,Lawman,Rye,Charnwood Forest,S113
+922,IRE,Unknown,Bay,Gelding,PP,Holy Roman Emperor,Lisa Gherardini,Barathea,A117
+923,FR,Unknown,Bay,Gelding,PP,Lucky Story,Land Bound,Boundary,L254
+924,AUS,Unknown,Brown,Gelding,PPG,Commands,Acupuncture,Pins,N019
+925,NZ,Unknown,Bay,Gelding,PPG,Mastercraftsman,Leigh Valley,Bianconi,V035
+926,NZ,Unknown,Bay,Gelding,PPG,Chianti,Uma,Sudurka,N202
+927,AUS,Unknown,Bay,Gelding,PP,High Chaparral,Cashier,Danehill,V131
+928,AUS,Unknown,Chestnut,Gelding,PP,Dylan Thomas,Sky Alert,Hurricane Sky,V355
+929,NZ,Unknown,Bay,Gelding,PPG,Elusive City,Amalia,Deputy Governor,P216
+930,USA,Unknown,Bay,Gelding,PP,First Defence,Family,Danzig,S110
+931,AUS,Unknown,Bay,Gelding,PPG,Charge Forward,Soprana,Carnegie,S176
+932,AUS,Unknown,Grey,Gelding,PP,Blevic,Miss Witness,El Moxie,T172
+933,USA,Unknown,Grey,Gelding,PP,Highest Honor,Kalpita,Spinning World,L135
+934,NZ,7,Bay,Gelding,PPG,O'Reilly,Former Glory,Dynaformer,A083
+935,JPN,Unknown,Dark Bay,Mare,VIS,Manhattan Cafe,Aqua Ring,Anabaa,A613
+936,IRE,Unknown,Bay,Gelding,PPG,Holy Roman Emperor,Aunt Nicola,Reel Buddy,S048
+937,IRE,Unknown,Bay,Gelding,PP,Danehill Dancer,Bex,Explodent,M127
+938,SPA,Unknown,Bay,Gelding,PP,Caradak,Topita,Daggers Drawn,V045
+939,USA,Unknown,Bay,Gelding,PP,Henrythenavigator,Saintlike,Saint Ballado,V292
+940,IRE,Unknown,Bay,Horse,VIS,Fastnet Rock,Descant,Nureyev,A610
+941,AUS,Unknown,Grey,Gelding,PP,Aussie Rules,Aqua Velva,Spectrum,P373
+942,NZ,Unknown,Bay,Gelding,PPG,Sandtrap,Scuderia,Minardi,T042
+943,AUS,Unknown,Brown,Gelding,PPG,Drumbeats,Lights Off,Way Of Light,A204
+944,IRE,Unknown,Bay,Gelding,PP,Oratorio,Fancy Intense,Peintre Celebre,S330
+945,AUS,Unknown,Bay,Gelding,VIS,Beneteau,Helena Girl,Commands,A622
+946,NZ,Unknown,Bay,Gelding,PPG,Savabeel,Ferazzure,Cape Cross,P438
+947,NZ,Unknown,Bay,Gelding,PPG,Sakhee's Secret,Gypsy's Daughter,Mi Preferido,P437
+948,AUS,Unknown,Brown,Gelding,PP,Teofilo,Tahnee Topaz,Lonhro,V220
+949,AUS,Unknown,Chestnut,Gelding,PPG,Written Tycoon,Karedane,Danehill Dancer,T268
+950,AUS,Unknown,Bay,Gelding,PPG,Flying Spur,Hasna,Snippets,M273
+951,NZ,Unknown,Bay,Gelding,PP,Iffraaj,Slievenamon Marie,King Of Kings,T075
+952,AUS,Unknown,Bay,Gelding,PP,All American,Illusionary,Hussonet,T418
+953,IRE,Unknown,Bay,Horse,VIS,Galileo,Hveger,Danehill,V623
+954,NZ,7,Bay,Gelding,PPG,Red Giant,Quality Dream,Elusive Quality,V274
+955,NZ,Unknown,Bay,Gelding,PPG,Elusive City,Snaabelle,Snaadee,S088
+956,AUS,Unknown,Chestnut,Gelding,PPG,Good Journey,Classy Gift,With Class,T008
+957,GB,Unknown,Bay,Gelding,ISG,Acclamation,Aberavon,Cadeaux Genereux,T323
+958,NZ,Unknown,Chestnut,Gelding,PPG,Swiss Ace,Perfect Silhouette,More Than Ready,V348
+959,SAF,Unknown,Bay,Gelding,PP,Sail From Seattle,Gardener's Delight,Gaint's Causeway,S276
+960,AUS,Unknown,Bay,Gelding,PP,Myboycharlie,Zugat,King Cugat,S350
+961,NZ,Unknown,Bay,Gelding,PPG,Raise The Flag,Stage Flash,Lake Coniston,T264
+962,NZ,Unknown,Bay,Gelding,PP,Postponed,Red Mariete,Red Ransom,P402
+963,AUS,Unknown,Chestnut,Gelding,VIS,Strada,Star Above,Zabeel,S621
+964,AUS,Unknown,Bay,Gelding,PPG,Hussonet,Mariner's Court,Helissio,S369
+965,AUS,6,Bay,Gelding,PPG,Captain Sonador,Pyramisa's Lass,Not A Single Doubt,V303
+966,NZ,Unknown,Chestnut,Gelding,PPG,Battle Paint,Dominica,Cape Cross,T181
+967,AUS,Unknown,Bay,Gelding,PPG,Not A Single Doubt,Leisure Pass,Umatilla,V258
+968,GER,Unknown,Bay,Gelding,ISG,Soldier Hollow,C'est L'Amour,Whipper,A308
+969,AUS,6,Bay,Gelding,PPG,Red Element,Bokissa,Bradbury's Luck,A208
+970,AUS,Unknown,Bay,Gelding,PP,Jet Spur,Ten Eighty,Volksraad,T239
+971,AUS,8,Bay,Gelding,PPG,Danzero,Dance Hit,Tights,T022
+972,AUS,Unknown,Grey,Gelding,PPG,Snippetson,Rapid Smile,Carry A Smile,P029
+973,AUS,Unknown,Brown,Gelding,PP,Fusaichi Pegasus,Rogan's Gem,Orpen,N265
+974,NZ,Unknown,Bay,Gelding,VIS,Elusive City,Swiftsure,Jungle Pocket,A604
+975,AUS,Unknown,Bay,Gelding,PP,Smart Missile,Some Girls Do,More Than Ready,A214
+976,IRE,7,Grey,Gelding,ISG,Fastnet Rock,Amenixa,Linamix,V329
+977,AUS,Unknown,Bay,Gelding,PPG,Testa Rossa,Show No Restraint,Barathea,N445
+978,AUS,Unknown,Bay,Gelding,PPG,Exceed And Excel,On Hallowed Ground,Don't Say Halo,T176
+979,FR,Unknown,Chestnut,Gelding,VIS,Deportivo,Grenoble,Marignan,V612
+980,NZ,Unknown,Bay,Gelding,PPG,Falkirk,Courtly Fashion,Black Minnaloushe,T025
+981,AUS,Unknown,Bay,Gelding,PPG,Not A Single Doubt,Arthur's Lass,Unduplicated,A104
+982,AUS,Unknown,Bay,Gelding,PPG,Fastnet Rock,West Of Katrina,Gone West,T137
+983,NZ,Unknown,Bay,Gelding,ISG,Pins,Lucida,O'Reilly,T339
+984,NZ,6,Bay,Brown,PPG,Per Incanto,Godspell,Xaar,V376
+985,GB,Unknown,Bay,Gelding,PP,Royal Applause,Naizak,Medicean,V117
+986,IRE,Unknown,Brown,Gelding,ISG,Footstepsinthesand,Capriole,Noverre,V318
+987,AUS,Unknown,Bay,Gelding,PPG,Lonhro,Snippety Eve,Pins,T032
+988,NZ,Unknown,Chestnut,Gelding,PPG,Traditionally,Mirima,Last Tycoon,H173
+989,NZ,Unknown,Chestnut,Gelding,PP,Brilliance,Clonpet,Hadaad,P001
+990,IRE,Unknown,Bay,Gelding,PP,Dylan Thomas,Tango Tonic,Trans Island,S109
+991,GB,Unknown,Bay,Gelding,PP,Iceman,Colonel's Daughter,Colonel Collins,N187
+992,AUS,Unknown,Brown,Gelding,PPG,Strada,Dublin Me Bet,O'Reilly,P063
+993,NZ,6,Brown,Gelding,PPG,Savabeel,Quatro,Rock Of Gibraltar,A277
+994,NZ,Unknown,Bay,Gelding,VIS,One Cool Cat,Dream Princess,Maroof,A611
+995,NZ,Unknown,Chestnut,Gelding,PPG,Starcraft,Lady Twain,Flying Spur,S139
+996,NZ,Unknown,Bay,Gelding,PP,Bahhare,Miss Lewinsky,Pentire,N303
+997,NZ,7,Grey,Gelding,PPG,Mastercraftsman,Just A Dream,Volksraad,A055
+998,NZ,7,Bay,Gelding,PPG,Casino Prince,Miraflores,Johar,A044
+999,AUS,Unknown,Brown,Gelding,PPG,Domesday,Family Breakup,Octagonal,S421
+1000,JPN,Unknown,Bay,Mare,VIS,Fuji Kiseki,Never Period,Taiki Shuttle,T606
+1001,AUS,Unknown,Bay,Gelding,PPG,Strada,Snapwood,Bin Ajwaad,N434
+1002,USA,Unknown,Chestnut,Gelding,ISG,Lion Heart,Silent Academy,Royal Academy,P237
+1003,USA,Unknown,Bay,Gelding,PP,Lemon Drop Kid,La Sarto,Cormorant,P266
+1004,NZ,Unknown,Bay,Gelding,PPG,Red Giant,Sweet Vibes,Danehill,T140
+1005,NZ,Unknown,Bay,Gelding,PP,Painted Black,Validify,Kashani,P130
+1006,AUS,6,Bay,Gelding,PPG,Not A Single Doubt,Plain Crazy,Bite The Bullet,A189
+1007,AUS,Unknown,Bay,Gelding,PPG,Magic Albert,Inaname,Catbird,V157
+1008,AUS,8,Grey,Gelding,PP,Reaan,Grey Deceiver,Commands,T400
+1009,IRE,Unknown,Bay,Gelding,PP,Acclamation,Amistad,Winged Love,P262
+1010,IRE,Unknown,Bay,Brown,VIS,Dylan Thomas,Mother Of Pearl,Sadler's Wells,T609
+1011,AUS,Unknown,Bay,Gelding,ISG,Fastnet Rock,Elite Circle,Encosta de Lago,T343
+1012,AUS,Unknown,Brown,Gelding,PPG,Nadeem,So Gorgeous,Brief Truce,N152
+1013,AUS,Unknown,Chestnut,Gelding,PPG,Written Tycoon,Minka,Haayil,S400
+1014,IRE,Unknown,Bay,Gelding,PPG,Marju,Encouragement,Royal Applause,N110
+1015,NZ,Unknown,Bay,Gelding,PPG,Alamosa,Nikey Davone,Bertolini,S389
+1016,AUS,Unknown,Bay,Gelding,PPG,Bernardini,Snowfall,End Sweep,P073
+1017,IRE,Unknown,Bay,Gelding,ISG,Kodiac,Call Later,Gone West,V331
+1018,NZ,Unknown,Bay,Gelding,PPG,Coats Choice,Elle Taine,Centaine,S128
+1019,NZ,Unknown,Chestnut,Gelding,PPG,Volksraad,Parity,Generous,N084
+1020,AUS,Unknown,Brown,Gelding,PPG,High Chaparral,Red Hot Mama,General Nediym,S423
+1021,NZ,Unknown,Bay,Gelding,PP,Darci Brahma,Lava Lady,Kenmare,A261
+1022,AUS,Unknown,Grey,Gelding,PP,Murtajill,Missliyev,Fasliyev,S315
+1023,IRE,Unknown,Bay,Gelding,PP,High Chaparral,Irish Style,Mujadil,P425
+1024,NZ,9,Chestnut,Gelding,PPG,Sakhee's Secret,Dantessa,Danasinga,S093
+1025,IRE,Unknown,Grey,Gelding,PP,Mastercraftsman,Splash Mountain,Peintre Celebre,T366
+1026,AUS,Unknown,Bay,Gelding,PP,Hussonet,Weaver Of Words,Danehill,S162
+1027,IRE,Unknown,Bay,Gelding,PP,Oratorio,Bluebell Wood,Bluebird,P272
+1028,NZ,7,Bay,Gelding,PPG,Per Incanto,Vital Choice,Stratum,A057
+1029,NZ,Unknown,Bay,Gelding,PP,Bertolini,French Kiss,Paris House,N262
+1030,NZ,Unknown,Bay,Gelding,PPG,Showcasing,Danceabeel,Zabeel,V105
+1031,AUS,Unknown,Bay,Gelding,PPG,Fastnet Rock,Dakota Sue,Pollard's Vision,V086
+1032,AUS,Unknown,Bay,Gelding,PPG,Henrythenavigator,Minnie Deal,Street Cry,T029
+1033,GB,Unknown,Bay,Gelding,PP,Dutch Art,Black Belt Shopper,Desert Prince,V187
+1034,NZ,Unknown,Chestnut,Gelding,PPG,Postponed,Repetition,Kingdom Bay,N433
+1035,AUS,Unknown,Bay,Gelding,PPG,Alamosa,Tully Lass,Volksraad,S084
+1036,AUS,Unknown,Brown,Gelding,PPG,Bel Esprit,Murray Mary,Black Minnaloushe,T167
+1037,NZ,Unknown,Brown,Gelding,PPG,O'Reilly,Curbyourenthusiasm,Danasinga,S032
+1038,NZ,Unknown,Brown,Gelding,PP,Zorro's Lad,Malvern Lass,Kreisler,K360
+1039,NZ,Unknown,Chestnut,Gelding,PPG,Coats Choice,Illusive Hope,Spectrum,T020
+1040,ARG,Unknown,Chestnut,Gelding,PPG,Peintre Celebre,Lady Nicole,West By West,M360
+1041,IRE,Unknown,Bay,Gelding,PP,Cape Cross,Faithful One,Dubawi,V349
+1042,GB,Unknown,Bay,Gelding,PPG,Marju,High Barn,Shirley Heights,K411
+1043,NZ,Unknown,Chestnut,Gelding,PPG,Chinese Dragon,Jet Set Chic,Jetball,S384
+1044,NZ,Unknown,Bay,Gelding,PPG,Bel Esprit,Sabio Lass,Carnegie,P197
+1045,AUS,Unknown,Bay,Gelding,PP,Domesday,Nurmaah,Rock Of Gibraltar,T397
+1046,NZ,Unknown,Bay,Gelding,PPG,Keeper,Laurel,Woodman,S133
+1047,AUS,Unknown,Chestnut,Gelding,PP,Sebring,Elle Labelle,Elvstroem,A297
+1048,NZ,Unknown,Bay,Brown,PP,Showcasing,Fantasy World,Zabeel,V395
+1049,NZ,Unknown,Bay,Gelding,PPG,Thorn Park,Kashira,Montjeu,T046
+1050,NZ,Unknown,Brown,Gelding,PP,O'Reilly,Tropical Beat,Hurricane Sky,V415
+1051,AUS,6,Bay,Gelding,PP,Pluck,Miguelita,Danehill,A040
+1052,IRE,Unknown,Bay,Gelding,PPG,Fastnet Rock,Ardere,El Prado,V248
+1053,IRE,Unknown,Bay,Gelding,PP,Marju,Be Crafty,Crafty Prospector,L140
+1054,IRE,Unknown,Black,Horse,PP,Cacique,Es Que,Inchinor,N169
+1055,IRE,Unknown,Bay,Gelding,PP,Amadeus Wolf,Pearls Of Wisdom,Kyllachy,S247
+1056,AUS,Unknown,Bay,Gelding,PP,Rothesay,So In Need,Nediym,V256
+1057,GB,Unknown,Bay,Gelding,PP,Invincible Spirit,Lesgor,Irish River,M057
+1058,AUS,Unknown,Bay,Gelding,PPG,Casino Prince,Ausbred Chic,Grand Lodge,S012
+1059,AUS,Unknown,Bay,Gelding,PPG,Strada,Accent,Nassipour,S433
+1060,NZ,Unknown,Bay,Gelding,PP,Ishiguru,Kessem's Dream,Kessem,M246
+1061,AUS,Unknown,Bay,Gelding,PPG,Bernardini,Miguelita,Danehill,T182
+1062,AUS,8,Chestnut,Gelding,PP,Husson,Russian Belle,Stravinsky,T380
+1063,FR,Unknown,Bay,Gelding,PP,Sea The Stars,Shemaya,Darshaan,T143
+1064,AUS,Unknown,Bay,Gelding,PP,Nicconi,Divine Choice,Rock Of Gibraltar,V135
+1065,NZ,Unknown,Bay,Gelding,PP,Rios,Playacting,Royal Academy,V094
+1066,AUS,Unknown,Chestnut,Gelding,PPG,Magic Albert,Grand Bird,Catbird,T216
+1067,AUS,Unknown,Bay,Gelding,PPG,Encosta de Lago,Skates,Danehill,S205
+1068,AUS,Unknown,Bay,Gelding,PP,I Am Invincible,Gold Licence,Hussonet,T399
+1069,AUS,Unknown,Bay,Gelding,PPG,Oamaru Force,Curzon Dancer,Danehill Dancer,A144
+1070,AUS,Unknown,Chestnut,Gelding,PPG,Magic Albert,Spire,Danehill,S396
+1071,IRE,Unknown,Bay,Gelding,PP,Shamardal,Takaliya,Darshaan,N384
+1072,AUS,6,Bay,Gelding,PPG,Tickets,Fleur de Lion,Tale Of The Cat,A179
+1073,AUS,8,Bay,Gelding,PPG,More Than Ready,Dizelle,Zabeel,T281
+1074,GB,Unknown,Bay,Gelding,PP,Compton Place,Guermantes,Distant Relative,S142
+1075,AUS,Unknown,Bay,Gelding,PPG,Good Journey,Be My Person,Personal Flag,P110
+1076,AUS,Unknown,Bay,Gelding,PPG,Congrats,Secover,Danehill,A102
+1077,NZ,Unknown,Brown,Gelding,PP,Savabeel,Generous Nature,Carnegie,T127
+1078,ITY,Unknown,Bay,Gelding,PP,Dr Fong,Sommerflora,Pivotal,T284
+1079,AUS,Unknown,Chestnut,Gelding,PP,Helmet,Preserve,Canny Lad,A250
+1080,GB,Unknown,Bay,Gelding,PPG,Bahamian Bounty,Latent Lover,In The Wings,P353
+1081,AUS,Unknown,Chestnut,Gelding,PP,Hussonet,Ambika,Indian Danehill,V297
+1082,GB,Unknown,Bay,Gelding,PP,Bahamian Bounty,Gee Kel,Danehill Dancer,P190
+1083,AUS,Unknown,Bay,Gelding,PPG,Zariz,Ponder,Strategic,V262
+1084,AUS,Unknown,Brown,Gelding,PPG,Myboycharlie,Montelimar,Fusaichi Pegasus,T248
+1085,JPN,Unknown,Dark Bay,Horse,VIS,Marju,Jioconda,Rossini,V632
+1086,AUS,6,Bay,Gelding,PPG,Choisir,A Class Act,Brief Truce,A075
+1087,NZ,Unknown,Bay,Gelding,PPG,Iffraaj,Danasia,Danehill,V155
+1088,AUS,Unknown,Bay,Gelding,ISG,Encosta de Lago,Sun Song,Desert Sun,P230
+1089,NZ,Unknown,Bay,Gelding,PPG,Ishiguru,Glo By J'Lo,Green Perfume,P081
+1090,GB,Unknown,Bay,Gelding,PP,Bahamian Bounty,Sheer Indulgence,Pivotal,T050
+1091,GB,Unknown,Bay,Gelding,PP,Dutch Art,Lalectra,King Charlemagne,S107
+1092,AUS,8,Brown,Gelding,PP,Show A Heart,Twirling Heights,Spinning World,T273
+1093,GB,Unknown,Bay,Gelding,ISG,Invincible Spirit,My Renee,Kris S,T333
+1094,AUS,Unknown,Bay,Gelding,PP,Not A Single Doubt,Richie's Pet,Splendent,P414
+1095,AUS,Unknown,Chestnut,Gelding,PP,Dehere,Crackle Dash,Hennessy,T159
+1096,AUS,7,Bay,Gelding,PP,Onemorenomore,Krysia,Elvstroem,V207
+1097,AUS,Unknown,Chestnut,Gelding,ISG,Magic Albert,Romany Flyer,Catbird,T342
+1098,NZ,Unknown,Bay,Gelding,PPG,Keeper,Heavenly Trail,Godswalk,N282
+1099,NZ,Unknown,Bay,Gelding,PPG,Savabeel,Eden,Zeditave,V039
+1100,AUS,Unknown,Chestnut,Gelding,PPG,Show A Heart,Swinging Feeling,Danasinga,P149
+1101,SAF,Unknown,Bay,Gelding,PP,King Of Kings,Mabaleng,Sportsworld,P398
+1102,GB,Unknown,Chestnut,Gelding,PP,Selkirk,Starfan,Lear Fan,N209
+1103,AUS,Unknown,Bay,Gelding,PP,Northern Meteor,Tactfully,Flying Spur,T171
+1104,AUS,8,Bay,Gelding,PP,Churchill Downs,Caralowe,Hennessy,T348
+1105,NZ,Unknown,Brown,Gelding,PPG,Pins,Bellataine,Centaine,N167
+1106,IRE,Unknown,Bay,Gelding,PP,Invincible Spirit,Cephalonie,Kris S,V166
+1107,IRE,Unknown,Bay,Gelding,PP,Kheleyf,Fancy Theory,Quest For Fame,N397
+1108,AUS,Unknown,Bay,Gelding,PPG,I Am Invincible,Chirurgo Dame,Flying Spur,V203
+1109,USA,8,Chestnut,Gelding,PP,Hard Spun,Fine Jade,Jade Hunter,V119
+1110,AUS,Unknown,Bay,Gelding,PP,Snitzel,Thunder Belle,Thunder Gulch,V150
+1111,NZ,Unknown,Brown,Gelding,PPG,Thorn Park,Miss Distinction,Bletchencore,V296
+1112,AUS,8,Brown,Gelding,PP,Dane Shadow,Borobodur,Strategic,T372
+1113,IRE,Unknown,Bay,Gelding,PP,Invincible Spirit,Riotous Applause,Royal Applause,P265
+1114,NZ,Unknown,Bay,Gelding,PP,Fully Fledged,Cannikin,Canny Lad,S348
+1115,AUS,Unknown,Bay,Gelding,PP,Churchill Downs,Rose Line,Alannan,S415
+1116,USA,7,Chestnut,Gelding,PP,Giant's Causeway,Canterbury Lace,Danehill,A114
+1117,AUS,Unknown,Bay,Gelding,PP,Duporth,Calibre Cut,Danehill Dancer,V128
+1118,NZ,Unknown,Bay,Gelding,PPG,Darci Brahma,Mystify,Montjeu,S268
+1119,AUS,Unknown,Bay,Gelding,PPG,Stryker,Flushed,Redding,A283
+1120,IRE,Unknown,Bay,Gelding,PP,Big Bad Bob,Heroine,Sadler's Wells,P096
+1121,AUS,Unknown,Bay,Gelding,VIS,Mossman,Spirit Of The Nite,Slavic,S623
+1122,IRE,Unknown,Brown,Gelding,PP,Invincible Spirit,Doula,Gone West,N254
+1123,NZ,Unknown,Bay,Gelding,PP,Zed,Simply Sally,Sackford,S083
+1124,IRE,Unknown,Chestnut,Gelding,PP,Showcasing,Armanda,Acatenango,V247
+1125,AUS,Unknown,Chestnut,Gelding,PPG,Magic Albert,Lady Starstruck,Mr Henrysee,P180
+1126,AUS,Unknown,Brown,Gelding,PPG,Astronomer Royal,Camomile,Octagonal,T166
+1127,NZ,Unknown,Bay,Gelding,ISG,Commands,Laurinel Princess,Desert Prince,T341
+1128,AUS,Unknown,Bay,Gelding,PP,Red Dazzler,Silky Tiger,Hold That Tiger,A352
+1129,NZ,Unknown,Bay,Gelding,PP,Iffraaj,Clavarias,Candy Stripes,S182
+1130,NZ,Unknown,Bay,Gelding,PPG,Pins,Cause A Scene,Scenic,N359
+1131,AUS,Unknown,Bay,Gelding,PPG,Bel Esprit,Straight By,Mookta,N092
+1132,AUS,Unknown,Bay,Gelding,PPG,Beneteau,Gift Bouquet,King's High,V282
+1133,NZ,Unknown,Bay,Gelding,PPG,Iffraaj,China Choice,Encosta de Lago,V031
+1134,ITY,Unknown,Bay,Gelding,PP,Storm Mountain,Certosa Di Pavia,Haafhd,A156
+1135,AUS,Unknown,Bay,Gelding,PP,Bernardini,La Falette,Faltaat,T313
+1136,AUS,Unknown,Bay,Gelding,PP,Holy Roman Emperor,Madam Spank,Bellotto,P301
+1137,NZ,6,Bay,Gelding,PPG,Ekraar,Keeperinthemyst,Keeper,A267
+1138,NZ,Unknown,Chestnut,Gelding,PPG,Ishiguru,Greensleeves,Green Perfume,N134
+1139,AUS,Unknown,Bay,Gelding,PPG,Tale Of The Cat,Dance Move,Danehill Dancer,T073
+1140,AUS,Unknown,Chestnut,Gelding,PPG,Ad Valorem,Jahre,Encosta de Lago,V004
+1141,GB,9,Bay,Gelding,PP,Myboycharlie,Lilli Marlane,Sri Pekan,S254
+1142,AUS,Unknown,Bay,Gelding,PPG,Commands,La Silva,Octagonal,S419
+1143,NZ,Unknown,Bay,Gelding,PP,Perfectly Ready,Chillies,Wild Rampage,T317
+1144,AUS,Unknown,Bay,Gelding,PPG,Not A Single Doubt,Annie's River,Canny Lad,P058
+1145,AUS,Unknown,Brown,Gelding,PP,Medaglia d'Oro,Across The Moon,Stratum,A139
+1146,NZ,Unknown,Bay,Gelding,PPG,Fast 'N' Famous,Gilfinali,Blues Traveller,A289
+1147,AUS,Unknown,Bay,Gelding,PPG,Hussonet,Work Of Heart,Revoque,V212
+1148,AUS,Unknown,Bay,Brown,VIS,California Dane,Texarcana,More Than Ready,A602
+1149,NZ,Unknown,Bay,Gelding,PPG,Battle Paint,Limelight,Deputy Governor,T294
+1150,NZ,Unknown,Bay,Gelding,PP,Pins,The Bod,Spectrum,P157
+1151,IRE,Unknown,Bay,Gelding,PP,Azamour,Cadence,Cadeaux Genereux,S076
+1152,AUS,9,Chestnut,Gelding,PP,Exceed And Excel,Grilse,Rahy,S235
+1153,AUS,Unknown,Brown,Gelding,PP,Bel Esprit,Vegas Show,Keltrice,T419
+1154,IRE,Unknown,Brown,Gelding,ISG,Anabaa,Lanciana,Acatenango,P363
+1155,AUS,Unknown,Bay,Gelding,PPG,So You Think,Dariana,Redoute's Choice,A014
+1156,IRE,Unknown,Chestnut,Gelding,PP,Intense Focus,Farida,Soviet Star,T111
+1157,FR,Unknown,Bay,Brown,PPG,Footstepsinthesand,Jennie Jerome,Pivotal,V312
+1158,NZ,Unknown,Chestnut,Gelding,PPG,Iffraaj,Swan Lake,Green Perfume,V034
+1159,NZ,Unknown,Bay,Gelding,PPG,High Chaparral,Queen Caelia,Sir Tristram,T228
+1160,GB,Unknown,Chestnut,Gelding,PP,Dutch Art,Highland Starlight,Dixieland Band,V177
+1161,NZ,Unknown,Bay,Gelding,PP,Falkirk,Flying Spray,Hunza Court,M376
+1162,NZ,Unknown,Bay,Gelding,PPG,Pins,Bali Sugar,Christmas Tree,V145
+1163,IRE,Unknown,Bay,Gelding,PP,Canford Cliffs,Awjila,Oasis Dream,A162
+1164,FR,Unknown,Bay,Gelding,PP,Anabaa Blue,Domus Orea,Gone West,P116
+1165,NZ,Unknown,Chestnut,Gelding,PPG,Coats Choice,Chimalis,Chief Bearhart,S444
+1166,NZ,Unknown,Bay,Gelding,PP,Lucky Unicorn,Dawn Run,Sir Tristram,M377
+1167,AUS,Unknown,Brown,Gelding,PP,Captain Sonador,Pyramisa's Lass,Not A Single Doubt,V410
+1168,NZ,Unknown,Chestnut,Gelding,PPG,Castledale,Princess Elite,Royal Academy,P008
+1169,NZ,Unknown,Brown,Gelding,ISG,Savabeel,Lucida,O'Reilly,V333
+1170,NZ,Unknown,Bay,Gelding,ISG,Encosta de Lago,Giovana,Blues Traveller,S220
+1171,IRE,Unknown,Bay,Gelding,PP,Chineur,Knapton Hill,Zamindar,N193
+1172,NZ,Unknown,Bay,Gelding,PP,O'Reilly,Minnie Belt,Oregon,N309
+1173,AUS,Unknown,Bay,Gelding,PPG,New Approach,Wannabe Grand,Danehill,V366
+1174,AUS,Unknown,Chestnut,Gelding,PPG,Star Witness,Venassas Jig,Street Cry,V261
+1175,NZ,Unknown,Chestnut,Gelding,PPG,Thorn Park,Deceit,Casual Lies,T385
+1176,AUS,Unknown,Bay,Gelding,PP,Written Tycoon,Whinewomen'N'song,Danasinga,V362
+1177,AUS,Unknown,Bay,Gelding,ISG,Starcraft,Top Cuban,Anabaa,V328
+1178,IRE,Unknown,Chestnut,Gelding,PPG,Sir Prancealot,Tides,Bahamian Bounty,A243
+1179,AUS,Unknown,Chestnut,Gelding,PP,Canny Lad,Material Girl,Flying Spur,N389
+1180,GB,Unknown,Bay,Gelding,PP,Kyllachy,Lihou Island,Beveled,M400
+1181,USA,Unknown,Bay,Gelding,PP,Arch,Magic Of Love,Magic Ring,N224
+1182,AUS,Unknown,Bay,Gelding,PP,Tale Of The Cat,Santoya,College Chapel,T213
+1183,GB,Unknown,Bay,Gelding,PP,Red Clubs,Litewska,Mujadil,N182
+1184,AUS,Unknown,Chestnut,Gelding,PP,Star Witness,Strikeline,Desert Sun,V081
+1185,AUS,Unknown,Bay,Gelding,PP,Hard Spun,Munchie,Snippets,T398
+1186,IRE,Unknown,Bay,Gelding,PP,Lope de Vega,Lake Moon,Tiger Hill,V183
+1187,IRE,Unknown,Bay,Gelding,PPG,Dark Angel,Another Valentine,Bering,S258
+1188,IRE,Unknown,Bay,Gelding,PP,Dylan Thomas,Gently,Darshaan,S108
+1189,AUS,Unknown,Brown,Gelding,PPG,Sebring,Lady Diva,Polish Navy,T085
+1190,AUS,Unknown,Bay,Gelding,PP,Exceed And Excel,Famewin,Quest for Fame,P277
+1191,NZ,Unknown,Bay,Gelding,PPG,Volksraad,Joue Le Jeu,Montjeu,S140
+1192,IRE,Unknown,Chestnut,Gelding,PPG,Noverre,Razana,Kahyasi,N179
+1193,AUS,Unknown,Bay,Mare,PP,Exceed And Excel,Heptonstall,Octagonal,A038
+1194,FR,7,Bay,Gelding,PP,Air Chief Marshal,Lidana,King's Best,A129
+1195,NZ,6,Brown,Gelding,PPG,Savabeel,Grand Princess,Last Tycoon,A061
+1196,IRE,Unknown,Chestnut,Gelding,PP,Approve,Birthday Present,Cadeaux Genereux,T291
+1197,AUS,Unknown,Bay,Gelding,PP,Dane Shadow,Gone Wild,Viscount,T055
+1198,AUS,Unknown,Bay,Gelding,PPG,Catbird,Lady Petunia,Western Symphony,M217
+1199,AUS,Unknown,Chestnut,Gelding,PPG,Starcraft,Carina,Rory's Jester,P115
+1200,AUS,Unknown,Brown,Gelding,PPG,Skilled,Oh What A Song,Octagonal,A145
+1201,AUS,Unknown,Bay,Gelding,PPG,Commands,Sevillano,Octagonal,A219
+1202,AUS,Unknown,Chestnut,Gelding,PPG,Testa Rossa,Final Act,Came Home,S071
+1203,AUS,Unknown,Chestnut,Gelding,PPG,Show A Heart,Jessepic,General Nediym,S212
+1204,FR,Unknown,Grey,Gelding,PPG,Smadoun,Prima,Monsun,V238
+1205,GB,Unknown,Bay,Colt,VIS,Lawman,Saying,Giant's Causeway,A628
+1206,IRE,6,Bay,Gelding,PP,Famous Name,Agnetha,Big Shuffle,A164
+1207,NZ,7,Bay,Gelding,PPG,Pins,Dandify,Danehill,T361
+1208,AUS,Unknown,Chestnut,Gelding,PPG,Akhadan,Yahero,Mr Henrysee,S201
+1209,AUS,Unknown,Bay,Gelding,PP,Tale Of The Cat,Biosphere,Encosta de Lago,P132
+1210,NZ,Unknown,Bay,Gelding,PPG,Black Minnaloushe,The Mighty Lions,Grosvenor,L019
+1211,AUS,Unknown,Chestnut,Gelding,PPG,Duke Of Marmalade,Super Assassin,Galileo,A029
+1212,AUS,Unknown,Bay,Gelding,ISG,Fastnet Rock,Snake Mary,Anabaa,S225
+1213,NZ,Unknown,Bay,Gelding,PP,Commands,Annie Daly,Spinning World,S078
+1214,NZ,Unknown,Chestnut,Gelding,PPG,Iffraaj,Windsor Walk,Centaine,T319
+1215,AUS,Unknown,Brown,Gelding,PPG,Barely A Moment,Opononi,Dolphin Street,N044
+1216,IRE,Unknown,Bay,Gelding,PP,Holy Roman Emperor,Noble Indiana,Indian Ridge,V052
+1217,AUS,Unknown,Bay,Mare,PP,Al Samer,Winning Rhoda,Festival Hall,V054
+1218,NZ,Unknown,Bay,Gelding,ISG,O'Reilly,Happily Ever After,No Excuse Needed,T335
+1219,NZ,Unknown,Bay,Gelding,PP,Thorn Park,Dosh,Danske,S382
+1220,AUS,Unknown,Bay,Gelding,PP,Holy Roman Emperor,Permai,Rory's Jester,S237
+1221,IRE,Unknown,Bay,Gelding,PP,Kheleyf,Catching Stars,Halling,P185
+1222,AUS,Unknown,Chestnut,Gelding,PPG,Teofilo,Bedelia,Peintre Celebre,T088
+1223,AUS,Unknown,Chestnut,Gelding,PPG,Henny Hughes,La Bella Zoccola,Snippets,T260
+1224,NZ,Unknown,Bay,Gelding,PPG,One Cool Cat,Down View,Gone West,P205
+1225,JPN,Unknown,Brown,Horse,VIS,Deep Impact,Ruby,Danehill,T608
+1226,AUS,Unknown,Bay,Gelding,PPG,Exceed And Excel,Best O' Barossa,Canny Lad,N240
+1227,NZ,Unknown,Bay,Gelding,PPG,Sufficient,Malika,Sandtrap,V377
+1228,NZ,Unknown,Bay,Gelding,PP,Pentire,Sunshine Gold,Zabeel,T270
+1229,GB,Unknown,Bay,Gelding,ISG,Dansili,Heaven Sent,Pivotal,S341
+1230,AUS,Unknown,Bay,Gelding,PPG,El Moxie,Fire Lake,Bureaucracy,M011
+1231,NZ,Unknown,Bay,Gelding,PPG,Testa Rossa,Wolfmother,Secret Savings,S243
+1232,NZ,Unknown,Bay,Gelding,PPG,Bachelor Duke,Shinko Blu,Shinko Forest,T136
+1233,AUS,Unknown,Bay,Gelding,PP,Encosta de Lago,Myrrh,Nassipour,T236
+1234,NZ,Unknown,Brown,Gelding,PP,O'Reilly,Espurante,Flying Spur,S351
+1235,AUS,Unknown,Brown,Gelding,PP,Sebring,Gabrieli,Red Ransom,S363
+1236,IRE,Unknown,Chestnut,Gelding,ISG,Excellent Art,Uliana,Darshaan,T338
+1237,AUS,Unknown,Bay,Brown,PP,O'Reilly,Belmont Cat,Felix The Cat,V299
+1238,AUS,Unknown,Bay,Gelding,PPG,Medaglia d'Oro,Call Me Chrissie,Orpen,T409
+1239,NZ,8,Grey,Gelding,PP,Mastercraftsman,Staryn Glenn,Montjeu,V149
+1240,AUS,Unknown,Bay,Brown,PP,Stratum,Duchess Cara,Quest For Fame,P212
+1241,IRE,Unknown,Brown,Gelding,PP,Requinto,Positive Step,Footstepsinthesand,A158
+1242,NZ,Unknown,Bay,Gelding,PPG,O'Reilly,Hooked Ona Feeling,Zabeel,S269
+1243,NZ,Unknown,Chestnut,Gelding,PP,Handsome Ransom,Superjet,Jetball,P385
+1244,IRE,Unknown,Bay,Gelding,ISG,Elusive City,Louve de Saron,Loup Solitaire,P239
+1245,AUS,Unknown,Chestnut,Gelding,PP,Husson,Fiery Dee,Fraar,T238
+1246,AUS,Unknown,Chestnut,Gelding,PPG,Floral Pegasus,Yoobabe,Flying Spur,T215
+1247,IRE,Unknown,Bay,Gelding,PP,Acclamation,Affirmative,Pivotal,V185
+1248,AUS,Unknown,Bay,Gelding,PP,Danerich,Aunty Hilda,Nassipour,S313
+1249,AUS,Unknown,Bay,Gelding,PP,Court Command,Catnipped,Rory's Jester,S051
+1250,AUS,6,Bay,Gelding,PPG,Exceed And Excel,Nandi,Dynaformer,A081
+1251,AUS,Unknown,Bay,Gelding,PPG,New Approach,Quatro,Rock Of Gibraltar,S031
+1252,NZ,Unknown,Bay,Gelding,PPG,O'Reilly,Gesine,Nassipour,S033
+1253,AUS,Unknown,Bay,Gelding,PPG,Choisir,Miss Conception,Danzero,P255
+1254,GB,Unknown,Bay,Gelding,ISG,Shamardal,Mania,Danehill,P366
+1255,AUS,Unknown,Bay,Gelding,PPG,Dubawi,Strike Fire,Luskin Star,P011
+1256,AUS,Unknown,Bay,Gelding,PPG,Exceedingly Good,Swept Along,End Sweep,T177
+1257,AUS,Unknown,Bay,Gelding,PP,Al Maher,Fatoon,Snaadee,S277
+1258,AUS,Unknown,Chestnut,Gelding,PPG,Turffontein,Allapattah,Umatilla,A015
+1259,NZ,6,Bay,Gelding,PPG,Darci Brahma,Grace And Eva,Stravinsky,A142
+1260,AUS,Unknown,Chestnut,Gelding,PP,Shamardal,Ponte Piccolo,Volksraad,P303
+1261,FR,Unknown,Brown,Gelding,PP,Footstepsinthesand,Avera,Monsun,S373
+1262,NZ,7,Bay,Gelding,PP,Shocking,Zaquabeel,Zabeel,A041
+1263,NZ,Unknown,Bay,Gelding,PP,Perfectly Ready,Bedrock,Pins,S263
+1264,AUS,Unknown,Bay,Gelding,PP,Danewin,Kimash,Jeune,L078
+1265,USA,Unknown,Dark Bay,Gelding,PP,Mizzen Mast,Storm Dove,Storm Bird,T219
+1266,SAF,Unknown,Bay,Gelding,PP,Jet Master,Calamint,Jallad,V180
+1267,NZ,Unknown,Bay,Gelding,PP,Tavistock,Bagalollies,Zabeel,V083
+1268,JPN,Unknown,Grey,Colt,VIS,Deep Impact,Badeelah,Unbridled's Song,V609
+1269,NZ,Unknown,Bay,Gelding,ISG,Savabeel,Now The World,Flying Spur,A307
+1270,NZ,Unknown,Grey,Gelding,PP,Indy King,Foxy Boss,Oregon,T201
+1271,AUS,Unknown,Bay,Gelding,VIS,Mossman,Action Annie,Anabaa,T604
+1272,AUS,Unknown,Bay,Gelding,PPG,Sebring,Amusements,Anabaa,A210
+1273,GB,6,Grey,Gelding,PP,Elzaam,Jillolini,Bertolini,A130
+1274,AUS,Unknown,Brown,Gelding,PPG,Dane Shadow,Russian Classic,Stravinsky,S202
+1275,USA,Unknown,Grey,Mare,VIS,Closing Argument,Bijoux Miss,Buddha,T607
+1276,GB,Unknown,Bay,Gelding,PPG,Sayif,Ellway Queen,Bahri,A070
+1277,IRE,Unknown,Bay,Gelding,ISG,Oratorio,Cape Columbine,Diktat,S346
+1278,AUS,Unknown,Chestnut,Gelding,PP,Choisir,Vocal Dancer,Citidancer,S159
+1279,NZ,Unknown,Brown,Gelding,PPG,Thewayyouare,Striking Sneek,Straight Strike,V107
+1280,IRE,Unknown,Bay,Gelding,ISG,Holy Roman Emperor,Tralanza,Traditionally,T329
+1281,AUS,Unknown,Bay,Gelding,ISG,High Chaparral,Khepri,Faltaat,P358
+1282,AUS,Unknown,Bay,Gelding,PP,Dylan Thomas,Chetwynd South,High Yield,P427
+1283,GB,Unknown,Bay,Gelding,PPG,Exceed And Excel,Caldy Dancer,Soviet Star,N376
+1284,AUS,8,Brown,Gelding,PP,Nadeem,Princess Laya,Encosta de Lago,T353
+1285,AUS,5,Bay,Gelding,PPG,High Chaparral,Sutology,Straussbrook,A220
+1286,SAF,Unknown,Bay,Gelding,PP,Goldkeeper,Colchium,Elnadim,T209
+1287,GB,Unknown,Grey,Gelding,PPG,Dark Angel,Dream Day,Spectrum,T153
+1288,AUS,Unknown,Bay,Gelding,PPG,I Am Invincible,Blacklist,Bluebird,V221
+1289,IRE,Unknown,Bay,Horse,VIS,Arakan,Danetime Out,Danetime,V607
+1290,IRE,Unknown,Bay,Gelding,PP,Holy Roman Emperor,Manuscript,Machiavellian,P225
+1291,NZ,Unknown,Chestnut,Gelding,PPG,Towkay,Justice Supreme,Justice Prevails,P032
+1292,AUS,Unknown,Brown,Gelding,PPG,Stratum,Benita,Octagonal,M350
+1293,GER,Unknown,Bay,Gelding,PP,Ransom O'War,Auenglocke,Surumu,P044
+1294,NZ,Unknown,Bay,Gelding,PP,Rip Van Winkle,Teardrop Island,Fastnet Rock,V266
+1295,NZ,Unknown,Grey,Gelding,PPG,Mastercraftsman,Our Joan Of Arc,Beautiful Crown,T139
+1296,USA,Unknown,Bay,Gelding,ISG,Malibu Moon,Pink Champagne,Awesome Again,N348
+1297,NZ,Unknown,Bay,Gelding,PPG,Rios,Bella Boyd,Star Way,A059
+1298,AUS,Unknown,Brown,Gelding,PP,Sebring,Steal My Love,Marauding,V381
+1299,AUS,Unknown,Bay,Gelding,PPG,Shaft,Single Bell,Last Tycoon,T044
+1300,USA,Unknown,Bay,Gelding,PP,Henrythenavigator,Lady Ilsley,Trempolino,V188
+1301,AUS,Unknown,Bay,Gelding,PPG,Strategic,Countess Creed,Viscount,A033
+1302,AUS,Unknown,Chestnut,Gelding,PPG,Nicconi,Edgeton,Racer's Edge,V066
+1303,IRE,Unknown,Bay,Gelding,PPG,Approve,Anything,Rock Of Gibraltar,A198
+1304,NZ,Unknown,Bay,Gelding,PP,Zed,Pique,Pins,T017
+1305,NZ,Unknown,Bay,Gelding,PP,Thewayyouare,Bellona,Volksraad,A185
+1306,NZ,Unknown,Bay,Gelding,PPG,O'Reilly,Julie's Sailboat,Naevus,N217
+1307,IRE,Unknown,Brown,Gelding,PP,Celtic Swing,Saying Grace,Brief Truce,M058
+1308,AUS,Unknown,Bay,Gelding,PP,Testa Rossa,Breezer,Royal Academy,P444
+1309,IRE,Unknown,Bay,Gelding,PP,Fastnet Rock,Small Sacrifice,Sadler's Wells,T198
+1310,NZ,Unknown,Bay,Gelding,PPG,Faltaat,Trouville,Hurricane Sky,V026
+1311,IRE,Unknown,Bay,Gelding,PP,Dubawi,Birjand,Green Desert,L259
+1312,NZ,Unknown,Bay,Gelding,PPG,Bachelor Duke,Parakeet,Entrepreneur,S443
+1313,FR,Unknown,Grey,Gelding,PPG,Street Sense,Si Je N'Avais Plus,Kaldoun,S197
+1314,AUS,Unknown,Bay,Gelding,PP,Artie Schiller,Rockellen,Rancho Ruler,A089
+1315,AUS,Unknown,Bay,Gelding,PP,Northern Meteor,Actress,Snippets,V253
+1316,AUS,8,Bay,Gelding,PP,Time Thief,Stand By Your Man,Nuclear Freeze,T200
+1317,AUS,Unknown,Bay,Horse,PP,Street Sense,Raven Protector,Hector Protector,T170
+1318,AUS,Unknown,Brown,Gelding,PPG,Any Given Saturday,Sweet Executive,Last Tycoon,N238
+1319,FR,Unknown,Chestnut,Gelding,PP,Shirocco,Crystals Sky,Hernando,T144
+1320,NZ,7,Bay,Brown,ISG,Pins,Savamour,Savabeel,T326
+1321,NZ,Unknown,Brown,Gelding,PPG,Savabeel,Chai Latte,Danehill Dancer,T043
+1322,NZ,Unknown,Bay,Gelding,PP,Fast 'N' Famous,Aulioni,Bianconi,P247
+1323,NZ,Unknown,Bay,Gelding,PPG,Falkirk,Flirtee,Casual Lies,T026
+1324,AUS,Unknown,Chestnut,Gelding,PPG,Magnus,Diamond Orchid,Final Card,T427
+1325,JPN,Unknown,Chestnut,Horse,VIS,Neo Universe,Tokio Reality,Meadowlake,A609
+1326,NZ,Unknown,Bay,Gelding,PPG,Zabeel,Pulcinella,Stravinsky,V165
+1327,AUS,Unknown,Chestnut,Gelding,PPG,Time Thief,Genepi,French Deputy,T010
+1328,AUS,6,Bay,Gelding,PP,All American,Jarada,Redoute's Choice,A036
+1329,NZ,Unknown,Bay,Gelding,PPG,Street Cry,La Sizeranne,Stravinsky,A146
+1330,GB,Unknown,Bay,Gelding,PP,Makfi,High Cross,Cape Cross,A067
+1331,NZ,8,Bay,Gelding,PP,Tavistock,Keep Alight,Keeper,T390
+1332,GB,Unknown,Bay,Gelding,PP,Ishiguru,Flying Highest,Spectrum,L252
+1333,GB,7,Bay,Gelding,PP,Shamardal,Cape Dollar,Cape Cross,A305
+1334,NZ,Unknown,Bay,Gelding,PPG,Towkay,Zalass,Zabeel,S097
+1335,NZ,Unknown,Chestnut,Gelding,PP,Patapan,Chatham Miss,Woodman,S081
+1336,NZ,Unknown,Bay,Gelding,PP,Rios,Tranquill,Prince Of Praise,S380
+1337,AUS,Unknown,Bay,Gelding,PPG,Dubawi,Magic Tori,Ali-Royal,S183
+1338,NZ,6,Bay,Brown,PPG,Savabeel,Girls On Top,O'Reilly,V400
+1339,AUS,Unknown,Chestnut,Gelding,PP,Good Journey,Sweet Scene,Scenic,S416
+1340,IRE,Unknown,Bay,Gelding,PP,Holy Roman Emperor,Jojeema,Barathea,N171
+1341,GB,Unknown,Bay,Gelding,ISG,Cape Cross,Viola Da Braccio,Vettori,P246
+1342,GB,Unknown,Bay,Gelding,PP,Halling,Society Rose,Saddlers' Hall,P184
+1343,JPN,Unknown,Grey,Horse,VIS,Swept Overboard,Vermouth,Sunday Silence,A605
+1344,AUS,Unknown,Bay,Gelding,PP,Marwina,Toy Version,Toy Pindarri,T057
+1345,IRE,Unknown,Bay,Gelding,PPG,Rock Of Gibraltar,Freedom,Second Empire,S050
+1346,IRE,Unknown,Bay,Gelding,PP,Cape Cross,Desert Grouse,Gulch,M099
+1347,AUS,Unknown,Chestnut,Gelding,ISG,Flying Spur,Irgunette,Irgun,L247
+1348,AUS,Unknown,Chestnut,Gelding,PPG,Freeze,Alleged Encounter,Encounter,T244
+1349,AUS,Unknown,Bay,Gelding,PPG,Artie Schiller,Pyrotechnics,Canny Lad,A101
+1350,IRE,Unknown,Bay,Mare,VIS,Danehill Dancer,Dievotchka,Dancing Brave,V610
+1351,NZ,Unknown,Chestnut,Gelding,PPG,Bahhare,Noubeel,Zabeel,M131
+1352,NZ,Unknown,Chestnut,Gelding,PP,Sir Percy,Arabian Nights,Almutawakel,V095
+1353,IRE,7,Bay,Gelding,PP,Big Bad Bob,Dreamaway,Oasis Dream,V186
+1354,USA,Unknown,Grey,Gelding,PPG,Mizzen Mast,Quiet Maria,Maria's Mon,N192
+1355,AUS,7,Brown,Gelding,PP,More Than Ready,Aqua d'Amore,Danehill,V341
+1356,IRE,Unknown,Bay,Gelding,PP,Danehill Dancer,Shaanara,Darshaan,S155
+1357,NZ,Unknown,Bay,Gelding,PPG,O'Reilly,Lashings,Pins,T038
+1358,GB,Unknown,Brown,Horse,VIS,Oasis Dream,Royal Highness,Monsun,V615
+1359,AUS,Unknown,Bay,Gelding,PPG,Holy Roman Emperor,Nanosecond,Dehere,V008
+1360,NZ,Unknown,Brown,Gelding,PPG,Keeper,Balanchine,Spinning World,S446
+1361,FR,Unknown,Bay,Gelding,PP,Footstepsinthesand,Colca,Desert Style,T218
+1362,GB,Unknown,Chestnut,Gelding,PPG,Raven's Pass,Generous Lady,Generous,T108
+1363,AUS,Unknown,Brown,Gelding,PPG,Foxwedge,Dance Class,Bin Ajwaad,A268
+1364,JPN,Unknown,Bay,Horse,VIS,Sakura Bakushin O,Rosy Mist,Sunday Silence,P608
+1365,IRE,Unknown,Bay,Gelding,PP,Shamardal,Policalle,Poliglote,T150
+1366,AUS,Unknown,Grey,Gelding,PPG,Danewin,Something Funny,Baryshnikov,P049
+1367,USA,Unknown,Dark Bay,Brown,ISG,Tale Of The Cat,Queen's Triomphe,Cure The Blues,P241
+1368,FR,Unknown,Dark Bay,Gelding,PP,Dr Fong,Tishkara,Xaar,P219
+1369,AUS,Unknown,Bay,Gelding,ISG,Commands,Suzy Smart,Smart Strike,T345
+1370,NZ,Unknown,Bay,Gelding,ISG,O'Reilly,Lafleur,Zabeel,V319
+1371,AUS,Unknown,Bay,Gelding,PP,Encosta de Lago,Romantic River,Irish River,N148
+1372,JPN,Unknown,Grey,Horse,VIS,Admire Cozzene,Meine Caprice,Tayasu Tsuyoshi,T605
+1373,AUS,Unknown,Bay,Gelding,PPG,Charge Forward,Betsy Pie,Redoute's Choice,N016
+1374,NZ,Unknown,Chestnut,Gelding,PP,Thorn Park,Arlanda,Straight Strike,K120
+1375,AUS,Unknown,Bay,Gelding,PPG,Street Sense,Academy Idol,Made Of Gold,T169
+1376,AUS,Unknown,Chestnut,Gelding,PP,Elusive Quality,Beatitude,Quest For Fame,P171
+1377,NZ,Unknown,Bay,Gelding,PP,Elusive City,Shana Singa,Danasinga,V055
+1378,AUS,Unknown,Brown,Gelding,PP,Lookin At Lucky,Shasmecka,Secret Savings,A295
+1379,GB,Unknown,Bay,Gelding,PPG,Tiger Hill,Anqood,Elmaamul,P122
+1380,GB,Unknown,Chestnut,Gelding,PP,Dutch Art,Photographie,Trempolino,S435
+1381,AUS,Unknown,Bay,Gelding,PP,High Chaparral,Truly A Beauty,Seeking The Gold,A091
+1382,AUS,Unknown,Bay,Gelding,PPG,Kaphero,Frustration,Charnwood Forest,S425
+1383,AUS,Unknown,Bay,Gelding,PPG,Sebring,Sequential,Lion Hunter,V421
+1384,AUS,Unknown,Chestnut,Gelding,PPG,Testafiable,Shebensopdet,Devaraja,S214
+1385,NZ,Unknown,Bay,Gelding,PPG,Written Tycoon,Debbie's Joy,Sandtrap,T091
+1386,AUS,Unknown,Bay,Gelding,PP,Casino Prince,Princess Sweet,Precise End,P315
+1387,AUS,Unknown,Bay,Gelding,PP,Holy Roman Emperor,Fascinating Femme,Last Tycoon,P140
+1388,IRE,Unknown,Bay,Gelding,PPG,Holy Roman Emperor,Taking Liberties,Royal Academy,A200
+1389,NZ,Unknown,Bay,Gelding,PPG,Savabeel,Dance On Fire,Volksraad,S138
+1390,GB,Unknown,Bay,Gelding,PP,Authorized,Bronwen,King's Best,P327
+1391,AUS,Unknown,Bay,Gelding,PP,Sebring,Tarn Princess,Picnicker,S101
+1392,AUS,Unknown,Bay,Gelding,PP,Northern Meteor,Mosi Au Tunya,Deputy Minister,T354
+1393,NZ,Unknown,Grey,Gelding,PP,Chianti,Head Enfilade,Mr Henrysee,M374
+1394,AUS,Unknown,Brown,Gelding,PPG,Encosta de Lago,Ocean Pearl,Galileo,N441
+1395,IRE,Unknown,Bay,Gelding,PPG,Rock Of Gibraltar,Southern House,Paris House,S332
+1396,NZ,Unknown,Bay,Gelding,PPG,Keeper,Mrs Zoff,Zoffany,N360
+1397,NZ,6,Bay,Gelding,PPG,O'Reilly,Miraculous Miss,Exceed And Excel,A270
+1398,NZ,Unknown,Bay,Gelding,PPG,O'Reilly,Aulioni,Bianconi,P164
+1399,AUS,Unknown,Bay,Gelding,PPG,Elusive Quality,Medeena,Green Desert,S061
+1400,AUS,7,Bay,Gelding,PPG,Exceed And Excel,With Fervour,Dayjur,V153
+1401,NZ,Unknown,Brown,Gelding,PP,Roc de Cambes,Fidgette,Viking Ruler,V281
+1402,IRE,Unknown,Chestnut,Gelding,PP,Fast Company,Titian Saga,Titus Livius,T191
+1403,IRE,Unknown,Bay,Gelding,PP,Dylan Thomas,Daralaka,The Minstrel,P228
+1404,IRE,Unknown,Bay,Gelding,PP,Holy Roman Emperor,Raydaniya,In The Wings,V189
+1405,GB,Unknown,Bay,Gelding,PPG,Royal Applause,Diksie Dancer,Diktat,P121
+1406,AUS,Unknown,Bay,Gelding,PP,Al Maher,Bountiful Lady,Irish River,P208
+1407,NZ,Unknown,Bay,Gelding,PP,Pins,Exodus,Kaapstad,P069
+1408,AUS,Unknown,Bay,Gelding,PP,Bushranger,Anfield,Ladoni,T421
+1409,NZ,Unknown,Bay,Gelding,PPG,Iffraaj,Goldsumware,Refuse To Bend,V032
+1410,IRE,Unknown,Bay,Gelding,PP,Manduro,Kerania,Daylami,T053
+1411,GB,Unknown,Bay,Gelding,PP,Virtual,Takarna,Mark Of Esteem,S146
+1412,GB,Unknown,Bay,Gelding,PP,Showcasing,Lucky Dip,Tirol,T290
+1413,AUS,Unknown,Bay,Gelding,PPG,Bernardini,Montaza,Choisir,A174
+1414,IRE,Unknown,Grey,Colt,PP,Zebedee,Goldendale,Ali-Royal,A241
+1415,NZ,Unknown,Bay,Gelding,PPG,Danroad,Good Cake,Kashani,N272
+1416,AUS,6,Brown,Gelding,PPG,Denman,Tell Someone,O'Reilly,A049
+1417,AUS,Unknown,Bay,Gelding,PP,Domesday,Suz La Douce,Festival Hall,V215
+1418,AUS,Unknown,Bay,Gelding,PP,Mossman,Rubix,Danehill,P249
+1419,IRE,Unknown,Bay,Gelding,PP,Azamour,Zafayra,Nayef,V051
+1420,AUS,Unknown,Chestnut,Gelding,PP,Trotamondo,Fiery Pride,Sir Cambridge,T424
+1421,AUS,Unknown,Chestnut,Gelding,PPG,Blevic,Crimson Tide,Marju,V384
+1422,NZ,Unknown,Bay,Gelding,PPG,Cape Blanco,Mi Centie,Centaine,A186
+1423,NZ,Unknown,Bay,Gelding,PP,O'Reilly,Miss Saigon,Kings Island,P428
+1424,AUS,Unknown,Brown,Gelding,PP,Casino Prince,Simply Enchanting,Forest Wildcat,S414
+1425,NZ,Unknown,Chestnut,Gelding,PPG,Towkay,Crystal Jet,Clay Hero,N317
+1426,AUS,7,Bay,Gelding,PPG,Reset,Exelante,Exceed And Excel,V286
+1427,AUS,Unknown,Chestnut,Gelding,PP,Thorn Park,Rip Trice,Keltrice,T402
+1428,IRE,Unknown,Bay,Gelding,PP,Makfi,Baine,Country Reel,A154
+1429,NZ,Unknown,Bay,Gelding,PPG,Handsome Ransom,Kipstid,Kaapstad,P017
+1430,AUS,Unknown,Brown,Gelding,PP,I Am Invincible,Andneedles,Pins,V251
+1431,NZ,Unknown,Chestnut,Gelding,PP,Pins,Ice Maiden,O'Reilly,N040
+1432,IRE,Unknown,Bay,Gelding,PP,Notnowcato,Red Blossom,Green Desert,V242
+1433,AUS,Unknown,Bay,Gelding,PPG,Intergaze,Tudor Lane,Varick,P053
+1434,IRE,Unknown,Bay,Gelding,PP,Lilbourne Lad,Misty Night,Galileo,A230
+1435,GB,Unknown,Chestnut,Gelding,PPG,Sleeping Indian,Strawberry Leaf,Unfuwain,S252
+1436,AUS,Unknown,Bay,Gelding,PP,Encosta de Lago,Celestia,Royal Academy,N291
+1437,IRE,Unknown,Brown,Gelding,PP,Le Vie Dei Colori,Kointreau,Desert King,N252
+1438,GB,Unknown,Bay,Gelding,PP,Sir Percy,Fly In Style,Hernando,N188
+1439,NZ,Unknown,Bay,Gelding,PPG,Showcasing,Spamalot,Stravinsky,V347
+1440,AUS,Unknown,Brown,Gelding,PPG,All American,Miss Victoria,Viscount,T303
+1441,GB,Unknown,Chestnut,Gelding,PP,Rock Of Gibraltar,Questabelle,Rainbow Quest,L183
+1442,GB,Unknown,Chestnut,Gelding,PP,Dubawi,Ballet Ballon,Rahy,N219
+1443,AUS,Unknown,Bay,Gelding,ISG,Exceed And Excel,County Mayo,Grand Slam,T330
+1444,NZ,Unknown,Bay,Gelding,PPG,Alamosa,Effloresce,Montjeu,T203
+1445,AUS,Unknown,Bay,Gelding,PPG,Flying Spur,Decidity,Last Tycoon,L308
+1446,NZ,Unknown,Brown,Gelding,PP,Keeper,Mumtaz,Cape Cross,S298
+1447,GB,Unknown,Bay,Gelding,PP,Intikhab,Munakashah,Machiavellian,M399
+1448,IRE,Unknown,Bay,Gelding,PP,Amadeus Wolf,Lady Causeway,Giant's Causeway,S410
+1449,AUS,Unknown,Chestnut,Gelding,PPG,Snippetson,Star Acclaimed,Langfuhr,T072
+1450,AUS,Unknown,Bay,Gelding,PPG,Artie Schiller,Lessie,Blevic,V363
+1451,AUS,Unknown,Bay,Gelding,PP,Smart Missile,Touch Of Greatness,Don Eduardo,A215
+1452,NZ,Unknown,Chestnut,Gelding,PP,Thorn Park,Trephina,Last Tycoon,N159
+1453,NZ,Unknown,Bay,Gelding,PP,Iffraaj,Gatestopper,Carnegie,T388
+1454,GB,Unknown,Bay,Gelding,VIS,Dansili,Insinuate,Mr Prospector,A631
+1455,AUS,Unknown,Bay,Gelding,PPG,Testa Rossa,Angel Of The South,Agnes World,V147
+1456,AUS,Unknown,Bay,Gelding,PPG,Domesday,Nomadic Princess,Langfuhr,S204
+1457,NZ,Unknown,Chestnut,Gelding,PPG,Captain Rio,Party Queen,Gold Brose,P074
+1458,AUS,Unknown,Bay,Gelding,PP,Fastnet Rock,Flurry's Gem,Perugino,S161
+1459,AUS,Unknown,Bay,Gelding,PP,Court Command,Skip Along Jolie,Skip Trial,P298
+1460,NZ,Unknown,Bay,Gelding,PPG,Iffraaj,Jabot,Green Perfume,T083
+1461,AUS,Unknown,Bay,Gelding,PPG,Elvstroem,Hello Boys,Rory's Jester,T006
+1462,NZ,Unknown,Bay,Gelding,PPG,Elusive City,Head Enfilade,Mr Henrysee,S087
+1463,IRE,Unknown,Bay,Gelding,PPG,Teofilo,Petit Calva,Desert King,N404
+1464,AUS,Unknown,Chestnut,Gelding,PPG,Northern Meteor,Hint Of Glory,Honour And Glory,V010
+1465,AUS,Unknown,Bay,Gelding,PP,Fastnet Rock,Nena Candida,Canny Lad,P209
+1466,NZ,Unknown,Bay,Gelding,PPG,Pins,Velvet And Satin,Carnegie,S092
+1467,AUS,Unknown,Bay,Gelding,PP,Elusive Quality,Assertive Guest,Commands,N426
+1468,AUS,7,Bay,Gelding,PP,Reward For Effort,Sister Livia,Galileo,V255
+1469,NZ,Unknown,Bay,Gelding,PPG,Darci Brahma,Identity,Daggers Drawn,P430
+1470,AUS,Unknown,Bay,Gelding,PPG,Sebring,Princess Ola,Johannesburg,T133
+1471,NZ,Unknown,Brown,Gelding,PPG,Savabeel,La Collina,Van Nistelrooy,S370
+1472,NZ,Unknown,Bay,Gelding,PPG,O'Reilly,Shemiyra,In The Wings,P435
+1473,NZ,Unknown,Brown,Gelding,PPG,Keeninsky,Sophalopha,Faltaat,P018
+1474,GB,Unknown,Bay,Gelding,PP,Arcano,Singed,Zamindar,T411
+1475,AUS,Unknown,Bay,Gelding,PPG,Star Witness,Aristocracy,Danehill,V307
+1476,AUS,6,Bay,Gelding,PPG,Written Tycoon,Schapelle,Lion Hunter,A064
+1477,NZ,Unknown,Bay,Gelding,PPG,Handsome Ransom,Catfight,O'Reilly,S241
+1478,NZ,Unknown,Bay,Gelding,PPG,Pentire,Our Tristajet,Jetball,N070
+1479,GB,Unknown,Bay,Gelding,PP,Ishiguru,Shielaligh,Aragon,P395
+1480,FR,Unknown,Bay,Gelding,PP,Holy Roman Emperor,Reine Violette,Fly To The Stars,V370
+1481,AUS,7,Bay,Gelding,PP,Duke Of Marmalade,Stolen Girlfriend,Canny Lad,V250
+1482,IRE,Unknown,Bay,Gelding,PP,Galileo,Mauralakana,Muhtahir,V171
+1483,NZ,Unknown,Brown,Gelding,PP,Postponed,Kew,Casual Lies,S100
+1484,AUS,Unknown,Chestnut,Gelding,PPG,Snitzel,Chilkat,Miswaki,L379
+1485,AUS,Unknown,Bay,Gelding,PPG,Not A Single Doubt,Fasadina,Fasliyev,T429
+1486,IRE,Unknown,Bay,Gelding,PP,Vale Of York,Rock Exhibition,Rock Of Gibraltar,V173
+1487,AUS,Unknown,Bay,Gelding,PP,Not A Single Doubt,Marblue,Marscay,S262
+1488,IRE,Unknown,Bay,Gelding,PPG,Dark Angel,Sassari,Darshaan,T106
+1489,AUS,Unknown,Bay,Gelding,PPG,Oamaru Force,Desert Gardens,Desert King,V222
+1490,AUS,Unknown,Bay,Gelding,PP,Rakti,Octangle,Octagonal,P415
+1491,AUS,Unknown,Brown,Gelding,PP,Excites,Derrycarna,Woodman,T298
+1492,NZ,Unknown,Grey,Gelding,PP,Chianti,Lugano,Balmerino,N121
+1493,IRE,Unknown,Bay,Gelding,PP,Big Bad Bob,Lamanka Lass,Woodman,S438
+1494,GB,Unknown,Bay,Gelding,PP,Kyllachy,Up And About,Barathea,S329
+1495,AUS,6,Bay,Gelding,PP,Street Cry,Ambitious Lady,Anabaa,A217
+1496,AUS,Unknown,Bay,Gelding,PPG,All American,Bold Countess,Danzero,T275
+1497,NZ,Unknown,Bay,Gelding,PPG,Gold Mine,Zipperup,Tights,N054
+1498,NZ,Unknown,Grey,Gelding,PPG,Any Suggestion,Welbee Kyros,Towkay,T018
+1499,AUS,Unknown,Chestnut,Gelding,PP,Sebring,Morning Dews,Peintre Celebre,A024
+1500,JPN,Unknown,Chestnut,Gelding,VIS,Heart's Cry,Star Mie,A P Indy,T616
+1501,IRE,Unknown,Bay,Gelding,PP,Oratorio,Mandaraka,Ashkalani,T113
+1502,AUS,Unknown,Bay,Gelding,PP,Northern Meteor,Balbina,Thunder Gulch,V218
+1503,AUS,Unknown,Bay,Gelding,PPG,Starcraft,Bambolear,Redoute's Choice,T141
+1504,NZ,Unknown,Brown,Gelding,PP,Savabeel,Glamour Puss,Tale Of The Cat,V300
+1505,AUS,Unknown,Brown,Gelding,PP,Southern Image,Clay Model,Clay Hero,N235
+1506,IRE,Unknown,Bay,Gelding,PP,Holy Roman Emperor,Genuine Charm,Sadler's Wells,N011
+1507,AUS,Unknown,Chestnut,Gelding,PPG,Encosta de Lago,Dathiyna,Kris,P379
+1508,IRE,Unknown,Chestnut,Gelding,PP,Dutch Art,Travel On,Joyeux Danseur,P089
+1509,NZ,Unknown,Bay,Gelding,PP,Bachelor Duke,Dreaming Of Summer,Blues Traveller,S007
+1510,AUS,Unknown,Chestnut,Gelding,SG,Encosta de Lago,Musk Lime,Private Account,J265
+1511,USA,Unknown,Brown,Gelding,PPG,Matty G,Deputy Belle,Silver Deputy,S368
+1512,AUS,Unknown,Bay,Gelding,PPG,Not A Single Doubt,Sandy Desert,Line In The Sand,S397
+1513,NZ,Unknown,Bay,Gelding,PPG,Sandtrap,Just Aggie,Jahafil,P293
+1514,AUS,Unknown,Bay,Gelding,PP,Court Command,Thumb,Octagonal,V127
+1515,IRE,Unknown,Grey,Gelding,PP,Verglas,Triple Try,Sadler's Wells,S439
+1516,NZ,Unknown,Brown,Gelding,PP,St Reims,Quest For Speed,Spectrum,M382
+1517,USA,Unknown,Dark Bay,Brown,PP,Medaglia d'Oro,With Patience,With Approval,P267
+1518,AUS,Unknown,Bay,Gelding,PPG,Al Maher,Racing Queen,Alysheba,L213
+1519,AUS,Unknown,Bay,Gelding,PP,Teofilo,Kohinoor,Danzero,S317
+1520,AUS,Unknown,Chestnut,Gelding,PPG,Snitzel,Behind,General Nediym,V306
+1521,AUS,Unknown,Bay,Gelding,PPG,Jet Spur,She's The One,Hurricane Sky,V140
+1522,GB,Unknown,Chestnut,Gelding,PP,Footstepsinthesand,Bendis,Danehill,L251
+1523,GB,Unknown,Chestnut,Gelding,PP,Avonbridge,Lady Filly,Atraf,N100
+1524,GB,Unknown,Bay,Gelding,PP,Rio de La Plata,Zarkiyna,Sendawar,A131
+1525,IRE,Unknown,Bay,Gelding,PP,Holy Roman Emperor,Tarascon,Tirol,M065
+1526,USA,Unknown,Bay,Gelding,PP,More Than Ready,Dalmiya,Kalanisi,S188
+1527,AUS,Unknown,Chestnut,Gelding,PP,Sebring,Bubble Below,Hussonet,T211
+1528,AUS,Unknown,Bay,Gelding,PPG,Al Maher,Marzipan,Gold Brose,N236
+1529,IRE,Unknown,Bay,Gelding,PP,Kodiac,Defined Feature,Nabeel Dancer,A237
+1530,AUS,Unknown,Bay,Gelding,PP,War Chant,Innsbruck,Commands,A173
+1531,AUS,Unknown,Chestnut,Gelding,PP,Lope de Vega,Joy In Winning,Reset,V414
+1532,GB,Unknown,Bay,Gelding,PP,Lucky Story,Lola Sapola,Benny The Dip,S274
+1533,JPN,Unknown,Bay,Horse,VIS,Deep Impact,Magic Storm,Storm Cat,V613
+1534,NZ,Unknown,Bay,Gelding,PPG,Iffraaj,Rijeka,Sound Reason,T031
+1535,AUS,Unknown,Bay,Gelding,SG,Catbird,Rippling Mill,Crested Wave,L352
+1536,GER,Unknown,Brown,Gelding,ISG,Shamardal,Nina Celebre,Peintre Celebre,V325
+1537,NZ,Unknown,Bay,Gelding,PP,Alamosa,Bexley,Honor Grades,T224
+1538,NZ,Unknown,Brown,Gelding,ISG,O'Reilly,Lodore Mystic,Centaine,V316
+1539,IRE,Unknown,Black,Gelding,PP,Lord Shanakill,Roskeen,Grand Lodge,T311
+1540,FR,Unknown,Grey,Gelding,PP,Clodovil,Montagne Magique,King's Best,S106
+1541,NZ,Unknown,Chestnut,Gelding,PP,Volksraad,Centalear,Centaine,N356
+1542,NZ,Unknown,Grey,Gelding,PP,Thorn Park,Udiditagain,D'Cash,A287
+1543,NZ,Unknown,Bay,Gelding,PPG,Darci Brahma,Khapkap,Kaapstad,M384
+1544,AUS,Unknown,Chestnut,Gelding,PP,Street Boss,Whisper Her Name,French Deputy,A097
+1545,NZ,Unknown,Chestnut,Gelding,PP,Danewin,Zumanity,O'Reilly,S234
+1546,IRE,Unknown,Bay,Gelding,PP,Danehill Dancer,Mowaadah,Alzao,T195
+1547,USA,Unknown,Chestnut,Gelding,PPG,D' Funnybone,Shakaleena,Silver Deputy,V394
+1548,NZ,Unknown,Bay,Gelding,PPG,Elusive City,Niminy-Piminy,Polish Patriot,P012
+1549,NZ,Unknown,Bay,Gelding,PP,Seasoned Star,Bloody Mary,Shinko King,T240
+1550,AUS,7,Bay,Gelding,PPG,Red Element,Bush Triumph,Buck's Pride,V273
+1551,AUS,Unknown,Bay,Gelding,PPG,Encosta de Lago,Beauty Belle,Ideal Planet,S320
+1552,AUS,Unknown,Bay,Gelding,PPG,Holy Roman Emperor,Natural Lil,Naturalism,T245
+1553,IRE,Unknown,Bay,Gelding,PP,Footstepsinthesand,Glebe Queen,Hawkeye,S150
+1554,AUS,Unknown,Bay,Gelding,PPG,Domesday,Desert Finch,Desert Prince,T023
+1555,AUS,6,Chestnut,Gelding,PPG,Foxwedge,Sunday Service,Sunday Silence,A031
+1556,NZ,Unknown,Chestnut,Gelding,PP,Deputy Governor,Academie Francaise,Royal Academy,T225
+1557,NZ,Unknown,Bay,Gelding,PP,Patapan,Centinize,Centaine,S404
+1558,AUS,Unknown,Chestnut,Gelding,PP,Southern Image,Hanging Garden,Woodman,S170
+1559,IRE,Unknown,Bay,Gelding,PP,Danehill Dancer,Coralita,Night Shift,L258
+1560,AUS,Unknown,Grey,Gelding,PPG,General Nediym,Botticelli Chic,Dehere,P015
+1561,NZ,Unknown,Bay,Gelding,PP,Towkay,Luscious Lass,Al Akbar,N412
+1562,AUS,Unknown,Bay,Gelding,ISG,Commands,Terrenora,Encosta de Lago,V324
+1563,AUS,Unknown,Brown,Gelding,PP,Dane Shadow,Midnight Queen,Carnegie,T297
+1564,IRE,Unknown,Grey,Gelding,PP,Aussie Rules,Ashbilya,Nureyev,P263
+1565,GB,9,Bay,Gelding,PPG,Champs Elysees,Puzzling,Peintre Celebre,S147
+1566,JPN,Unknown,Bay,Horse,VIS,Admire Moon,Archeology,Seeking The Gold,T614
+1567,IRE,Unknown,Bay,Gelding,PP,Shamardal,Marine City,Carnegie,A160
+1568,NZ,Unknown,Bay,Gelding,PPG,Great Britain,Ira Gay,Danske,S026
+1569,IRE,Unknown,Brown,Gelding,PP,Footstepsinthesand,Almost Blue,Mr Greeley,S248
+1570,NZ,Unknown,Bay,Gelding,PP,Alamosa,Tinkerbabu,Giant's Causeway,T346
+1571,NZ,Unknown,Brown,Gelding,PPG,Elusive City,Scentee,Centaine,P161
+1572,IRE,Unknown,Chestnut,Gelding,PP,Tamayuz,Encouragement,Royal Applause,T151
+1573,IRE,Unknown,Bay,Gelding,PPG,Kyllachy,Skies Are Blue,Unfuwain,S251
+1574,AUS,Unknown,Bay,Gelding,PPG,Exceed And Excel,Morning Dews,Peintre Celebre,N024
+1575,AUS,Unknown,Bay,Gelding,PP,Starcraft,Hill Of Peace,Danehill,N394
+1576,IRE,Unknown,Chestnut,Horse,VIS,Galileo,Beauty Is Truth,Pivotal,A627
+1577,NZ,6,Brown,Gelding,PPG,Savabeel,Fire Song,Senor Pete,A275
+1578,NZ,Unknown,Bay,Gelding,PPG,Swiss Ace,Miscellanea,Vettori,S449
+1579,GB,Unknown,Bay,Gelding,PP,Azamour,Visanilla,Danehill,T232
+1580,IRE,Unknown,Bay,Gelding,PPG,Intense Focus,Novelina,Fusaichi Pegasus,S376
+1581,IRE,7,Chestnut,Gelding,PPG,Dream Ahead,Arabian Art,E Dubai,V123
+1582,AUS,6,Bay,Gelding,PPG,Hidden Dragon,Fantastic Flo Jo,Fantastic Light,V364
+1583,AUS,Unknown,Bay,Gelding,PP,Redoute's Choice,Rekindled Applause,Royal Applause,V358
+1584,NZ,Unknown,Grey,Gelding,ISG,Mastercraftsman,Opus Four,Stravinsky,V336
+1585,FR,Unknown,Brown,Gelding,ISG,Elusive City,Rock Harmonie,Rock Of Gibraltar,S223
+1586,NZ,Unknown,Bay,Gelding,PPG,O'Reilly,Nursery Rhyme,Tale Of The Cat,V103
+1587,IRE,Unknown,Bay,Gelding,ISG,War Chant,Green Minstrel,Green Tune,L236
+1588,AUS,7,Bay,Gelding,PP,Equiano,Check In Time,Blevic,V356
+1589,JPN,Unknown,Bay,Horse,VIS,Deep Impact,Kokoshnik,Kurofune,T622
+1590,FR,Unknown,Chestnut,Gelding,PP,Norse Dancer,Cinders' Prize,Sinndar,T187
+1591,NZ,Unknown,Grey,Gelding,PPG,Mastercraftsman,Code Black,O'Reilly,S385
+1592,AUS,Unknown,Bay,Gelding,PPG,Exceed And Excel,Dyna Slam,Grand Slam,A052
+1593,GB,Unknown,Chestnut,Gelding,PP,Notnowcato,Flag,Selkirk,T149
+1594,AUS,7,Brown,Gelding,PP,Danzero,Li'l Miss Hayley,Savabeel,A135
+1595,GB,Unknown,Bay,Horse,VIS,Trade Fair,Frisson,Slip Anchor,T610
+1596,FR,Unknown,Bay,Gelding,PP,Rock Of Gibraltar,Asharna,Darshaan,P151
+1597,AUS,Unknown,Chestnut,Gelding,PPG,Bel Danoro,Images,Fusaichi Pegasus,S174
+1598,IRE,Unknown,Bay,Gelding,PP,Teofilo,Cromac,Machiavellian,V125
+1599,AUS,6,Bay,Gelding,PPG,Statue Of Liberty,Snow Flight,Colombia,A178
+1600,NZ,Unknown,Bay,Gelding,PP,Stravinsky,Namouna,Sadler's Wells,P131
+1601,AUS,Unknown,Bay,Gelding,PP,Street Sense,Spiral Starway,Giant's Causeway,P416
+1602,AUS,Unknown,Roan,Gelding,VIS,Encosta de Lago,Lovely Jubly,Lion Hunter,V638
+1603,NZ,Unknown,Brown,Gelding,PPG,Kashani,Glory March,All Glory,M085
+1604,JPN,Unknown,Grey,Horse,VIS,Deep Impact,Catalina,Storm Cat,V614
+1605,GB,Unknown,Bay,Gelding,VIS,Oasis Dream,Desert Tigress,Storm Cat,A606
+1606,NZ,Unknown,Grey,Gelding,PP,Any Suggestion,Shadow Ray,Groom Dancer,N436
+1607,NZ,Unknown,Bay,Gelding,PPG,Strategic Image,Flounce,Prince Ferdinand,L158
+1608,AUS,Unknown,Chestnut,Gelding,PP,Strada,Inner Magic,Ashkalani,P175
+1609,AUS,Unknown,Bay,Gelding,PPG,Commands,Clean,Encosta de Lago,N130
+1610,NZ,Unknown,Bay,Brown,PPG,Makfi,Starboard Light,Mark Of Esteem,V375
+1611,GB,Unknown,Chestnut,Gelding,PP,Dutch Art,Castilian Queen,Diesis,P189
+1612,GB,Unknown,Chestnut,Horse,PP,Selkirk,Pivotting,Pivotal,S194
+1613,AUS,Unknown,Bay,Gelding,PP,Domesday,Warm Smytzer,Zabeel,A073
+1614,IRE,Unknown,Chestnut,Gelding,PP,Iffraaj,Up On Points,Royal Academy,S246
+1615,NZ,Unknown,Bay,Gelding,PPG,Battle Paint,Triage,Volksraad,S300
+1616,AUS,Unknown,Bay,Gelding,PP,Trotamondo,Lady Lexus,Success Express,S200
+1617,AUS,Unknown,Brown,Gelding,PP,Commands,Depeche,Octagonal,P169
+1618,IRE,Unknown,Bay,Gelding,PP,Choisir,Minnie Kc,Toca Madera,P097
+1619,IRE,Unknown,Brown,Gelding,PPG,Footstepsinthesand,Easy Going,Hamas,P396
+1620,AUS,Unknown,Bay,Gelding,PPG,King Cugat,Miss Serious,Mujahid,M172
+1621,AUS,Unknown,Bay,Gelding,PPG,Mossman,Syrian Bride,Golan,V142
+1622,AUS,Unknown,Bay,Gelding,PPG,Danewin,Tapestry,Sandpit,T004
+1623,NZ,Unknown,Bay,Gelding,PPG,Stratum,Paolino,Housebuster,T087
+1624,AUS,Unknown,Chestnut,Gelding,PPG,Starcraft,It Had To Be You,Belong To Me,T178
+1625,NZ,Unknown,Bay,Gelding,PP,Savabeel,Zephyr Song,Danasinga,T272
+1626,AUS,Unknown,Chestnut,Gelding,PP,Hard Spun,Lorette,Snippets,T351
+1627,AUS,Unknown,Bay,Brown,PPG,I Am Invincible,Lucky Beauty,Peintre Celebre,T306
+1628,GB,7,Bay,Gelding,PP,Acclamation,Claiomh Solais,Galileo,V406
+1629,GB,Unknown,Bay,Gelding,ISG,Showcasing,Roodeye,Inchinor,V327
+1630,IRE,Unknown,Bay,Gelding,PP,Footstepsinthesand,Kingsridge,King's Theatre,M199
+1631,IRE,Unknown,Bay,Gelding,PPG,Fast Company,Ramamara,Trans Island,T292
+1632,GB,Unknown,Bay,Gelding,PP,Indesatchel,Charlie Girl,Puissance,P091
+1633,NZ,Unknown,Bay,Gelding,PP,High Chaparral,Miss Impeccable,Jetball,N157
+1634,AUS,Unknown,Chestnut,Gelding,ISG,Exceed And Excel,Galapagos Girl,Dehere,S224
+1635,GB,Unknown,Bay,Gelding,PP,Green Desert,Flamingo Flower,Diesis,N322
+1636,AUS,Unknown,Chestnut,Gelding,PPG,Sebring,Countess Dehere,Dehere,T217
+1637,USA,Unknown,Dark Bay,Brown,ISG,Rock Hard Ten,Bayou Jazz,Dixieland Band,P244
+1638,AUS,Unknown,Bay,Gelding,PP,Hard Spun,Crystal Snip,Snippets,P412
+1639,NZ,Unknown,Bay,Gelding,PPG,Pins,Natural Rhythm,Viking Ruler,T435
+1640,AUS,Unknown,Bay,Gelding,PP,All American,Cristallo,Testa Rossa,V126
+1641,NZ,Unknown,Brown,Gelding,PPG,Fast 'N' Famous,Golden Gamble,Oregon,P078
+1642,NZ,Unknown,Bay,Gelding,PPG,Keeper,Vintage Belle,Centaine,L155
+1643,AUS,Unknown,Bay,Gelding,ISG,Encosta de Lago,Superior Star,Nothin' Leica Dane,S231
+1644,NZ,Unknown,Chestnut,Gelding,PPG,Coats Choice,Asiana,Kaapstad,S015
+1645,NZ,Unknown,Grey,Gelding,PPG,Mastercraftsman,Summer Daze,Encosta de Lago,T034
+1646,GB,Unknown,Bay,Gelding,PP,Footstepsinthesand,Jarhes,Green Desert,T186
+1647,AUS,Unknown,Bay,Gelding,PPG,Churchill Downs,Miss Tabitha,Tabkir,T242
+1648,IRE,Unknown,Bay,Gelding,PP,Invincible Spirit,Farranjordan,Galileo,T417
+1649,USA,Unknown,Bay,Gelding,PP,Tapit,Dress Rehearsal,Galileo,T416
+1650,AUS,Unknown,Bay,Gelding,PPG,Starcraft,Salutations,Redoute's Choice,V308
+1651,AUS,Unknown,Bay,Gelding,PPG,Flying Spur,Daralara,Barathea,P382
+1652,NZ,Unknown,Bay,Gelding,PPG,Showcasing,Twelve Carat,Snaadee,A280
+1653,GB,Unknown,Bay,Gelding,PP,Striking Ambition,Concentration,Mind Games,N402
+1654,AUS,Unknown,Bay,Brown,PP,More Than Ready,Darsini,Danehill,V339
+1655,AUS,Unknown,Bay,Brown,PPG,Globetrotter,Atomic Dancer,Danehill Dancer,T082
+1656,AUS,Unknown,Bay,Gelding,PPG,Fastnet Rock,Laetitia,Woodman,T406
+1657,AUS,Unknown,Bay,Gelding,PPG,Reward For Effort,Maid In Secret,Made Of Gold,V068
+1658,AUS,Unknown,Grey,Gelding,PPG,Ferocity,Love A Grange,Rory's Jester,S177
+1659,NZ,Unknown,Chestnut,Gelding,PP,Battle Paint,Miss Pirouette,Woodman,V015
+1660,AUS,Unknown,Bay,Gelding,PPG,New Approach,Bal Des Sirenes,Warning,T035
+1661,AUS,Unknown,Bay,Gelding,PPG,Danerich,Deadwood Stage,Cavalry,T168
+1662,NZ,Unknown,Bay,Gelding,PPG,Bachelor Duke,Teen A Te,Cape Cross,N271
+1663,AUS,Unknown,Bay,Gelding,PP,Lucky Owners,Ion You,Geiger Counter,N234
+1664,NZ,7,Bay,Gelding,PPG,Thorn Park,La Serenissime,Machiavellian,T265
+1665,IRE,Unknown,Bay,Gelding,PP,Lope de Vega,Portelet,Night Shift,A115
+1666,AUS,6,Bay,Gelding,PP,Red Element,Trail Of Secrets,Secret Savings,A170
+1667,AUS,Unknown,Chestnut,Gelding,PP,Street Boss,Swing Dance,Danehill Dancer,V082
+1668,IRE,Unknown,Bay,Gelding,PP,Footstepsinthesand,Jolie Clara,Kahyasi,M063
+1669,AUS,Unknown,Chestnut,Gelding,PPG,Flying Spur,Lune Rouge,Malibu Moon,T067
+1670,NZ,Unknown,Bay,Gelding,PPG,Thorn Park,On The Board,Spectrum,S244
+1671,NZ,Unknown,Bay,Gelding,PPG,Castledale,Elianto,Desert Sun,S266
+1672,GB,Unknown,Bay,Gelding,PP,Danehill Dancer,Alchemilla,Dubai Destination,A109
+1673,GB,Unknown,Bay,Gelding,PP,Bahamian Bounty,All Quiet,Piccolo,P222
+1674,NZ,Unknown,Grey,Gelding,PP,Any Suggestion,Split The Night,Senor Pete,S402
+1675,NZ,Unknown,Chestnut,Gelding,PP,Sakhee's Secret,Jan Valachi,Kingdom Bay,P388
+1676,IRE,Unknown,Bay,Gelding,PP,Zebedee,Refuse To Give Up,Refuse To Bend,A116
+1677,IRE,Unknown,Bay,Gelding,PP,Dark Angel,Secret Key,Key Of Luck,S253
+1678,IRE,Unknown,Bay,Gelding,PP,High Chaparral,Talbiya,Mujtahid,M152
+1679,GB,7,Grey,Roan,PP,Zebedee,Break Of Dawn,Mt Livermore,V243
+1680,AUS,Unknown,Chestnut,Gelding,PP,Star Witness,My Central,Central Park,A253
+1681,IRE,Unknown,Bay,Gelding,PP,Lawman,Broken Spectre,Rainbow Quest,S112
+1682,NZ,Unknown,Grey,Gelding,PPG,Any Suggestion,Court Ballet,Zabeel,T060
+1683,IRE,Unknown,Bay,Gelding,PP,Tiger Hill,Masiyma,Dalakhani,P408
+1684,GB,Unknown,Chestnut,Gelding,PP,Danehill Dancer,Splashdown,Falbrav,T145
+1685,GER,Unknown,Chestnut,Gelding,PP,Lord Of England,Auenprincess,Kornado,P093
+1686,AUS,Unknown,Bay,Gelding,PPG,I Am Invincible,Senro Kisaki,Danehill Dancer,T426
+1687,USA,Unknown,Grey,Gelding,PP,War Front,Photograph,Unbridled's Song,V184
+1688,AUS,Unknown,Bay,Gelding,PPG,Magic Albert,Free Spirited,Fastnet Rock,V102
+1689,AUS,Unknown,Bay,Gelding,PPG,More Than Ready,Holidazzle,Flying Spur,V089
+1690,NZ,Unknown,Bay,Gelding,PPG,Darci Brahma,Russian,Tribunal,V098
+1691,AUS,Unknown,Chestnut,Gelding,PP,Sebring,Hidden Strings,Weasel Clause,S387
+1692,AUS,7,Bay,Gelding,PPG,Strategic,Bedizened,Commands,V012
+1693,AUS,Unknown,Chestnut,Gelding,PP,Starcraft,Red Flair,Testa Rossa,V301
+1694,IRE,Unknown,Bay,Gelding,PP,Zamindar,Harvest Queen,Spinning World,T104
+1695,AUS,Unknown,Bay,Gelding,PP,Lookin At Lucky,Rhode Island Red,Tale Of The Cat,T423
+1696,AUS,Unknown,Bay,Gelding,PPG,Saint Thomas,Gravitron,Spinning World,S292
+1697,NZ,6,Bay,Gelding,PP,Per Incanto,Viking Angel,Viking Ruler,A039
+1698,AUS,Unknown,Chestnut,Gelding,PP,Jet Spur,Repercussions,Quest For Fame,T124
+1699,NZ,Unknown,Bay,Gelding,PP,Align,Senorita Rosay,Senor Pete,N405
+1700,NZ,Unknown,Bay,Gelding,PP,High Chaparral,Sorestan,Volksraad,S199
+1701,NZ,Unknown,Bay,Gelding,PP,Elusive City,Midnight Breaker,Housebuster,N263
+1702,FR,Unknown,Bay,Gelding,ISG,Oasis Dream,Sanjida,Polish Precedent,A325
+1703,AUS,Unknown,Bay,Gelding,PPG,Hard Spun,La Italia,Stravinsky,A007
+1704,GB,7,Chestnut,Gelding,PP,Archipenko,Here To Eternity,Stormy Atlantic,A066
+1705,IRE,Unknown,Bay,Gelding,PP,Vale Of York,Kinnego,Sri Pekan,V236
+1706,AUS,Unknown,Bay,Gelding,ISG,Exceed And Excel,Grand Archway,Archway,N344
+1707,AUS,Unknown,Bay,Gelding,PPG,Encosta de Lago,Note Of Desire,Woodman,S021
+1708,AUS,Unknown,Grey,Gelding,PP,I Am Invincible,Fidele,Encosta de Lago,T352
+1709,JPN,Unknown,Chestnut,Mare,VIS,Heart's Cry,Omega Spirit,Spinning World,V617
+1710,NZ,Unknown,Bay,Gelding,PP,Darci Brahma,Anca,Howbaddouwantit,A072
+1711,AUS,Unknown,Bay,Gelding,PP,Al Samer,Shaan,Danewin,N196
+1712,AUS,Unknown,Bay,Gelding,PPG,Fastnet Rock,Cotton,Diesis,P014
+1713,NZ,Unknown,Bay,Gelding,PPG,Thorn Park,Courtly Fashion,Black Minnaloushe,S407
+1714,IRE,Unknown,Grey,Gelding,PP,Aussie Rules,Kirunavaara,Galileo,V111
+1715,NZ,Unknown,Bay,Gelding,PPG,Elusive City,Dangerous Seas,Dangerous,S130
+1716,NZ,Unknown,Bay,Gelding,PPG,Ekraar,Simply Red,Volksraad,N047
+1717,GER,6,Bay,Gelding,PP,Wiener Walzer,Saaleland,Lando,A247
+1718,IRE,Unknown,Bay,Gelding,PP,Le Vie Dei Colori,Shamaness,Darshaan,M066
+1719,AUS,Unknown,Bay,Gelding,PPG,Fastnet Rock,Lake Tahoe,Fusaichi Pegasus,T318
+1720,NZ,Unknown,Bay,Gelding,PP,Road To Rock,Hanabananah,King Charlemagne,V019
+1721,NZ,Unknown,Bay,Gelding,PP,Darci Brahma,Climb The Vine,Chanteclair,P299
+1722,NZ,Unknown,Bay,Gelding,PPG,Pins,Splashing Out,O'Reilly,S386
+1723,NZ,6,Bay,Gelding,ISG,Darci Brahma,Luscious Legs,Pins,A315
+1724,IRE,Unknown,Chestnut,Gelding,PP,Refuse To Bend,Doregan,Bahhare,S073
+1725,AUS,8,Bay,Gelding,PPG,Court Command,Fairy Tree,Rahy,T129
+1726,IRE,Unknown,Bay,Gelding,ISG,Encosta de Lago,Barlaine,Unfuwain,M325
+1727,NZ,Unknown,Bay,Gelding,PPG,Darci Brahma,Bright Abyss,Royal Academy,A188
+1728,AUS,Unknown,Chestnut,Gelding,PPG,Hotel Grand,Thunderclap,Thunder Gulch,S002
+1729,GB,Unknown,Bay,Gelding,PP,Dutch Art,Czarna Roza,Polish Precedent,V291
+1730,AUS,Unknown,Chestnut,Gelding,PP,Haradasun,But I'm Serious,Bianconi,P210
+1731,USA,Unknown,Bay,Brown,PP,Tapit,Twist A Lime,Copelan,N189
+1732,NZ,Unknown,Bay,Gelding,PP,Don Eduardo,Magic Tryst,Magic Ring,T379
+1733,AUS,Unknown,Grey,Gelding,PPG,Murtajill,Sharp End First,Galileo,T247
+1734,AUS,Unknown,Bay,Gelding,ISG,Fastnet Rock,Verdict Declared,Mr Henrysee,N337
+1735,GB,Unknown,Bay,Gelding,ISG,Bahamian Bounty,Copy-Cat,Lion Cavern,S232
+1736,USA,Unknown,Brown,Gelding,PP,More Than Ready,Lady Siphonica,Siphon,T197
+1737,GB,Unknown,Bay,Gelding,PP,Shamardal,Gradara,Montjeu,A159
+1738,NZ,Unknown,Bay,Gelding,PPG,Towkay,Make Up,Take Your Partner,P343
+1739,IRE,Unknown,Chestnut,Gelding,PP,Le Vie Dei Colori,Goodwood March,Foxhound,P045
+1740,IRE,Unknown,Bay,Gelding,PP,Elusive City,Lucky Norwegian,Almutawakel,T207
+1741,NZ,Unknown,Brown,Gelding,PP,Justice Prevails,Rose O'Collins,Colonel Collins,S440
+1742,AUS,Unknown,Bay,Gelding,PP,High Chaparral,Azumi,Encosta de Lago,A138
+1743,AUS,Unknown,Bay,Gelding,PPG,Fastnet Rock,Sweet Emotion,Bering,V027
+1744,NZ,Unknown,Bay,Gelding,PPG,Bachelor Duke,Galejade,Rory's Jester,N129
+1745,NZ,Unknown,Chestnut,Gelding,PP,Swiss Ace,Broadway Queen,King Cugat,V022
+1746,AUS,Unknown,Bay,Gelding,PP,Mossman,Magnifique Lass,More Than Ready,S165
+1747,SPA,7,Bay,Gelding,PP,American Post,Noozhah,Singspiel,A065
+1748,AUS,Unknown,Chestnut,Gelding,ISG,Encosta de Lago,Aqua d'Amore,Danehill,S333
+1749,AUS,Unknown,Bay,Gelding,PP,Not A Single Doubt,Our Greta,Rory's Jester,N423
+1750,AUS,Unknown,Grey,Gelding,PP,Murtajill,Lunar Fire,Stravinsky,T161
+1751,IRE,Unknown,Bay,Gelding,PP,Duke Of Marmalade,Island Dreams,Giant's Causeway,T312
+1752,AUS,Unknown,Chestnut,Gelding,PP,Host,Unlimited Passage,Giant's Causeway,V056
+1753,AUS,Unknown,Brown,Gelding,PP,Commands,Elmira,Timber Country,S008
+1754,AUS,6,Bay,Gelding,PPG,Smart Missile,Miss Bellezza,Flying Spur,A177
+1755,SAF,Unknown,Bay,Horse,PP,Mogok,Miss Madam,Dolpour,S412
+1756,IRE,7,Bay,Gelding,PP,Holy Roman Emperor,Sharapova,Elusive Quality,V235
+1757,NZ,Unknown,Bay,Gelding,PP,Roc de Cambes,Lim's Rainbow,Rory's Jester,A184
+1758,FR,Unknown,Bay,Gelding,ISG,Kyllachy,Grand Lucre,Grand Slam,P242
+1759,GB,Unknown,Bay,Gelding,PP,King's Best,Sheer Reason,Danzig,M154
+1760,NZ,Unknown,Bay,Gelding,PPG,Yamanin Vital,Bright Blue,Scenic,N419
+1761,NZ,Unknown,Bay,Gelding,PPG,O'Reilly,Neversaynever,Howbaddouwantit,A084
+1762,AUS,Unknown,Bay,Gelding,PPG,Nadeem,Miss Galileo,Galileo,V037
+1763,GB,Unknown,Chestnut,Gelding,PP,Elnadim,Khaizarana,Alhaarth,N401
+1764,GB,Unknown,Bay,Gelding,ISG,Exceed And Excel,Dixie Belle,Diktat,T331
+1765,AUS,Unknown,Bay,Gelding,PPG,Strategic,Cosmic Safari,Tale Of The Cat,S070
+1766,NZ,7,Bay,Gelding,PPG,Darci Brahma,Pins 'N' Needles,Pins,V344
+1767,AUS,Unknown,Bay,Gelding,PPG,Reward For Effort,Charmed Lady,Jugah,A209
+1768,AUS,Unknown,Bay,Gelding,PPG,Al Maher,Top Tips,Canny Lad,P445
+1769,GB,Unknown,Grey,Gelding,PP,Verglas,Brazilian Style,Exit To Nowhere,P120
+1770,NZ,Unknown,Bay,Horse,PPG,Elusive City,Yankee Gold,Western Symphony,M386
+1771,NZ,Unknown,Bay,Gelding,PP,Shinko King,Cross Quarry,Cape Cross,V208
+1772,USA,Unknown,Bay,Gelding,PP,Latent Heat,Purloin,Forest Wildcat,S003
+1773,FR,Unknown,Bay,Gelding,PP,Excellent Art,Adrastea,Monsun,V182
+1774,AUS,Unknown,Brown,Gelding,PP,Nadeem,Kohinoor,Danzero,N392
+1775,AUS,Unknown,Bay,Gelding,PP,General Nediym,Midnight Fling,Danehill,M406
+1776,GB,Unknown,Bay,Gelding,PP,Nayef,Strut,Danehill Dancer,T051
+1777,JPN,Unknown,Dark Bay,Horse,VIS,Lohengrin,Stereotype,Sunday Silence,A608
+1778,AUS,Unknown,Chestnut,Gelding,PPG,Not A Single Doubt,Open Handed,Generous,P260
+1779,NZ,Unknown,Bay,Gelding,PP,Gallant Guru,Enzed,Anziyan,S260
+1780,FR,Unknown,Chestnut,Gelding,PPG,Dutch Art,Barreda,Linamix,V048
+1781,NZ,Unknown,Chestnut,Horse,VIS,Sebring,Mica's Pride,Bite The Bullet,T613
+1782,IRE,Unknown,Bay,Gelding,VIS,Invincible Spirit,Sun Bittern,Seeking The Gold,A603
+1783,IRE,Unknown,Bay,Gelding,PP,Kodiac,Catch A Smile,Silver Hawk,P271
+1784,NZ,Unknown,Bay,Gelding,PP,Handsome Ransom,Mawasi,The Commander,P003
+1785,FR,Unknown,Bay,Gelding,PP,Dunkerque,Grenade,Bering,T092
+1786,AUS,Unknown,Bay,Gelding,PPG,O'Lonhro,Zero And Over,Danzero,V067
+1787,IRE,Unknown,Bay,Gelding,PPG,Arcano,Babacora,Indian Ridge,A242
+1788,USA,Unknown,Bay,Gelding,PP,Smart Strike,Seebe,Danzig,S195
+1789,NZ,Unknown,Brown,Gelding,PP,Golan,Komplete Kaos,Desert Sun,N306
+1790,AUS,Unknown,Brown,Rig,PP,Wonderful World,Hsin Hsin Wei,Star Way,P346
+1791,IRE,Unknown,Bay,Gelding,PP,Windsor Knot,Toy Show,Danehill,T233
+1792,AUS,Unknown,Brown,Gelding,PP,Rock Of Gibraltar,Sheer Brilliance,A P Indy,N268
+1793,NZ,Unknown,Bay,Gelding,PP,Sakhee's Secret,Shinko Blu,Shinko Forest,S265
+1794,NZ,Unknown,Chestnut,Gelding,PP,Sandtrap,Manchuria,Deputy Governor,P282
+1795,AUS,Unknown,Bay,Gelding,PPG,Exceed And Excel,Majestic Harmony,Encosta de Lago,P381
+1796,NZ,Unknown,Bay,Gelding,PPG,Per Incanto,Irish Magic,O'Reilly,V214
+1797,AUS,7,Bay,Gelding,PPG,Haradasun,Nevaloveduanyway,Danzero,V202
+1798,AUS,Unknown,Chestnut,Gelding,PP,Hidden Dragon,Grieger Girl,Agincourt,T123
+1799,AUS,Unknown,Bay,Gelding,PP,Reward For Effort,Miss Ireland,O'Reilly,A213
+1800,IRE,Unknown,Chestnut,Gelding,PP,Rock Of Gibraltar,Izzy Lou,Spinning World,S257
+1801,AUS,Unknown,Brown,Gelding,ISG,Lonhro,Tell Someone,O'Reilly,P372
+1802,AUS,7,Bay,Gelding,PPG,Exceed And Excel,Diamond Masque,Align,V138
+1803,AUS,Unknown,Bay,Gelding,PP,All American,Lodore Falls,Redoute's Choice,A021
+1804,GB,Unknown,Chestnut,Gelding,PP,Norse Dancer,Rainbow End,Botanic,N375
+1805,AUS,Unknown,Bay,Gelding,PPG,Bel Danoro,Acquisition,Woodman,T061
+1806,AUS,Unknown,Bay,Gelding,PPG,Redoute's Choice,Princess Coup,Encosta de Lago,T251
+1807,NZ,Unknown,Bay,Gelding,PPG,Zabeel,Maldivius,Stratum,T386
+1808,AUS,Unknown,Bay,Gelding,PPG,Dehere,Testa Reale,Testa Rossa,P305
+1809,AUS,7,Bay,Gelding,PP,Not A Single Doubt,Donna's Appeal,Carnegie,A252
+1810,GB,Unknown,Chestnut,Gelding,PP,Three Valleys,Hoh Dancer,Indian Ridge,P193
+1811,AUS,Unknown,Chestnut,Gelding,PPG,Stratum,Gothic Darkness,Comrade,S293
+1812,IRE,Unknown,Bay,Gelding,PPG,Invincible Spirit,Quad's Melody,Spinning World,S075
+1813,NZ,Unknown,Brown,Gelding,PPG,Elusive City,Mac Five,Faltaat,P258
+1814,AUS,Unknown,Brown,Gelding,ISG,Statue Of Liberty,Prompt,Exceed And Excel,T334
+1815,NZ,Unknown,Brown,Gelding,PP,Savabeel,Be Fabulous,Pins,V268
+1816,NZ,Unknown,Chestnut,Gelding,PPG,Thorn Park,Eidercrown,Regal Classic,P030
+1817,NZ,Unknown,Bay,Gelding,PPG,Tavistock,Amber Sea,Align,V402
+1818,FR,Unknown,Bay,Gelding,PP,Youmzain,Lady Fashion,Oasis Dream,V176
+1819,AUS,Unknown,Bay,Gelding,PPG,General Nediym,Windfall,Last Tycoon,M220
+1820,AUS,Unknown,Bay,Gelding,PP,Any Given Saturday,Pink Champagne,Carnegie,P383
+1821,NZ,8,Brown,Gelding,ISG,O'Reilly,The Dazzler,Centaine,S347
+1822,USA,Unknown,Chestnut,Gelding,PPG,Speightstown,Kenza,Menifee,N111
+1823,GB,Unknown,Bay,Gelding,PPG,Sakhee's Secret,Greensand,Green Desert,S116
+1824,AUS,Unknown,Brown,Gelding,PPG,Redoute's Choice,Fragmentation,Snippets,S430
+1825,NZ,Unknown,Bay,Gelding,PPG,Sakhee's Secret,Queen Petrolia,Farma Way,T041
+1826,NZ,Unknown,Bay,Gelding,PPG,Alamosa,Sheeza Don,Don Eduardo,T274
+1827,AUS,Unknown,Bay,Gelding,PP,Mossman,Mill Bridge,Snippets,V134
+1828,AUS,Unknown,Bay,Gelding,VIS,Big Brown,Superb Lady,Canny Lad,A624
+1829,NZ,Unknown,Bay,Gelding,PP,Darci Brahma,Shi Kin Fly,Shinko King,A037
+1830,AUS,Unknown,Bay,Gelding,PPG,I Am Invincible,Royal Wit,Royal Academy,V154
+1831,NZ,Unknown,Bay,Gelding,PP,Danroad,Mrs Guilty,Mr Leader,S295
+1832,GB,Unknown,Bay,Gelding,PP,Royal Applause,Birdie,Alhaarth,S249
+1833,AUS,Unknown,Bay,Gelding,PPG,Floral Pegasus,Brazilian Choice,Tale Of The Cat,T214
+1834,AUS,Unknown,Chestnut,Gelding,PP,Snitzel,Tan Tat Star,Umatilla,T301
+1835,GB,Unknown,Chestnut,Gelding,PPG,Sakhee's Secret,Here To Me,Muhtarram,P227
+1836,IRE,Unknown,Chestnut,Gelding,PP,Zoffany,Attalea,Monsun,A132
+1837,AUS,Unknown,Chestnut,Gelding,PPG,Zizou,Mokaraba,Cape Cross,V205
+1838,FR,Unknown,Bay,Gelding,PP,Hurricane Cat,Olga Bere,Broadway Flyer,N220
+1839,AUS,Unknown,Bay,Gelding,PP,Sequalo,Isobelle Ellen,Celestial Dancer,S102
+1840,NZ,Unknown,Brown,Mare,VIS,Savabeel,Staryn Glenn,Montjeu,V616
+1841,AUS,6,Bay,Gelding,PP,Choisir,Uno Sayuri,Scatter The Gold,A260
+1842,NZ,Unknown,Grey,Gelding,PPG,Mastercraftsman,Skate,Stravinsky,V036
+1843,NZ,Unknown,Brown,Gelding,PPG,Alamosa,Superb Melody,Unbridled's Song,S383
+1844,AUS,Unknown,Bay,Gelding,PP,Astronomer Royal,Precarious,Snippets,V070
+1845,AUS,Unknown,Bay,Gelding,PPG,Duporth,Delorosa,Show A Heart,A079
+1846,AUS,Unknown,Bay,Gelding,PP,Minardi,Spirit Of Patch,Full And By,S053
+1847,IRE,Unknown,Bay,Gelding,PPG,Dark Angel,Dawn Chorus,Mukaddamah,V122
+1848,GB,7,Bay,Gelding,PP,Equiano,Langs Lash,Noverre,V293
+1849,NZ,Unknown,Bay,Gelding,PP,Keeper,Sometimes,Montjeu,N409
+1850,GB,Unknown,Chestnut,Gelding,PP,New Approach,Illusion,Anabaa,V241
+1851,GB,Unknown,Bay,Gelding,PP,Myboycharlie,Native Ring,Bering,T208
+1852,IRE,Unknown,Bay,Gelding,PP,Myboycharlie,Spring Glory,Dr Fong,S273
+1853,GB,Unknown,Bay,Gelding,PP,Cape Cross,Summer Sunset,Grand Lodge,P350
+1854,IRE,Unknown,Bay,Gelding,PPG,Holy Roman Emperor,Eastern Blue,Be My Guest,V049
+1855,JPN,Unknown,Dark Bay,Horse,VIS,Sakura President,Sakura Blues,Cure The Blues,V604
+1856,SAF,Unknown,Bay,Gelding,PP,Stronghold,Sweet Virginia,Casey Tibbs,T118
+1857,AUS,Unknown,Chestnut,Gelding,PPG,Snippetson,Renowned Artist,Peintre Celebre,S213
+1858,AUS,Unknown,Chestnut,Gelding,PP,Stratum,Hasty Snip,Snippets,S388
+1859,IRE,Unknown,Bay,Gelding,PP,Intense Focus,Inourthoughts,Desert Style,S256
+1860,IRE,6,Bay,Gelding,PP,Thewayyouare,Vera Mont,Danehill Dancer,A249
+1861,AUS,Unknown,Bay,Gelding,PPG,Oratorio,I'm A Thunder,Thunder Gulch,N284
+1862,AUS,Unknown,Bay,Gelding,PPG,Magnus,Gypsy Marauder,Marauding,A009
+1863,USA,Unknown,Chestnut,Gelding,PPG,Speightstown,Chumsie,Boundary,P156
+1864,USA,Unknown,Chestnut,Gelding,PP,Giant's Causeway,Golden Antigua,Hansel,S072
+1865,AUS,Unknown,Bay,Gelding,PP,Snitzel,She Must Be Obeyed,Commands,A203
+1866,AUS,Unknown,Bay,Gelding,ISG,High Chaparral,Bombay,Encosta de Lago,S339
+1867,FR,Unknown,Bay,Colt,VIS,Shamardal,Daryakana,Selkirk,V625
+1868,AUS,Unknown,Bay,Brown,VIS,Stratum,Apamea,Zafonic,A620
+1869,NZ,Unknown,Brown,Gelding,PP,Testa Rossa,Wednesday Rocks,Encosta de Lago,T059
+1870,AUS,Unknown,Chestnut,Gelding,PP,Starcraft,Sunday Service,Sunday Silence,A025
+1871,GER,Unknown,Bay,Gelding,PP,Soldier Hollow,Djidda,Lando,S198
+1872,AUS,Unknown,Bay,Gelding,ISG,Not A Single Doubt,Time To Move,Canny Lad,S228
+1873,NZ,Unknown,Bay,Gelding,PPG,Darci Brahma,Sweet Caroline,Lake Coniston,V024
+1874,AUS,Unknown,Chestnut,Gelding,PPG,Not A Single Doubt,Dark Topaze,Fuji Kiseki,P310
+1875,AUS,Unknown,Bay,Gelding,ISG,Fastnet Rock,Kaimana,Tale Of The Cat,V321
+1876,NZ,Unknown,Bay,Gelding,PPG,Keeper,Lypsac,Sackford,N060
+1877,IRE,Unknown,Bay,Gelding,PP,Royal Applause,Just Julie,Gulch,P321
+1878,NZ,Unknown,Grey,Gelding,PPG,Mastercraftsman,Golden Gamble,Oregon,T230
+1879,GB,Unknown,Chestnut,Gelding,PP,Fraam,Reamzafonic,Grand Lodge,K132
+1880,NZ,6,Bay,Gelding,PPG,Falkirk,Sorbello,Golan,A125
+1881,AUS,Unknown,Chestnut,Gelding,PPG,Happy Giggle,Out There,Marwina,A255
+1882,IRE,Unknown,Grey,Gelding,PP,Verglas,Ms Bossy Boots,Grand Slam,T152
+1883,NZ,Unknown,Brown,Gelding,PPG,Bullbars,Senorita Rosay,Senor Pete,A266
+1884,IRE,Unknown,Bay,Gelding,PP,Hannouma,Spark Sept,Septieme Ciel,P126
+1885,AUS,Unknown,Bay,Gelding,PP,Oratorio,Kirra Beach,Scenic,T257
+1886,AUS,Unknown,Bay,Gelding,PP,Turffontein,Cloudcatcher,Catcher In The Rye,V361
+1887,NZ,Unknown,Bay,Gelding,PP,Don Eduardo,Just Polly,O' Reilly,T378
+1888,JPN,Unknown,Dark Bay,Gelding,PPG,Kane Hekili,Eureka Chan,Gold Allure,A020
+1889,AUS,Unknown,Bay,Gelding,PP,California Dane,Carnebelle,Carnegie,V071
+1890,GB,Unknown,Bay,Gelding,PP,Intikhab,Don't Tell Mum,Dansili,N253
+1891,NZ,Unknown,Bay,Gelding,PPG,Stravinsky,Springburn,Soviet Lad,P393
+1892,AUS,Unknown,Bay,Gelding,PPG,Starcraft,Accomplishment,Flying Spur,A259
+1893,AUS,Unknown,Bay,Gelding,PP,God's Own,La Rev,Mr Henrysee,P102
+1894,AUS,Unknown,Brown,Gelding,PPG,Face Value,Saintly Halo,Don't Say Halo,M017
+1895,AUS,Unknown,Bay,Gelding,PPG,Lucky Owners,Rich N Prestigious,Sadler's Wells,V284
+1896,NZ,Unknown,Bay,Gelding,PPG,Keeper,Glocca Morra,Oak Ridge,M390
+1897,IRE,Unknown,Bay,Gelding,PP,Oratorio,Faraday Light,Rainbow Quest,T222
+1898,NZ,Unknown,Bay,Gelding,PP,Zabeel,Salsa,O'Reilly,V058
+1899,AUS,Unknown,Chestnut,Gelding,PPG,Catbird,Mer Du Sud,Bluebird,M030
+1900,AUS,Unknown,Bay,Gelding,PPG,Domesday,Hula Moonlight,Black Minnaloushe,S058
+1901,NZ,8,Bay,Gelding,PP,Zabeel,Lacada,Giant's Causeway,T391
+1902,NZ,Unknown,Bay,Gelding,PP,Rip Van Winkle,Medrano,General Nediym,A095
+1903,NZ,Unknown,Bay,Gelding,PP,Elusive City,Bellamina,O'Reilly,T226
+1904,NZ,Unknown,Bay,Gelding,PPG,Danroad,Verna,Al Akbar,P198
+1905,USA,Unknown,Bay,Gelding,PPG,Yes It's True,Aucilla,Relaunch,T253
+1906,NZ,Unknown,Bay,Gelding,PPG,Keeper,Kirin Belle,McGinty,T229
+1907,AUS,6,Bay,Gelding,PPG,Commands,Gemadaily,Strategic,V385
+1908,NZ,Unknown,Bay,Gelding,PP,Bachelor Duke,Bianca Bay,Bianconi,V372
+1909,USA,Unknown,Bay,Gelding,PP,Yankee Gentleman,Kamaal,Irgun,N142
+1910,NZ,Unknown,Brown,Gelding,PP,Bachelor Duke,Tithe,Maroof,A286
+1911,AUS,Unknown,Bay,Gelding,PP,Exceed And Excel,Regal Kiss,Royal Academy,S160
+1912,AUS,Unknown,Bay,Gelding,PPG,Exceed And Excel,Bella Reina,Bite The Bullet,S286
+1913,NZ,Unknown,Chestnut,Gelding,PPG,Towkay,Wake Up Suzie,Hereward The Wake,N139
+1914,NZ,Unknown,Bay,Gelding,ISG,Pins,Glitzy,O'Reilly,N342
+1915,AUS,Unknown,Bay,Gelding,PPG,Fastnet Rock,Santoya,College Chapel,M414
+1916,FR,Unknown,Bay,Gelding,VIS,Linngari,Garlinote,Poliglote,A616
+1917,AUS,Unknown,Bay,Gelding,ISG,Bernardini,La Sizeranne,Stravinsky,S335
+1918,JPN,Unknown,Bay,Horse,VIS,Deep Impact,Star Isle,Rock Of Gibraltar,V601
+1919,AUS,Unknown,Bay,Gelding,PP,More Than Ready,Sequential,Lion Hunter,P440
+1920,NZ,Unknown,Brown,Gelding,PPG,Bertolini,Full Of Class,Grosvenor,M026
+1921,NZ,Unknown,Bay,Gelding,PPG,Darci Brahma,It's All About Her,Langfuhr,T259
+1922,NZ,Unknown,Bay,Gelding,PPG,Iffraaj,Snowdonia,Peintre Celebre,V033
+1923,AUS,Unknown,Bay,Gelding,PP,Al Maher,Ilhaam,Secret Savings,T370
+1924,AUS,Unknown,Bay,Gelding,PPG,Danerich,Pentatonic,Pentire,S203
+1925,AUS,Unknown,Bay,Gelding,PPG,Manhattan Rain,Jennifer Ann,Flying Spur,V346
+1926,IRE,Unknown,Bay,Gelding,PP,Exceed And Excel,Shepherdia,Pivotal,A110
+1927,NZ,Unknown,Bay,Gelding,PP,Swiss Ace,Princess Carolina,More Than Ready,V342
+1928,USA,Unknown,Chestnut,Gelding,PP,Kitten's Joy,Steaming Home,Salt Lake,T199
+1929,NZ,Unknown,Chestnut,Gelding,PP,Swiss Ace,Poetic Music,Stravinsky,A042
+1930,NZ,Unknown,Bay,Gelding,PPG,General Nediym,Miss Debonair,Danehill,N053
+1931,AUS,Unknown,Bay,Gelding,PPG,Danerich,Metung Belle,Viscount,A006
+1932,AUS,Unknown,Bay,Gelding,PP,Beautiful Crown,Fraische,Fraar,M298
+1933,NZ,Unknown,Bay,Gelding,PP,O'Reilly,Corsica,Centaine,L276
+1934,FR,Unknown,Bay,Gelding,PP,Kavafi,Vraona,Fantastic Light,S306
+1935,NZ,Unknown,Brown,Gelding,PPG,Black Minnaloushe,Mi Gazelle,Mi Preferido,K288
+1936,AUS,Unknown,Bay,Gelding,PP,Power Of Destiny,Concert Star,Pompeii Court,P376
+1937,AUS,Unknown,Grey,Gelding,PPG,Bradbury's Luck,Informative,Snippets,P048
+1938,NZ,Unknown,Bay,Gelding,VIS,Sufficient,Middlebrook,Royal Academy,A623
+1939,IRE,Unknown,Bay,Gelding,PPG,Canford Cliffs,Khaizarana,Alhaarth,V178
+1940,NZ,Unknown,Chestnut,Gelding,PPG,Bachelor Duke,Justawins,Stark South,T135
+1941,NZ,Unknown,Brown,Gelding,PPG,Pentire,Zablonde,Zabeel,A272
+1942,ITY,Unknown,Bay,Gelding,PP,Martino Alonso,Rosemary Girl,Celtic Swing,T309
+1943,IRE,Unknown,Bay,Gelding,PP,Lawman,Pivotal Role,Pivotal,P325
+1944,NZ,Unknown,Brown,Gelding,PP,Lonhro,Stella Maree,Magic Ring,L363
+1945,IRE,Unknown,Bay,Gelding,PP,Oratorio,Almaaseh,Dancing Brave,N175
+1946,NZ,Unknown,Bay,Gelding,PPG,Elusive City,Beautiful Unicorn,Faltaat,T005
+1947,NZ,Unknown,Bay,Gelding,PPG,Pins,Devilish Charm,Gold Brose,P028
+1948,IRE,Unknown,Bay,Gelding,PP,Clodovil,Jouel,Machiavellian,S409
+1949,AUS,Unknown,Chestnut,Gelding,PP,Shamardal,Confidential Miss,Rivotious,P174
+1950,AUS,Unknown,Bay,Gelding,PP,Canny Lad,Seduction Line,Testa Rossa,P426
+1951,IRE,Unknown,Grey,Gelding,PP,Dark Angel,Glamorous Air,Air Express,N382
+1952,AUS,Unknown,Chestnut,Gelding,ISG,Danehill Dancer,Lake Alexandrina,Bluebird,N346
+1953,AUS,Unknown,Bay,Gelding,PP,Fastnet Rock,Sidereus Nuncius,Galileo,T056
+1954,AUS,Unknown,Bay,Gelding,PPG,Hinchinbrook,Leyenda,Hurricane Sky,V387
+1955,AUS,Unknown,Grey,Gelding,PPG,Murtajill,Curtains,A P Jet,S210
+1956,IRE,Unknown,Bay,Horse,VIS,Galileo,Occupandiste,Kaldoun,V606
+1957,NZ,Unknown,Bay,Gelding,PPG,Golan,Ruffled Feathers,Oregon,P016
+1958,NZ,Unknown,Bay,Gelding,PPG,Savabeel,Mi Centie,Centaine,N138
+1959,AUS,Unknown,Bay,Gelding,PP,I Am Invincible,Sweet Maggie,Danehill Dancer,T381
+1960,IRE,Unknown,Grey,Gelding,PP,Lope de Vega,Mundus Novus,Unbridled's Song,V172
+1961,AUS,Unknown,Bay,Gelding,PPG,Fastnet Rock,Black Mamba,Black Minnaloushe,A030
+1962,NZ,Unknown,Bay,Gelding,ISG,Pins,Zephyr O',O'Reilly,S229
+1963,AUS,Unknown,Bay,Gelding,PP,More Than Ready,Holidazzle,Flying Spur,P375
+1964,USA,Unknown,Grey,Roan,PP,Mizzen Mast,Great Connection,Dayjur,N447
+1965,IRE,6,Bay,Gelding,PP,Dandy Man,Royal Majestic,Tobougg,A157
+1966,AUS,Unknown,Bay,Gelding,PPG,Holy Roman Emperor,Skylark,Marscay,T069
+1967,AUS,Unknown,Brown,Gelding,PP,Commands,Chameleon,Encosta de Lago,A294
+1968,NZ,Unknown,Bay,Gelding,PP,Keeper,Inshelucky,Volksraad,P386
+1969,NZ,Unknown,Bay,Gelding,PPG,High Chaparral,Saint Cecile,Pompeii Court,S353
+1970,AUS,Unknown,Black,Gelding,PP,Clang,Mezentseva,Defecting Dancer,T371
+1971,AUS,Unknown,Chestnut,Gelding,PP,Jet Spur,Like The Wind,Deputy Governor,V197
+1972,NZ,Unknown,Chestnut,Gelding,PPG,Thorn Park,Opal,Sky Chase,T395
+1973,GB,Unknown,Chestnut,Gelding,PP,Medicean,Atiara,Pivotal,V168
+1974,NZ,Unknown,Bay,Gelding,PPG,Lucky Unicorn,Redzabetta,Centaine,M087
+1975,AUS,Unknown,Bay,Gelding,PPG,Exceed And Excel,Shiroko,Viscount,V386
+1976,IRE,Unknown,Bay,Gelding,PPG,Fastnet Rock,Mohican Princess,Shirley Heights,T192
+1977,AUS,Unknown,Chestnut,Colt,VIS,Hard Spun,Alharir,Jeune,V633
+1978,NZ,Unknown,Bay,Gelding,PPG,Nadeem,Loose Lill,Towkay,A056
+1979,AUS,Unknown,Bay,Gelding,PPG,Stratum,New Edition,Stormy Atlantic,V309
+1980,GB,Unknown,Chestnut,Gelding,PP,Byron,Queen Jean,Pivotal,N101
+1981,IRE,Unknown,Brown,Gelding,PPG,Rock Of Gibraltar,Amaya,Kingmambo,V050
+1982,NZ,Unknown,Bay,Gelding,PP,Rios,Danish Wedding,Danasinga,A263
+1983,NZ,Unknown,Bay,Gelding,PP,Fully Fledged,Lake Letitia,Belong To Me,S297
+1984,FR,Unknown,Brown,Gelding,PP,Chichicastenango,Bubble Back,Grand Lodge,N369
+1985,IRE,Unknown,Bay,Gelding,PP,Byron,Reunion,Be My Guest,M148
+1986,GB,Unknown,Bay,Gelding,PPG,Medicean,Red Blossom,Green Desert,P407
+1987,NZ,Unknown,Bay,Gelding,PP,Thewayyouare,Brilliant Kiwi,Brilliance,T382
+1988,IRE,6,Bay,Gelding,PP,Approve,Cuilaphuca,Danetime,A235
+1989,GB,Unknown,Chestnut,Gelding,ISG,Exceed And Excel,Arian Da,Superlative,S226
+1990,NZ,Unknown,Chestnut,Gelding,PPG,Iffraaj,Centaurea,Centaine,V030
+1991,NZ,Unknown,Bay,Gelding,PP,Lucky Unicorn,Eagle Feather,Quest For Fame,N410
+1992,AUS,Unknown,Brown,Gelding,PPG,Street Sense,Gold Lyric,Johannesburg,T045
+1993,NZ,Unknown,Bay,Gelding,PPG,Zabeel,Pedante,Danehill,N218
+1994,ITY,Unknown,Bay,Gelding,PP,Mujahid,Occhi Di Giada,Shantou,P328
+1995,AUS,Unknown,Bay,Gelding,PPG,Bel Esprit,Swinging Feeling,Danasinga,A026
+1996,NZ,Unknown,Bay,Gelding,PP,Tavistock,Wahaha,Stravinsky,A099
+1997,AUS,Unknown,Chestnut,Gelding,PP,Fomalhaut,Still The One,Perugino,N421
+1998,NZ,Unknown,Bay,Gelding,PP,Postponed,Danvers,Danzero,T271
+1999,AUS,Unknown,Bay,Gelding,PPG,Stryker,Dee Six,Real Quiet,V224
+2000,AUS,Unknown,Bay,Gelding,PPG,Manhattan Rain,Alexandrova,Snitzel,A054
+2001,IRE,Unknown,Bay,Gelding,PP,Alhaarth,Erstwhile,Desert Prince,N099
+2002,AUS,Unknown,Bay,Gelding,PPG,Mossman,Ashkaleta,Ashkalani,S322
+2003,AUS,Unknown,Bay,Gelding,PPG,Statue Of Liberty,Rachael's Pride,Akhadan,P349
+2004,AUS,Unknown,Bay,Gelding,PPG,Fastnet Rock,Intierra,Zabeel,V064
+2005,AUS,Unknown,Brown,Gelding,PP,More Than Ready,Yarralumla,Grand Lodge,P441
+2006,GER,Unknown,Bay,Gelding,ISG,Soldier Hollow,Desabina,Big Shuffle,S221
+2007,AUS,Unknown,Bay,Gelding,PP,Nicconi,Don't Count On It,Rock Of Gibraltar,V252
+2008,AUS,Unknown,Chestnut,Gelding,PP,Host,Soorena,Encosta de Lago,P439
+2009,IRE,Unknown,Bay,Gelding,PP,Kodiac,Dancing Prize,Sadler's Wells,T413
+2010,AUS,Unknown,Bay,Gelding,PPG,Any Given Saturday,Gold 'N' Silk,Johannesburg,P283
+2011,AUS,Unknown,Bay,Gelding,PP,Fastnet Rock,Lute,Stravinsky,N264
+2012,IRE,Unknown,Bay,Gelding,PPG,Holy Roman Emperor,Open Book,Mark Of Esteem,V179
+2013,AUS,Unknown,Chestnut,Gelding,ISG,Choisir,Russian Classic,Stravinsky,V314
+2014,NZ,Unknown,Bay,Gelding,PPG,Towkay,Melanie,Al Akbar,S096
+2015,NZ,6,Bay,Gelding,PPG,O'Reilly,Flutter,Savabeel,A127
+2016,NZ,Unknown,Bay,Brown,PPG,Savabeel,Lap Dancer,Danasinga,V276
+2017,GB,Unknown,Bay,Horse,VIS,Dansili,Dance Routine,Sadler's Wells,T615
+2018,GER,Unknown,Chestnut,Gelding,PP,Paolini,Hollywood Love,Lomitas,M126
+2019,NZ,Unknown,Bay,Gelding,PPG,Pins,Like Me Wild,Cape Cross,T384
+2020,NZ,Unknown,Bay,Gelding,PPG,Align,Sally's Masque,Hunza Court,S011
+2021,AUS,Unknown,Bay,Gelding,PPG,Zariz,Shaanxi,Yallah Prince,P065
+2022,NZ,6,Bay,Gelding,PPG,Darci Brahma,Leigh Valley,Bianconi,A123
+2023,GB,Unknown,Chestnut,Gelding,PP,Compton Place,Hasten,Lear Fan,P223
+2024,FR,Unknown,Bay,Colt,VIS,King's Best,Memoire,Sadler's Wells,V624
+2025,IRE,Unknown,Bay,Gelding,PP,Footstepsinthesand,Princess Serena,Unbridled's Song,T190
+2026,AUS,Unknown,Bay,Brown,PPG,Encosta de Lago,Diamond Jewel,Statoblest,P178
+2027,AUS,Unknown,Grey,Gelding,PP,Stratum,Rubicall,Rubiton,S282
+2028,USA,Unknown,Bay,Gelding,PP,Hat Trick,Asuncion,Powerscourt,A228
+2029,AUS,Unknown,Bay,Gelding,PPG,Duporth,Cassata,Viking Ruler,T024
+2030,NZ,Unknown,Bay,Gelding,PPG,Commands,Sing Song Girl,Generous,T405
+2031,AUS,Unknown,Bay,Gelding,ISG,Fastnet Rock,Sweet Emotion,Bering,T332
+2032,NZ,Unknown,Bay,Gelding,PPG,Perfectly Ready,Lacy Tops,Clay Hero,N432
+2033,IRE,Unknown,Bay,Gelding,PP,Elnadim,Dance Clear,Marju,P322
+2034,FR,Unknown,Black,Gelding,PP,Country Reel,Adeje Park,Night Shift,S408
+2035,AUS,Unknown,Bay,Gelding,PP,Casino Prince,Sovereign Miss,Made Of Gold,T234
+2036,IRE,Unknown,Bay,Gelding,PP,Dark Angel,Cover Girl,Common Grounds,T288
+2037,AUS,Unknown,Chestnut,Gelding,PPG,Pendragon,Cavita,Cadeaux Genereux,V259
+2038,AUS,Unknown,Bay,Brown,PPG,Face Value,More Than Fair,Military Plume,L088
+2039,NZ,Unknown,Bay,Gelding,PP,Thorn Park,Richfield Rose,Crested Wave,V270
+2040,GER,Unknown,Bay,Gelding,PP,Areion,Goonda,Darshaan,A246
+2041,GB,Unknown,Bay,Gelding,PP,Sakhee's Secret,Coffee Time,Efisio,T206
+2042,AUS,Unknown,Bay,Gelding,PP,Jet Spur,Coed,Honor Grades,S360
+2043,IRE,Unknown,Grey,Gelding,PP,Mastercraftsman,Lady Hawkfield,Hawk Wing,V113
+2044,AUS,Unknown,Bay,Gelding,PP,Al Samer,Angie Baby,Ali-Royal,N143
+2045,AUS,Unknown,Bay,Gelding,PP,Untouchable,Honora,Gold Carat,P105
+2046,AUS,Unknown,Chestnut,Gelding,PP,Lope de Vega,Isola Di Capri,Galileo,A023
+2047,NZ,Unknown,Bay,Gelding,PP,Falkirk,Cadence,Rhythm,T179
+2048,IRE,Unknown,Chestnut,Gelding,PPG,Danehill Dancer,Alimony,Groom Dancer,L133
+2049,NZ,Unknown,Bay,Gelding,PPG,Thorn Park,Catalina Lady,Flying Spur,S305
+2050,GB,Unknown,Bay,Gelding,PPG,Exceed And Excel,Lucky Token,Key Of Luck,P042
+2051,AUS,Unknown,Bay,Gelding,PPG,Exceed And Excel,Truly Wicked,Rubiton,N241
+2052,AUS,Unknown,Bay,Gelding,PP,Wanted,Ripping Nic,Encosta de Lago,V199
+2053,IRE,Unknown,Bay,Gelding,PP,Holy Roman Emperor,Goldendale,Ali-Royal,S411
+2054,AUS,Unknown,Bay,Gelding,PPG,Stratum,Hootandance,Victory Dance,P087
+2055,NZ,Unknown,Chestnut,Gelding,PP,Castledale,Capital Gold,Gold Brose,T314
+2056,AUS,Unknown,Bay,Gelding,PPG,Bel Esprit,Hypatia,Distant Music,T304
+2057,IRE,Unknown,Bay,Gelding,PP,Bushranger,Alexander Confranc,Magical Wonder,S311
+2058,AUS,Unknown,Bay,Gelding,PPG,Onemorenomore,Sienna Star,Choisir,T320
+2059,NZ,Unknown,Brown,Gelding,ISG,O'Reilly,Paolino,Housebuster,M329
+2060,GB,Unknown,Chestnut,Gelding,ISG,Bahamian Bounty,Hoh Chi Min,Efisio,S218
+2061,GB,Unknown,Bay,Colt,PP,Zamindar,Solar Pursuit,Galileo,A232
+2062,IRE,Unknown,Bay,Gelding,ISG,Mastercraftsman,Flamenco Red,Warning,T325
+2063,AUS,Unknown,Bay,Brown,PPG,Five Dynasties,Silver Tune,Palace Music,T066
+2064,AUS,Unknown,Bay,Gelding,PPG,Commands,From The Cellar,Hennessy,P286
+2065,IRE,Unknown,Bay,Gelding,PP,Teofilo,Hairicin,Hurricane Run,A133
+2066,AUS,Unknown,Bay,Gelding,PPG,Bernardini,Reggae,Danehill,S175
+2067,AUS,Unknown,Chestnut,Gelding,PP,Written Tycoon,Talkin' About,Commands,T302
+2068,AUS,Unknown,Bay,Gelding,PPG,Fastnet Rock,Mariana,Marscay,N442
+2069,NZ,Unknown,Bay,Gelding,PPG,Bachelor Duke,Miss Relentless,Montjeu,V096
+2070,AUS,Unknown,Chestnut,Gelding,PP,Testa Rossa,Shashzaya,Ashkalani,P253
+2071,NZ,Unknown,Bay,Gelding,PP,Elusive City,Bygrosve,Grosvenor,V263
+2072,AUS,Unknown,Bay,Gelding,PPG,Smart Missile,Zabelka,Zabeel,A153
+2073,NZ,Unknown,Bay,Gelding,PPG,Alamosa,Shezasweetie,King Of Kings,T204
+2074,NZ,Unknown,Bay,Gelding,PPG,Darci Brahma,Tempestra,O'Reilly,N275
+2075,NZ,Unknown,Chestnut,Gelding,PP,Falkirk,Pink Samurai,Volksraad,T237
+2076,AUS,Unknown,Bay,Gelding,PPG,Hinchinbrook,Truly Kissed,Carnegie,V101
+2077,IRE,Unknown,Bay,Gelding,PP,Oasis Dream,Ebadiyla,Sadler's Wells,T112
+2078,NZ,Unknown,Bay,Gelding,PP,Not A Single Doubt,Miss Elusive,Elusive Quality,P278
+2079,NZ,8,Bay,Gelding,PPG,Postponed,Bislieri,Encosta de Lago,T262
+2080,AUS,Unknown,Grey,Gelding,PP,Refuse To Bend,Alaana's Song,Unbridled's Song,P046
+2081,IRE,Unknown,Bay,Colt,PP,Rock Of Gibraltar,Portentous,Selkirk,T102
+2082,AUS,7,Bay,Gelding,PP,Fath,Jeunes Knight,Jeune,A137
+2083,NZ,Unknown,Bay,Gelding,PP,Danroad,Strictly Maternal,O'Reilly,S296
+2084,NZ,Unknown,Bay,Gelding,ISG,High Chaparral,Golden Gamble,Oregon,P240
+2085,GB,Unknown,Bay,Gelding,PP,Showcasing,Lalectra,King Charlemagne,T289
+2086,AUS,Unknown,Bay,Gelding,PP,Not A Single Doubt,Umatilly,Umatilla,V002
+2087,JPN,Unknown,Grey,Mare,VIS,Deep Impact,Snow Style,White Muzzle,A619
+2088,NZ,Unknown,Bay,Gelding,PPG,O'Reilly,La Cent,Centaine,V294
+2089,IRE,Unknown,Grey,Gelding,PP,Strategic Prince,Eroica,Highest Honor,A134
+2090,AUS,5,Grey,Gelding,PPG,Denman,De Chorus,Unbridled's Song,A299
+2091,AUS,Unknown,Brown,Gelding,PPG,Lonhro,Indalama,Commands,S207
+2092,IRE,Unknown,Bay,Gelding,PP,Zanzibari,Bargouzine,Stravinsky,V110
+2093,NZ,Unknown,Grey,Gelding,PPG,Dalghar,Winds Of Conquest,Quest For Fame,V271
+2094,NZ,Unknown,Bay,Gelding,PP,Shinko King,Halos,My Halo,S394
+2095,NZ,Unknown,Bay,Gelding,PPG,Rip Van Winkle,Rainbow Echo,Spectrum,T393
+2096,IRE,Unknown,Grey,Gelding,PP,Verglas,Candelabra,Grand Lodge,T115
+2097,NZ,Unknown,Bay,Gelding,PP,Danroad,Seasonal Fun,Four Seasons,P275
+2098,AUS,Unknown,Chestnut,Gelding,PP,Hussonet,San Century,Centaine,N387
+2099,AUS,8,Brown,Gelding,PP,Lonhro,Valkyrie Diva,Jade Robbery,V077
+2100,AUS,Unknown,Brown,Gelding,ISG,Flying Spur,Ruski Rose,Nureyev,S222
+2101,AUS,Unknown,Bay,Gelding,PP,Haradasun,Tarlaquena,Don Eduardo,P345
+2102,AUS,Unknown,Bay,Gelding,PP,Easy Rocking,Brilliant Jewel,Danzero,P170
+2103,NZ,Unknown,Brown,Gelding,PPG,Keeper,She's Got Spunk,O'Reilly,T183
+2104,NZ,Unknown,Bay,Gelding,PPG,Ishiguru,Greenstone,Green Perfume,P082
+2105,IRE,Unknown,Bay,Gelding,PP,Dylan Thomas,Starship,Galileo,N186
+2106,NZ,Unknown,Bay,Gelding,PP,O'Reilly,Miami,Waikiki Star,P279
+2107,NZ,Unknown,Bay,Gelding,PP,Remind,Fancyaligndown,Align,V227
+2108,IRE,Unknown,Brown,Gelding,PP,Vale Of York,Telesina,Marju,V174
+2109,NZ,Unknown,Bay,Gelding,PPG,Castledale,Kistler,Entrepreneur,V097
+2110,GB,Unknown,Chestnut,Gelding,PP,Hawk Wing,Give A Whistle,Mujadil,N226
+2111,IRE,Unknown,Grey,Gelding,PP,Footstepsinthesand,Tipperary Honor,Highest Honor,P181
+2112,AUS,Unknown,Brown,Gelding,PP,Tale Of The Cat,Yeah Baby,Anabaa,K037
+2113,NZ,Unknown,Bay,Gelding,PPG,Iffraaj,Kerfuffle,Kaapstad,S132
+2114,NZ,Unknown,Bay,Gelding,PP,Darci Brahma,Staryn Glenn,Montjeu,N438
+2115,AUS,Unknown,Bay,Gelding,PPG,Fastnet Rock,Empress Jade,Encosta de Lago,T279
+2116,USA,Unknown,Dark Bay,Brown,ISG,Stormy Atlantic,Shiner's Sister,Mr Greeley,P367
+2117,AUS,7,Brown,Gelding,PP,Blackfriars,Line Of Flight,Bletchley Park,A022
+2118,AUS,Unknown,Bay,Gelding,PPG,Exceed And Excel,Loose Caboose,Success Express,S422
+2119,NZ,Unknown,Bay,Gelding,PPG,Librettist,Miss Cosimo,Giant's Causeway,P289
+2120,IRE,Unknown,Chestnut,Gelding,PP,Iffraaj,Bint Al Balad,Ahonoora,N013
+2121,USA,Unknown,Bay,Gelding,PP,Mizzen Mast,Geographic,Empire Maker,S145
+2122,NZ,Unknown,Bay,Gelding,PPG,Darci Brahma,Miss Raggedy Ann,Faltaat,A124
+2123,IRE,Unknown,Bay,Gelding,PPG,Royal Applause,Neve Lieve,Dubai Destination,S049
+2124,AUS,Unknown,Bay,Gelding,PPG,Holy Roman Emperor,Exact,Marauding,T130
+2125,JPN,Unknown,Bay,Horse,VIS,Sakura Bakushin O,Siyabona,Kingmambo,A601
+2126,AUS,Unknown,Bay,Gelding,PPG,Exceed And Excel,Allegra,Dehere,T305
+2127,IRE,Unknown,Bay,Gelding,PP,Invincible Spirit,Citron Presse,Lemon Drop Kid,T286
+2128,GB,Unknown,Chestnut,Gelding,PP,Medicean,Quadri,Polish Precedent,V405
+2129,NZ,Unknown,Bay,Gelding,PPG,Keeper,Ruby Keeler,Rhythm,M391
+2130,NZ,Unknown,Bay,Gelding,PPG,Volksraad,Christmas Eve,More Than Ready,S450
+2131,IRE,Unknown,Bay,Gelding,PPG,Holy Roman Emperor,Alicante,Marju,S114
+2132,AUS,Unknown,Bay,Gelding,PPG,Freeze,Sprung,Redoute's Choice,V006
+2133,IRE,Unknown,Bay,Gelding,PPG,Duke Of Marmalade,Sherifa,Monsun,S018
+2134,AUS,Unknown,Bay,Brown,VIS,Tale Of The Cat,Paris Perfume,Kurofune,A618
+2135,NZ,Unknown,Bay,Gelding,PPG,Darci Brahma,Boogie Nights,Galileo,A027
+2136,GER,Unknown,Chestnut,Horse,VIS,Halling,Estefania,Acatenango,T617
+2137,AUS,Unknown,Bay,Brown,PPG,Sebring,Imco Resource,Bluebird,V091
+2138,NZ,Unknown,Bay,Gelding,PPG,Tavistock,Sogno,Zabeel,V042
+2139,GB,Unknown,Bay,Gelding,PP,Compton Place,Floppie,Law Society,S434
+2140,AUS,Unknown,Bay,Gelding,PP,Fastnet Rock,Paint By Numbers,Peintre Celebre,A182
+2141,NZ,Unknown,Brown,Gelding,PPG,Lord Of Warriors,Ima Barbie Girl,Waikiki Star,K019
+2142,NZ,Unknown,Bay,Gelding,PP,Savabeel,Unearthed,Felix The Cat,N128
+2143,SAF,Unknown,Bay,Gelding,PP,Sail From Seattle,Circle Of Gold,Al Mufti,T117
+2144,NZ,7,Chestnut,Gelding,PP,Showcasing,Shades Of Silk,Thunder Gulch,V020
+2145,NZ,Unknown,Bay,Gelding,ISG,Shamardal,Twist My Heart,Dayjur,P364
+2146,AUS,Unknown,Bay,Gelding,PP,Magic Albert,Mollani,Marwina,S361
+2147,AUS,Unknown,Chestnut,Gelding,PPG,Host,Helogen,Helissio,T246
+2148,AUS,Unknown,Bay,Gelding,PPG,Ad Valorem,Snippets' Jewel,Snippets,T404
+2149,AUS,Unknown,Bay,Gelding,PP,Testa Rossa,Formal Combat,Fuji Kiseki,T077
+2150,NZ,Unknown,Bay,Gelding,PPG,Guillotine,Reflection,Thorn Park,T028
+2151,NZ,Unknown,Chestnut,Gelding,PPG,Pentire,Vel Canto,Danasinga,S303
+2152,NZ,Unknown,Bay,Gelding,PPG,Bachelor Duke,Ohgoditzher,Shinko Forest,S085
+2153,AUS,Unknown,Bay,Gelding,PPG,More Than Ready,Jujube,Encosta de Lago,A222
+2154,AUS,7,Chestnut,Gelding,PP,Husson,Ourkohinoor,King Cugat,V379
+2155,AUS,Unknown,Chestnut,Gelding,PP,King de Lago,Wasabi Miss,Fuji Kiseki,M407
+2156,IRE,Unknown,Bay,Gelding,ISG,Iffraaj,Homegrown,Mujadil,V320
+2157,GB,Unknown,Chestnut,Gelding,PPG,Dubawi,Hobby,Robellino,S272
+2158,NZ,Unknown,Chestnut,Gelding,PP,Pentire,Call Minder,Christmas Tree,P281
+2159,AUS,Unknown,Bay,Gelding,PPG,Northern Meteor,Russe Princesa,Fasliyev,S211
+2160,NZ,Unknown,Bay,Brown,PP,Savabeel,Ennerdale,Singspiel,V057
+2161,AUS,Unknown,Bay,Brown,PP,Lonhro,Ballet Society,Stravinsky,V338
